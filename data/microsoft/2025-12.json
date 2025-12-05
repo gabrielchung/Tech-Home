@@ -1,0 +1,114 @@
+{
+  "articles": [
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1182",
+      "title": "The Interaction Changes Everything: Treating AI Agents as Collaborators, Not Automation",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/the-interaction-changes-everything-treating-ai-agents-as-collaborators-not-automation/",
+      "published_at": "Wed, 03 Dec 2025 01:46:50 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Discover how treating AI agents as collaborators, not automation, transforms engineering workflows and accelerates complex projects</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/the-interaction-changes-everything-treating-ai-agents-as-collaborators-not-automation/\">The Interaction Changes Everything: Treating AI Agents as Collaborators, Not Automation</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1134",
+      "title": "Enhancing Code Quality at Scale with AI-Powered Code Reviews",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/enhancing-code-quality-at-scale-with-ai-powered-code-reviews/",
+      "published_at": "Mon, 14 Jul 2025 15:21:05 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Microsoft\u2019s AI-powered code review assistant has transformed pull request workflows by automating routine checks, suggesting improvements, and enabling conversational Q&#038;A, leading to faster PR completion, improved code quality, and enhanced developer onboarding. Its seamless integration and customizability have driven widespread adoption within Microsoft</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/enhancing-code-quality-at-scale-with-ai-powered-code-reviews/\">Enhancing Code Quality at Scale with AI-Powered Code Reviews</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1112",
+      "title": "How Microsoft Engineers Build AI: Learn about scalable RAG-enabled AI Apps",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/ai-in-action-how-to-build-scalable-rag-enabled-ai-apps/",
+      "published_at": "Mon, 03 Mar 2025 17:00:44 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>For developers, the emphasis on building intelligence into apps has never been clearer. Over the next three years, 92% of companies plan on investing in AI to achieve business outcomes like enhancing productivity and delivering better customer service. At Microsoft, developers and engineers are pushing the boundaries of AI at scale, crafting applications that harness [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/ai-in-action-how-to-build-scalable-rag-enabled-ai-apps/\">How Microsoft Engineers Build AI: Learn about scalable RAG-enabled AI Apps</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1087",
+      "title": "Dev Box Ready-To-Code Dev Box images template",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/dev-box-ready-to-code-dev-box-images-template/",
+      "published_at": "Wed, 11 Dec 2024 17:00:17 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Microsoft One Engineering System (1ES) team shares a sample for building Ready-To-Code Dev Box environments pre-configured with the necessary tools, repositories, and settings, ensuring consistency and reliability across teams.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/dev-box-ready-to-code-dev-box-images-template/\">Dev Box Ready-To-Code Dev Box images template</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1046",
+      "title": "Common annotated security keys",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/common-annotated-security-keys/",
+      "published_at": "Wed, 25 Sep 2024 18:50:15 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>In April 2021, GitHub announced changes to their security token format that significantly enhanced security. The improvement leveraged two straightforward techniques: a fixed signature in the generated token and a checksum &#8211; both of which are highly effective in eliminating false positives (noise) and false negatives (missed findings). Microsoft also implements these techniques widely in [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/common-annotated-security-keys/\">Common annotated security keys</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1012",
+      "title": "Managed DevOps Pools \u2013 The Origin Story",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/managed-devops-pools-the-origin-story/",
+      "published_at": "Thu, 18 Jul 2024 16:00:02 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Learn about how Microsoft's 1ES organization developed an internal service called \"1ES Hosted Pools\" to manage Microsoft's diverse Engineering system infrastructure and how it helped make significant improvements to productivity, cost savings, and security. This solution will soon be available as a third-party offering named \"Managed DevOps Pools\".</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/managed-devops-pools-the-origin-story/\">Managed DevOps Pools \u2013 The Origin Story</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=959",
+      "title": "Developing with Accessibility in Mind at Microsoft",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/developing-with-accessibility-in-mind-at-microsoft/",
+      "published_at": "Thu, 16 May 2024 13:00:04 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Celebrate the Global Accessibility Awareness Day GAAD by taking actionable and easy steps to build accessibility into your development life-cycle! Learn how  tools like Accessibility Insights &#038; Visual Studio can help find accessibility issues in development.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/developing-with-accessibility-in-mind-at-microsoft/\">Developing with Accessibility in Mind at Microsoft</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=910",
+      "title": "Copy-on-Write performance and debugging",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/copy-on-write-performance-and-debugging/",
+      "published_at": "Tue, 14 May 2024 20:25:59 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>This is a follow-up to our previous coverage of Dev Drive and copy-on-write (CoW) linking. See our previous articles from May 24, 2023, October 13, 2023, and November 2, 2023. Dev Drive was released in Windows 11 in October, 2023, and will be part of Windows Server 2025 this fall. Server 2025 and Windows 11 [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/copy-on-write-performance-and-debugging/\">Copy-on-Write performance and debugging</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=877",
+      "title": "How we built \u201cAsk Learn\u201d, the RAG-based knowledge service",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/",
+      "published_at": "Mon, 22 Apr 2024 18:41:48 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>My name is Bob Tabor and I\u2019m a member of Microsoft\u2019s Skilling organization. We create documentation and training content about Azure, developer tooling and languages, AI, Windows and much more hosted at Microsoft Learn. Our organization also develops and maintains the content publishing platform, the content hosting platform, the interactivity, and popular sites like Microsoft [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/\">How we built &#8220;Ask Learn&#8221;, the RAG-based knowledge service</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=843",
+      "title": "Enhancing reliability in Microsoft Fabric and Azure Synapse through load testing",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/enhancing-reliability-in-microsoft-fabric-and-azure-synapse-through-load-testing/",
+      "published_at": "Mon, 04 Mar 2024 18:00:35 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Microsoft has employed Azure Load Testing to enhance the reliability of Microsoft Fabric and Azure Synapse, ensuring they can handle high loads. Azure Synapse integrates various data analytics technologies, while Microsoft Fabric offers a full enterprise analytics solution. Through rigorous daily and weekly load testing, involving complex scenarios and extensive data sizes, Microsoft aims to identify and rectify potential issues, ensuring optimal performance. This testing, integrated within their development pipelines, supports continuous improvement, leverages Azure's scalability, and utilizes Power BI for detailed reporting, ultimately enhancing service reliability and user experience.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/enhancing-reliability-in-microsoft-fabric-and-azure-synapse-through-load-testing/\">Enhancing reliability in Microsoft Fabric and Azure Synapse through load testing</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    }
+  ]
+}

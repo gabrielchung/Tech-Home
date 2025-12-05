@@ -1,0 +1,114 @@
+{
+  "articles": [
+    {
+      "id": "https://github.blog/?p=92681",
+      "title": "How to use GitHub Copilot Spaces to debug issues faster",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/",
+      "published_at": "Thu, 04 Dec 2025 20:35:36 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Follow this step-by-step guide to learn how to debug your issues using GitHub Copilot Spaces and Copilot coding agent.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/\">How to use GitHub Copilot Spaces to debug issues faster</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92638",
+      "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/",
+      "published_at": "Wed, 03 Dec 2025 17:00:45 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/\">Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92596",
+      "title": "\u201cThe local-first rebellion\u201d: How Home Assistant became the most important project in your house",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/",
+      "published_at": "Tue, 02 Dec 2025 17:19:32 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Learn how one of GitHub\u2019s fastest-growing open source projects is redefining smart homes without the cloud.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/\">\u201cThe local-first rebellion\u201d: How Home Assistant became the most important project in your house</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92592",
+      "title": "How to orchestrate agents using mission control",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/",
+      "published_at": "Mon, 01 Dec 2025 17:00:00 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Run multiple Copilot agents from one place. Learn prompt techniques, how to spot drift early, and how to review agent work efficiently.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/\">How to orchestrate agents using mission control</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92606",
+      "title": "The ultimate gift guide for the developer in your life",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/",
+      "published_at": "Fri, 28 Nov 2025 13:08:56 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Finding the perfect gift for your favorite developer is easy with our top tips.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/\">The ultimate gift guide for the developer in your life</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92561",
+      "title": "Why developers still flock to Python: Guido van Rossum on readability, AI, and the future of programming",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/",
+      "published_at": "Tue, 25 Nov 2025 17:00:00 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Discover how Python changed developer culture\u2014and see why it keeps evolving.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/\">Why developers still flock to Python: Guido van Rossum on readability, AI, and the future of programming</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92573",
+      "title": "How GitHub\u2019s agentic security principles make our AI agents as secure as possible",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-githubs-agentic-security-principles-make-our-ai-agents-as-secure-as-possible/",
+      "published_at": "Tue, 25 Nov 2025 16:00:00 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Learn more about the agentic security principles that we use to build secure AI products\u2014and how you can apply them to your own agents.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-githubs-agentic-security-principles-make-our-ai-agents-as-secure-as-possible/\">How GitHub&#8217;s agentic security principles make our AI agents as secure as possible</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92538",
+      "title": "Developers still need the right to challenge junk patents",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/developers-still-need-the-right-to-challenge-junk-patents/",
+      "published_at": "Mon, 24 Nov 2025 16:00:00 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>Calling on developers, startups, and open source organizations to advocate against patent rules that would make it harder to challenge bad patents by the December 2 deadline.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/developers-still-need-the-right-to-challenge-junk-patents/\">Developers still need the right to challenge junk patents</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92496",
+      "title": "Evolving GitHub Copilot\u2019s next edit suggestions through custom model training",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/evolving-github-copilots-next-edit-suggestions-through-custom-model-training/",
+      "published_at": "Thu, 20 Nov 2025 18:02:21 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>GitHub Copilot\u2019s next edit suggestions just got faster, smarter, and more precise thanks to new data pipelines, reinforcement learning, and continuous model updates built for in-editor workflows.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/evolving-github-copilots-next-edit-suggestions-through-custom-model-training/\">Evolving GitHub Copilot\u2019s next edit suggestions through custom model training</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92457",
+      "title": "How we\u2019re making GitHub Copilot smarter with fewer tools",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/",
+      "published_at": "Wed, 19 Nov 2025 20:00:00 +0000",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "<p>We're using embedding-guided tool routing, adaptive clustering, and a streamlined 13-tool core to deliver faster experience in VS Code.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/\">How we\u2019re making GitHub Copilot smarter with fewer tools</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    }
+  ]
+}

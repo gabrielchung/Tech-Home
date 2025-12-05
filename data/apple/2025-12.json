@@ -1,0 +1,268 @@
+{
+  "articles": [
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12032025d",
+      "title": "tvOS 26.2 RC 2 (23K53)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12032025d",
+      "published_at": "Thu, 04 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12032025g",
+      "title": "Xcode 26.2 RC (17C48)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12032025g",
+      "published_at": "Wed, 03 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12032025a",
+      "title": "iOS 26.2 RC (23C52)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12032025a",
+      "published_at": "Wed, 03 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12032025b",
+      "title": "iPadOS 26.2 RC (23C52)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12032025b",
+      "published_at": "Wed, 03 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12032025c",
+      "title": "macOS 26.2 RC (25C56)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12032025c",
+      "published_at": "Wed, 03 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12032025e",
+      "title": "visionOS 26.2 RC (23N301)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12032025e",
+      "published_at": "Wed, 03 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12032025f",
+      "title": "watchOS 26.2 RC (23S303)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12032025f",
+      "published_at": "Wed, 03 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12032025h",
+      "title": "iOS 18.7.3 (22H217)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12032025h",
+      "published_at": "Wed, 03 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12032025i",
+      "title": "iPadOS 18.7.3 (22H217)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12032025i",
+      "published_at": "Wed, 03 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11182025b",
+      "title": "Icon Composer for Xcode 26.2 beta 2",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11182025b",
+      "published_at": "Tue, 18 Nov 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11112025a",
+      "title": "Xcode 26.1.1 (17B100)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11112025a",
+      "published_at": "Tue, 11 Nov 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11042025a",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11042025a",
+      "published_at": "Tue, 04 Nov 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11032025a",
+      "title": "iOS 26.1 (23B85)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11032025a",
+      "published_at": "Mon, 03 Nov 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11032025b",
+      "title": "iPadOS 26.1 (23B85)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11032025b",
+      "published_at": "Mon, 03 Nov 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11032025c",
+      "title": "macOS 26.1 (25B78)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11032025c",
+      "published_at": "Mon, 03 Nov 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11032025d",
+      "title": "tvOS 26.1 (23J582)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11032025d",
+      "published_at": "Mon, 03 Nov 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11032025e",
+      "title": "visionOS 26.1 (23N49)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11032025e",
+      "published_at": "Mon, 03 Nov 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11032025f",
+      "title": "watchOS 26.1 (23S37)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11032025f",
+      "published_at": "Mon, 03 Nov 2025 09:00:00 PST",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10292025a",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10292025a",
+      "published_at": "Wed, 29 Oct 2025 10:00:00 PDT",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10062025i",
+      "title": "Transporter 1.4",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10062025i",
+      "published_at": "Mon, 06 Oct 2025 10:00:00 PDT",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10062025h",
+      "title": "TestFlight 4.0",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10062025h",
+      "published_at": "Mon, 06 Oct 2025 10:00:00 PDT",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10012025a",
+      "title": "App Store Connect 3.1",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10012025a",
+      "published_at": "Wed, 01 Oct 2025 10:00:00 PDT",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10012025b",
+      "title": "App Store Connect API 4.1",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10012025b",
+      "published_at": "Wed, 01 Oct 2025 10:00:00 PDT",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "Download fileView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07292025g",
+      "title": "AirPods Firmware beta 4 (8A5324b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07292025g",
+      "published_at": "Tue, 29 Jul 2025 10:00:00 PDT",
+      "fetched_at": "2025-12-05T04:28:17.127815",
+      "tags": [],
+      "summary": "View installation instructions",
+      "notes": ""
+    }
+  ]
+}
