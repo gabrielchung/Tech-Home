@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Google Developers",
+    "url": "https://developers.googleblog.com/feeds/posts/default"
+  },
+  {
+    "name": "Microsoft Engineering",
+    "url": "https://devblogs.microsoft.com/engineering-at-microsoft/feed/"
+  },
+  {
+    "name": "Apple Developer News",
+    "url": "https://developer.apple.com/news/releases/rss/releases.rss"
+  },
+  {
+    "name": "GitHub Blog",
+    "url": "https://github.blog/feed/"
+  }
+]
