@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tech Home</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 1em;
+      background: #f9f9f9;
+      color: #111;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2em;
+    }
+    #controls {
+      display: flex;
+      gap: 1em;
+      margin-bottom: 2em;
+      flex-wrap: wrap;
+    }
+    #articles {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5em;
+    }
+    .article {
+      background: white;
+      padding: 1em;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .article h3 {
+      margin-top: 0;
+    }
+    .article a {
+      color: #1a0dab;
+      text-decoration: none;
+    }
+    .article a:hover {
+      text-decoration: underline;
+    }
+    .article .meta {
+      font-size: 0.85em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tech Home</h1>
+    <p>A curated archive of engineering articles — read, reflect, grow.</p>
+  </header>
+
+  <section id="controls">
+    <label for="feedSelect">Feed:</label>
+    <select id="feedSelect">
+      <option value="all">All</option>
+      <option value="google">Google</option>
+      <option value="microsoft">Microsoft</option>
+      <option value="apple">Apple</option>
+      <option value="github">GitHub</option>
+    </select>
+
+    <label for="monthSelect">Month:</label>
+    <select id="monthSelect">
+      <!-- Populated dynamically -->
+    </select>
+  </section>
+
+  <section id="articles">
+    <!-- Articles will appear here -->
+  </section>
+
+  <script>
+    const feedSelect = document.getElementById("feedSelect");
+    const monthSelect = document.getElementById("monthSelect");
+    const articlesSection = document.getElementById("articles");
+    const folderBase = "../data/";
+
+    // Try to detect available months by checking past 12 months
+    async function detectMonths(feed) {
+      const folder = feed === "all" ? "all" : feed;
+      const months = [];
+      const now = new Date();
+      for (let i = 0; i < 12; i++) {
+        const date = new Date(now.getFullYear(), now.getMonth() - i, 1);
+        const monthStr = `${date.getFullYear()}-${(date.getMonth()+1).toString().padStart(2,"0")}`;
+        const filePath = `${folderBase}${folder}/${monthStr}.json`;
+        try {
+          const res = await fetch(filePath);
+          if (res.ok) months.push(monthStr);
+        } catch(e) {
+          // File doesn't exist, skip
+        }
+      }
+      return months;
+    }
+
+    async function populateMonths() {
+      const feed = feedSelect.value;
+      monthSelect.innerHTML = "";
+      const months = await detectMonths(feed);
+      months.forEach(m => {
+        const opt = document.createElement("option");
+        opt.value = m;
+        opt.textContent = m;
+        monthSelect.appendChild(opt);
+      });
+    }
+
+    async function loadArticles() {
+      const feed = feedSelect.value;
+      const month = monthSelect.value;
+      const folder = feed === "all" ? "all" : feed;
+      const filePath = `${folderBase}${folder}/${month}.json`;
+
+      try {
+        const res = await fetch(filePath);
+        if (!res.ok) throw new Error("File not found");
+        const data = await res.json();
+        displayArticles(data.articles);
+      } catch (err) {
+        articlesSection.innerHTML = `<p>No articles found for this selection.</p>`;
+        console.error(err);
+      }
+    }
+
+    function displayArticles(articles) {
+      if (!articles.length) {
+        articlesSection.innerHTML = "<p>No articles found.</p>";
+        return;
+      }
+
+      articlesSection.innerHTML = "";
+      articles.forEach(a => {
+        const div = document.createElement("div");
+        div.className = "article";
+        div.innerHTML = `
+          <h3><a href="${a.url}" target="_blank">${a.title}</a></h3>
+          <div class="meta">${a.source} • ${a.published_at || "Unknown date"}</div>
+          <p>${a.summary || ""}</p>
+        `;
+        articlesSection.appendChild(div);
+      });
+    }
+
+    // Event listeners
+    feedSelect.addEventListener("change", async () => {
+      await populateMonths();
+      loadArticles();
+    });
+    monthSelect.addEventListener("change", loadArticles);
+
+    // Initial load
+    (async () => {
+      await populateMonths();
+      loadArticles();
+    })();
+  </script>
+</body>
+</html>
