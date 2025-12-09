@@ -219,6 +219,17 @@
       "tags": [],
       "summary": "Coral NPU is a full-stack platform for Edge AI, addressing performance, fragmentation, and user trust deficits. It's an AI-first architecture, prioritizing ML matrix engines, and offers a unified developer experience. Designed for ultra-low-power, always-on AI in wearables and IoT, it enables contextual awareness, audio/image processing, and user interaction with hardware-enforced privacy. Synaptics is the first partner to implement Coral NPU.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/mediatek-npu-and-litert-powering-the-next-generation-of-on-device-ai/",
+      "title": "MediaTek NPU and LiteRT: Powering the next generation of on-device AI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/mediatek-npu-and-litert-powering-the-next-generation-of-on-device-ai/",
+      "published_at": "",
+      "fetched_at": "2025-12-09T00:19:35.539316",
+      "tags": [],
+      "summary": "LiteRT and MediaTek are announcing the new LiteRT NeuroPilot Accelerator. This is a ground-up successor for the TFLite NeuroPilot delegate, bringing seamless deployment experience, state-of-the-art LLM support, and advanced performance to millions of devices worldwide.",
+      "notes": ""
     }
   ]
 }

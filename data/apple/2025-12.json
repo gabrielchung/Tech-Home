@@ -263,6 +263,28 @@
       "tags": [],
       "summary": "View installation instructions",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12082025b",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12082025b",
+      "published_at": "Mon, 08 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-09T00:19:35.539316",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12082025a",
+      "title": "iOS 26.2 RC 2 (23C54)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12082025a",
+      "published_at": "Mon, 08 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-09T00:19:35.539316",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }

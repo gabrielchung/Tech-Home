@@ -703,6 +703,50 @@
       "tags": [],
       "summary": "<p>We're using embedding-guided tool routing, adaptive clustering, and a streamlined 13-tool core to deliver faster experience in VS Code.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/\">How we\u2019re making GitHub Copilot smarter with fewer tools</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/mediatek-npu-and-litert-powering-the-next-generation-of-on-device-ai/",
+      "title": "MediaTek NPU and LiteRT: Powering the next generation of on-device AI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/mediatek-npu-and-litert-powering-the-next-generation-of-on-device-ai/",
+      "published_at": "",
+      "fetched_at": "2025-12-09T00:19:35.539316",
+      "tags": [],
+      "summary": "LiteRT and MediaTek are announcing the new LiteRT NeuroPilot Accelerator. This is a ground-up successor for the TFLite NeuroPilot delegate, bringing seamless deployment experience, state-of-the-art LLM support, and advanced performance to millions of devices worldwide.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12082025b",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12082025b",
+      "published_at": "Mon, 08 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-09T00:19:35.539316",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12082025a",
+      "title": "iOS 26.2 RC 2 (23C54)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12082025a",
+      "published_at": "Mon, 08 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-09T00:19:35.539316",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92692",
+      "title": "The new identity of a developer: What changes and what doesn\u2019t in the AI era",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/",
+      "published_at": "Mon, 08 Dec 2025 18:15:17 +0000",
+      "fetched_at": "2025-12-09T00:19:35.539316",
+      "tags": [],
+      "summary": "<p>Discover how advanced AI users are redefining software development\u2014shifting from code producers to strategic orchestrators\u2014through delegation, verification, and a new era of AI-fluent engineering.</p>\n<p>The post <a href=\"https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/\">The new identity of a developer: What changes and what doesn\u2019t in the AI era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
