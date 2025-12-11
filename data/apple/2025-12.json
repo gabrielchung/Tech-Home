@@ -285,6 +285,17 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12102025a",
+      "title": "TestFlight 4.1",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12102025a",
+      "published_at": "Wed, 10 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-11T00:20:18.618980",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
     }
   ]
 }

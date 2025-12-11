@@ -780,6 +780,28 @@
       "tags": [],
       "summary": "<p>AI can help you build faster than ever, but it can also produce bugs, issues, and problems. Use these strategies to keep your speed without losing control of your code.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/\">Speed is nothing without control: How to keep quality high in the AI era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/pick-up-exactly-where-you-left-off-with-session-management-in-gemini-cli/",
+      "title": "Pick up exactly where you left off with Session Management in Gemini CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/pick-up-exactly-where-you-left-off-with-session-management-in-gemini-cli/",
+      "published_at": "",
+      "fetched_at": "2025-12-11T00:20:18.618980",
+      "tags": [],
+      "summary": "Gemini CLI's new automatic **Session Management** (v0.20.0+) saves your conversation history, tool outputs, and reasoning, providing project-specific context. Resume easily using the **Interactive Session Browser** (`/resume`) or command-line flags (`--resume`). This feature ensures you never lose your work state, capturing prompts, tool execution details, and usage stats. Customize history with cleanup policies in `settings.json`.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12102025a",
+      "title": "TestFlight 4.1",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12102025a",
+      "published_at": "Wed, 10 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-11T00:20:18.618980",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
     }
   ]
 }
