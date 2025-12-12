@@ -252,6 +252,17 @@
       "tags": [],
       "summary": "Gemini CLI's new automatic **Session Management** (v0.20.0+) saves your conversation history, tool outputs, and reasoning, providing project-specific context. Resume easily using the **Interactive Session Browser** (`/resume`) or command-line flags (`--resume`). This feature ensures you never lose your work state, capturing prompts, tool execution details, and usage stats. Customize history with cleanup policies in `settings.json`.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/building-agents-with-the-adk-and-the-new-interactions-api/",
+      "title": "Building agents with the ADK and the new Interactions API",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/building-agents-with-the-adk-and-the-new-interactions-api/",
+      "published_at": "",
+      "fetched_at": "2025-12-12T00:20:11.508341",
+      "tags": [],
+      "summary": "The new Gemini Interactions API enables stateful, multi-turn AI agent workflows, providing a single interface for raw models and the Gemini Deep Research Agent. It can be integrated with existing ADK systems as a superior inference engine with simplified state management, or used as a transparent remote A2A agent via InteractionsApiTransport, allowing seamless expansion of multi-agent systems with minimal refactoring.",
+      "notes": ""
     }
   ]
 }

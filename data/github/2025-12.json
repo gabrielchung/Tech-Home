@@ -142,6 +142,28 @@
       "tags": [],
       "summary": "<p>AI can help you build faster than ever, but it can also produce bugs, issues, and problems. Use these strategies to keep your speed without losing control of your code.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/\">Speed is nothing without control: How to keep quality high in the AI era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92762",
+      "title": "Let\u2019s talk about GitHub Actions",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/product-news/lets-talk-about-github-actions/",
+      "published_at": "Thu, 11 Dec 2025 17:40:52 +0000",
+      "fetched_at": "2025-12-12T00:20:11.508341",
+      "tags": [],
+      "summary": "<p>A look at how we rebuilt GitHub Actions\u2019 core architecture and shipped long-requested upgrades to improve performance, workflow flexibility, reliability, and everyday developer experience.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/lets-talk-about-github-actions/\">Let\u2019s talk about GitHub Actions</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92796",
+      "title": "GitHub Availability Report: November 2025",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-november-2025/",
+      "published_at": "Thu, 11 Dec 2025 16:03:53 +0000",
+      "fetched_at": "2025-12-12T00:20:11.508341",
+      "tags": [],
+      "summary": "<p>In November, we experienced three incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-november-2025/\">GitHub Availability Report: November 2025</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

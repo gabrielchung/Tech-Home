@@ -802,6 +802,39 @@
       "tags": [],
       "summary": "Download the appView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/building-agents-with-the-adk-and-the-new-interactions-api/",
+      "title": "Building agents with the ADK and the new Interactions API",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/building-agents-with-the-adk-and-the-new-interactions-api/",
+      "published_at": "",
+      "fetched_at": "2025-12-12T00:20:11.508341",
+      "tags": [],
+      "summary": "The new Gemini Interactions API enables stateful, multi-turn AI agent workflows, providing a single interface for raw models and the Gemini Deep Research Agent. It can be integrated with existing ADK systems as a superior inference engine with simplified state management, or used as a transparent remote A2A agent via InteractionsApiTransport, allowing seamless expansion of multi-agent systems with minimal refactoring.",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92762",
+      "title": "Let\u2019s talk about GitHub Actions",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/product-news/lets-talk-about-github-actions/",
+      "published_at": "Thu, 11 Dec 2025 17:40:52 +0000",
+      "fetched_at": "2025-12-12T00:20:11.508341",
+      "tags": [],
+      "summary": "<p>A look at how we rebuilt GitHub Actions\u2019 core architecture and shipped long-requested upgrades to improve performance, workflow flexibility, reliability, and everyday developer experience.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/lets-talk-about-github-actions/\">Let\u2019s talk about GitHub Actions</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92796",
+      "title": "GitHub Availability Report: November 2025",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-november-2025/",
+      "published_at": "Thu, 11 Dec 2025 16:03:53 +0000",
+      "fetched_at": "2025-12-12T00:20:11.508341",
+      "tags": [],
+      "summary": "<p>In November, we experienced three incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-november-2025/\">GitHub Availability Report: November 2025</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
