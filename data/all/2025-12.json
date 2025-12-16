@@ -967,6 +967,83 @@
       "tags": [],
       "summary": "<p>We envision the future of AI-enabled tooling to look like near-effortless engineering for sustainability. We call it Continuous Efficiency.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/\">The future of AI-powered software optimization (and how it can help your team)</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/",
+      "title": "Introducing A2UI: An open project for agent-driven interfaces",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/introducing-a2ui-an-open-project-for-agent-driven-interfaces/",
+      "published_at": "",
+      "fetched_at": "2025-12-16T00:20:41.579998",
+      "tags": [],
+      "summary": "A2UI is an open-source project for agent-driven, cross-platform, and generative UI. It provides a secure, declarative data format for agents to compose bespoke interfaces from a trusted component catalog, allowing for native styling and incremental updates. Designed for the multi-agent mesh (A2A), it offers a framework-agnostic solution to safely render remote agent UIs, with integrations in AG UI, Flutter's GenUI SDK, Opal, and Gemini Enterprise.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12152025a",
+      "title": "iOS 26.3 beta (23D5089e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12152025a",
+      "published_at": "Mon, 15 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-16T00:20:41.579998",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12152025b",
+      "title": "iPadOS 26.3 beta (23D5089e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12152025b",
+      "published_at": "Mon, 15 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-16T00:20:41.579998",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12152025c",
+      "title": "macOS 26.3 beta (25D5087f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12152025c",
+      "published_at": "Mon, 15 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-16T00:20:41.579998",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12152025d",
+      "title": "tvOS 26.3 beta (23K5585c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12152025d",
+      "published_at": "Mon, 15 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-16T00:20:41.579998",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12152025e",
+      "title": "visionOS 26.3 beta (23N5588c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12152025e",
+      "published_at": "Mon, 15 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-16T00:20:41.579998",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12152025f",
+      "title": "watchOS 26.3 beta (23S5586d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12152025f",
+      "published_at": "Mon, 15 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-16T00:20:41.579998",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
