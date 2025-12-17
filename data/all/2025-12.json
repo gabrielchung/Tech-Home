@@ -1044,6 +1044,28 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/developers-guide-to-multi-agent-patterns-in-adk/",
+      "title": "Developer\u2019s guide to multi-agent patterns in ADK",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/developers-guide-to-multi-agent-patterns-in-adk/",
+      "published_at": "",
+      "fetched_at": "2025-12-17T00:19:51.422424",
+      "tags": [],
+      "summary": "Learn how to build modular and reliable agentic applications using 8 effective multi-agent design patterns with the Agent Development Kit (ADK).",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=12152025g",
+      "title": "App Store Connect API 4.2",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=12152025g",
+      "published_at": "Mon, 15 Dec 2025 09:00:00 PST",
+      "fetched_at": "2025-12-17T00:19:51.422424",
+      "tags": [],
+      "summary": "Download fileView release notes",
+      "notes": ""
     }
   ]
 }

@@ -274,6 +274,17 @@
       "tags": [],
       "summary": "A2UI is an open-source project for agent-driven, cross-platform, and generative UI. It provides a secure, declarative data format for agents to compose bespoke interfaces from a trusted component catalog, allowing for native styling and incremental updates. Designed for the multi-agent mesh (A2A), it offers a framework-agnostic solution to safely render remote agent UIs, with integrations in AG UI, Flutter's GenUI SDK, Opal, and Gemini Enterprise.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/developers-guide-to-multi-agent-patterns-in-adk/",
+      "title": "Developer\u2019s guide to multi-agent patterns in ADK",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/developers-guide-to-multi-agent-patterns-in-adk/",
+      "published_at": "",
+      "fetched_at": "2025-12-17T00:19:51.422424",
+      "tags": [],
+      "summary": "Learn how to build modular and reliable agentic applications using 8 effective multi-agent design patterns with the Agent Development Kit (ADK).",
+      "notes": ""
     }
   ]
 }
