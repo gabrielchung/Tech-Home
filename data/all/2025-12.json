@@ -1066,6 +1066,28 @@
       "tags": [],
       "summary": "Download fileView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/gemini-3-flash-is-now-available-in-gemini-cli/",
+      "title": "Gemini 3 Flash is now available in Gemini CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/gemini-3-flash-is-now-available-in-gemini-cli/",
+      "published_at": "",
+      "fetched_at": "2025-12-18T00:17:40.842623",
+      "tags": [],
+      "summary": "Gemini 3 Flash is now available in Gemini CLI. It delivers Pro-grade coding performance with low latency and a lower cost, matching Gemini 3 Pro's SWE-bench Verified score of 76%. It significantly outperforms 2.5 Pro, improving auto-routing and agentic coding. It's ideal for high-frequency development tasks, handling complex code generation, large context windows (like processing 1,000 comment pull requests), and generating load-testing scripts quickly and reliably.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/introducing-agent-development-kit-for-typescript-build-ai-agents-with-the-power-of-a-code-first-approach/",
+      "title": "Introducing Agent Development Kit for TypeScript: Build AI Agents with the Power of a Code-First Approach",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/introducing-agent-development-kit-for-typescript-build-ai-agents-with-the-power-of-a-code-first-approach/",
+      "published_at": "",
+      "fetched_at": "2025-12-18T00:17:40.842623",
+      "tags": [],
+      "summary": "Introducing the Agent Development Kit (ADK) for TypeScript, an open-source framework for building complex, multi-agent AI systems with a code-first approach. Developers can define agent logic in TypeScript, applying traditional software development best practices (version control, testing). ADK offers end-to-end type safety, modularity, and deployment-agnostic functionality, leveraging the familiar TypeScript/JavaScript ecosystem.",
+      "notes": ""
     }
   ]
 }
