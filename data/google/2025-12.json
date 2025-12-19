@@ -307,6 +307,17 @@
       "tags": [],
       "summary": "Introducing the Agent Development Kit (ADK) for TypeScript, an open-source framework for building complex, multi-agent AI systems with a code-first approach. Developers can define agent logic in TypeScript, applying traditional software development best practices (version control, testing). ADK offers end-to-end type safety, modularity, and deployment-agnostic functionality, leveraging the familiar TypeScript/JavaScript ecosystem.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/conductor-introducing-context-driven-development-for-gemini-cli/",
+      "title": "Conductor: Introducing context-driven development for Gemini CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/conductor-introducing-context-driven-development-for-gemini-cli/",
+      "published_at": "",
+      "fetched_at": "2025-12-19T00:20:27.861578",
+      "tags": [],
+      "summary": "Conductor is a new Gemini CLI extension that promotes context-driven development. It shifts project context from chat logs to persistent Markdown files for formal specs and plans, ensuring AI agents adhere to project goals, style, and tech stack. This structured workflow is great for \"brownfield\" projects and teams, allowing for safe iteration and consistent code contributions while keeping the human developer in control.",
+      "notes": ""
     }
   ]
 }
