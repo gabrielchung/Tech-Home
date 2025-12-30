@@ -219,6 +219,17 @@
       "tags": [],
       "summary": "<p>An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/\">WRAP up your backlog with GitHub Copilot coding agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92971",
+      "title": "Bugs that survive the heat of continuous fuzzing",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/",
+      "published_at": "Mon, 29 Dec 2025 22:01:14 +0000",
+      "fetched_at": "2025-12-30T00:20:16.994815",
+      "tags": [],
+      "summary": "<p>Learn why some long-enrolled OSS-Fuzz projects still contain vulnerabilities and how you can find them.</p>\n<p>The post <a href=\"https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/\">Bugs that survive the heat of continuous fuzzing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
