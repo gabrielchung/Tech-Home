@@ -1165,6 +1165,17 @@
       "tags": [],
       "summary": "<p>Learn why some long-enrolled OSS-Fuzz projects still contain vulnerabilities and how you can find them.</p>\n<p>The post <a href=\"https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/\">Bugs that survive the heat of continuous fuzzing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93097",
+      "title": "Agentic AI, MCP, and spec-driven development: Top blog posts of 2025",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/",
+      "published_at": "Tue, 30 Dec 2025 17:20:10 +0000",
+      "fetched_at": "2025-12-31T00:21:16.615386",
+      "tags": [],
+      "summary": "<p>Explore the GitHub Blog\u2019s top posts covering the biggest software development topics of the year.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/\">Agentic AI, MCP, and spec-driven development: Top blog posts of 2025</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
