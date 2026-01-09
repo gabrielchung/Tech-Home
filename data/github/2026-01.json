@@ -109,6 +109,17 @@
       "tags": [],
       "summary": "<p>MCP is moving to the Linux Foundation. Here's how that will affect developers.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/\">MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93132",
+      "title": "Why AI is pushing developers toward typed languages",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/",
+      "published_at": "Thu, 08 Jan 2026 22:25:54 +0000",
+      "fetched_at": "2026-01-09T00:20:56.319377",
+      "tags": [],
+      "summary": "<p>AI is settling the \u201ctyped vs. untyped\u201d debate by turning type systems into the safety net for code you didn\u2019t write yourself.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/\">Why AI is pushing developers toward typed languages</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

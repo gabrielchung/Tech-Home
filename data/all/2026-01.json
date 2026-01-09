@@ -802,6 +802,17 @@
       "tags": [],
       "summary": "A practical guide to debugging and profiling JAX on Cloud TPUs. It outlines core components (libtpu, JAX/jaxlib) and essential techniques. Tools covered include: Verbose Logging (via libtpu env vars), TPU Monitoring Library for performance metrics, tpu-info for real-time utilization, XLA HLO Dumps for compiler debugging, and the XProf suite for in-depth performance analysis.",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93132",
+      "title": "Why AI is pushing developers toward typed languages",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/",
+      "published_at": "Thu, 08 Jan 2026 22:25:54 +0000",
+      "fetched_at": "2026-01-09T00:20:56.319377",
+      "tags": [],
+      "summary": "<p>AI is settling the \u201ctyped vs. untyped\u201d debate by turning type systems into the safety net for code you didn\u2019t write yourself.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/\">Why AI is pushing developers toward typed languages</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
