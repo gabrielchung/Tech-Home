@@ -230,6 +230,17 @@
       "tags": [],
       "summary": "A practical guide to debugging and profiling JAX on Cloud TPUs. It outlines core components (libtpu, JAX/jaxlib) and essential techniques. Tools covered include: Verbose Logging (via libtpu env vars), TPU Monitoring Library for performance metrics, tpu-info for real-time utilization, XLA HLO Dumps for compiler debugging, and the XProf suite for in-depth performance analysis.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/",
+      "title": "Under the Hood: Universal Commerce Protocol (UCP)",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/",
+      "published_at": "",
+      "fetched_at": "2026-01-12T00:22:04.381545",
+      "tags": [],
+      "summary": "The Universal Commerce Protocol (UCP) is a new, open-source standard for agentic commerce, co-developed by Google and industry leaders. It establishes a common, secure language to connect consumer surfaces (like Gemini and AI Mode in Search) with business backends, enabling seamless shopping from product discovery to purchase. UCP simplifies integration for businesses, supports various payment providers, and is designed to power the next generation of conversational commerce experiences.",
+      "notes": ""
     }
   ]
 }

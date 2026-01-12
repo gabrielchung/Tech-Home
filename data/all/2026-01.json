@@ -824,6 +824,17 @@
       "tags": [],
       "summary": "<p>Out of more than 700 games submitted to Game Off 2025, these ten winners stand out for creativity, craft, and bold interpretations of the WAVES theme. All are free to play, with source code available to explore.</p>\n<p>The post <a href=\"https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/\">Light waves, rising tides, and drifting ships: Game Off 2025 winners</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/",
+      "title": "Under the Hood: Universal Commerce Protocol (UCP)",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/",
+      "published_at": "",
+      "fetched_at": "2026-01-12T00:22:04.381545",
+      "tags": [],
+      "summary": "The Universal Commerce Protocol (UCP) is a new, open-source standard for agentic commerce, co-developed by Google and industry leaders. It establishes a common, secure language to connect consumer surfaces (like Gemini and AI Mode in Search) with business backends, enabling seamless shopping from product discovery to purchase. UCP simplifies integration for businesses, supports various payment providers, and is designed to power the next generation of conversational commerce experiences.",
+      "notes": ""
     }
   ]
 }
