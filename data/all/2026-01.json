@@ -835,6 +835,83 @@
       "tags": [],
       "summary": "The Universal Commerce Protocol (UCP) is a new, open-source standard for agentic commerce, co-developed by Google and industry leaders. It establishes a common, secure language to connect consumer surfaces (like Gemini and AI Mode in Search) with business backends, enabling seamless shopping from product discovery to purchase. UCP simplifies integration for businesses, supports various payment providers, and is designed to power the next generation of conversational commerce experiences.",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01122026a",
+      "title": "iOS 26.3 beta 2 (23D5103d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01122026a",
+      "published_at": "Mon, 12 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01122026b",
+      "title": "iPadOS 26.3 beta2 (23D5103d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01122026b",
+      "published_at": "Mon, 12 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01122026c",
+      "title": "macOS 26.3 beta 2 (25D5101c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01122026c",
+      "published_at": "Mon, 12 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01122026d",
+      "title": "tvOS 26.3 beta 2 (23K5600b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01122026d",
+      "published_at": "Mon, 12 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01122026e",
+      "title": "visionOS 26.3 beta 2 (23N5602d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01122026e",
+      "published_at": "Mon, 12 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01122026f",
+      "title": "watchOS 26.3 beta 2 (23S5600d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01122026f",
+      "published_at": "Mon, 12 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93198",
+      "title": "Want better AI outputs? Try context engineering.",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/",
+      "published_at": "Mon, 12 Jan 2026 17:00:00 +0000",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "<p>Learn how custom instructions, reusable prompts, and custom agents help GitHub Copilot deliver more accurate results.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/\">Want better AI outputs? Try context engineering.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

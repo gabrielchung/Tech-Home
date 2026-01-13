@@ -351,6 +351,72 @@
       "tags": [],
       "summary": "View installation instructions",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01122026a",
+      "title": "iOS 26.3 beta 2 (23D5103d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01122026a",
+      "published_at": "Mon, 12 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01122026b",
+      "title": "iPadOS 26.3 beta2 (23D5103d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01122026b",
+      "published_at": "Mon, 12 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01122026c",
+      "title": "macOS 26.3 beta 2 (25D5101c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01122026c",
+      "published_at": "Mon, 12 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01122026d",
+      "title": "tvOS 26.3 beta 2 (23K5600b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01122026d",
+      "published_at": "Mon, 12 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01122026e",
+      "title": "visionOS 26.3 beta 2 (23N5602d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01122026e",
+      "published_at": "Mon, 12 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01122026f",
+      "title": "watchOS 26.3 beta 2 (23S5600d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01122026f",
+      "published_at": "Mon, 12 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-13T00:17:56.751012",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
