@@ -175,6 +175,28 @@
       "tags": [],
       "summary": "<p>Announcing GitHub Security Lab Taskflow Agent, an open source and collaborative framework for security research with AI.</p>\n<p>The post <a href=\"https://github.blog/security/community-powered-security-with-ai-an-open-source-framework-for-security-research/\">Community-powered security with AI: an open source framework for security research</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=92924",
+      "title": "Building an agentic memory system for GitHub Copilot",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/",
+      "published_at": "Thu, 15 Jan 2026 21:31:10 +0000",
+      "fetched_at": "2026-01-16T00:21:10.428650",
+      "tags": [],
+      "summary": "<p>Copilot\u2019s cross-agent memory system lets agents learn and improve across your development workflow, starting with coding agent, CLI, and code review.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/\">Building an agentic memory system for GitHub Copilot</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93309",
+      "title": "When protections outlive their purpose: A lesson on managing defense systems at scale",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/",
+      "published_at": "Thu, 15 Jan 2026 20:54:32 +0000",
+      "fetched_at": "2026-01-16T00:21:10.428650",
+      "tags": [],
+      "summary": "<p>User feedback led us to clean up outdated mitigations. See why observability and lifecycle management are critical for defense systems.</p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/\">When protections outlive their purpose: A lesson on managing defense systems at scale</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
