@@ -241,6 +241,17 @@
       "tags": [],
       "summary": "The Universal Commerce Protocol (UCP) is a new, open-source standard for agentic commerce, co-developed by Google and industry leaders. It establishes a common, secure language to connect consumer surfaces (like Gemini and AI Mode in Search) with business backends, enabling seamless shopping from product discovery to purchase. UCP simplifies integration for businesses, supports various payment providers, and is designed to power the next generation of conversational commerce experiences.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/a-guide-to-fine-tuning-functiongemma/",
+      "title": "A Guide to Fine-Tuning FunctionGemma",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/a-guide-to-fine-tuning-functiongemma/",
+      "published_at": "",
+      "fetched_at": "2026-01-17T00:19:39.370273",
+      "tags": [],
+      "summary": "FunctionGemma is a specialized AI model for function calling. This post explains why fine-tuning is key to resolving tool selection ambiguity (e.g., internal vs. Google search) and achieving ultra-specialization, transforming it into a strict, enterprise-compliant agent. A case study demonstrates the improved logic. It also introduces the \"FunctionGemma Tuning Lab,\" a no-code demo on Hugging Face Spaces, which streamlines the entire fine-tuning process for developers.",
+      "notes": ""
     }
   ]
 }

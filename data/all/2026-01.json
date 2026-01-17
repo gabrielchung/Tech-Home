@@ -967,6 +967,17 @@
       "tags": [],
       "summary": "<p>User feedback led us to clean up outdated mitigations. See why observability and lifecycle management are critical for defense systems.</p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/\">When protections outlive their purpose: A lesson on managing defense systems at scale</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/a-guide-to-fine-tuning-functiongemma/",
+      "title": "A Guide to Fine-Tuning FunctionGemma",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/a-guide-to-fine-tuning-functiongemma/",
+      "published_at": "",
+      "fetched_at": "2026-01-17T00:19:39.370273",
+      "tags": [],
+      "summary": "FunctionGemma is a specialized AI model for function calling. This post explains why fine-tuning is key to resolving tool selection ambiguity (e.g., internal vs. Google search) and achieving ultra-specialization, transforming it into a strict, enterprise-compliant agent. A case study demonstrates the improved logic. It also introduces the \"FunctionGemma Tuning Lab,\" a no-code demo on Hugging Face Spaces, which streamlines the entire fine-tuning process for developers.",
+      "notes": ""
     }
   ]
 }
