@@ -978,6 +978,28 @@
       "tags": [],
       "summary": "FunctionGemma is a specialized AI model for function calling. This post explains why fine-tuning is key to resolving tool selection ambiguity (e.g., internal vs. Google search) and achieving ultra-specialization, transforming it into a strict, enterprise-compliant agent. A case study demonstrates the improved logic. It also introduces the \"FunctionGemma Tuning Lab,\" a no-code demo on Hugging Face Spaces, which streamlines the entire fine-tuning process for developers.",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93282",
+      "title": "AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/",
+      "published_at": "Tue, 20 Jan 2026 19:52:50 +0000",
+      "fetched_at": "2026-01-21T00:21:59.902074",
+      "tags": [],
+      "summary": "<p>Learn how we are using the newly released GitHub Security Lab Taskflow Agent to triage categories of vulnerabilities in GitHub Actions and JavaScript projects.</p>\n<p>The post <a href=\"https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/\">AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93251",
+      "title": "Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/application-development/context-windows-plan-agent-and-tdd-what-i-learned-building-a-countdown-app-with-github-copilot/",
+      "published_at": "Tue, 20 Jan 2026 17:00:00 +0000",
+      "fetched_at": "2026-01-21T00:21:59.902074",
+      "tags": [],
+      "summary": "<p>Learn how I managed context to keep Copilot focused, used the Plan agent to sharpen vague requirements, and required Test Driven Development practices to catch bugs before users.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/application-development/context-windows-plan-agent-and-tdd-what-i-learned-building-a-countdown-app-with-github-copilot/\">Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
