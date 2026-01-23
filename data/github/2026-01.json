@@ -230,6 +230,17 @@
       "tags": [],
       "summary": "<p>Run tests, fix code, and get support\u2014right in your workflow. Stay focused and let Copilot handle the busywork.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-github-copilot-cli/\">A cheat sheet to slash commands in GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93399",
+      "title": "Build an agent into any app with the GitHub Copilot SDK",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/",
+      "published_at": "Thu, 22 Jan 2026 15:01:44 +0000",
+      "fetched_at": "2026-01-23T00:21:25.512598",
+      "tags": [],
+      "summary": "<p>Now in technical preview, the GitHub Copilot SDK can plan, invoke tools, edit files, and run commands as a programmable layer you can use in any application. </p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/\">Build an agent into any app with the GitHub Copilot SDK</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
