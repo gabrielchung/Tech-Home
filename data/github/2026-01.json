@@ -241,6 +241,17 @@
       "tags": [],
       "summary": "<p>Now in technical preview, the GitHub Copilot SDK can plan, invoke tools, edit files, and run commands as a programmable layer you can use in any application. </p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/\">Build an agent into any app with the GitHub Copilot SDK</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93447",
+      "title": "Power agentic workflows in your terminal with GitHub Copilot CLI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/",
+      "published_at": "Mon, 26 Jan 2026 18:54:49 +0000",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "<p>Explore the GitHub Copilot CLI and try interacting with Copilot directly from your terminal.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/\">Power agentic workflows in your terminal with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

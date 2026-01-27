@@ -417,6 +417,193 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026l",
+      "title": "iOS 26.3 beta 3 (23D5114d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026l",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026m",
+      "title": "iPadOS 26.3 beta 3 (23D5114d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026m",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026n",
+      "title": "macOS 26.3 beta 3 (25D5112c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026n",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026o",
+      "title": "tvOS 26.3 beta 3 (23K5611c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026o",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026p",
+      "title": "visionOS 26.3 beta 3 (23N5613b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026p",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026q",
+      "title": "watchOS 26.3 beta 3 (23S5611c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026q",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026a",
+      "title": "iOS 26.2.1 (23C71)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026a",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026b",
+      "title": "iPadOS 26.2.1 (23C71)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026b",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026c",
+      "title": "watchOS 26.2.1 (23S314)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026c",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026d",
+      "title": "iOS 18.7.4 (22H218)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026d",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026e",
+      "title": "iPadOS 18.7.4 (22H218)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026e",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026f",
+      "title": "iOS 16.7.13 (20H365)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026f",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026g",
+      "title": "iPadOS 16.7.13 (20H365)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026g",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026h",
+      "title": "iOS 15.8.6 (19H402)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026h",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026i",
+      "title": "iPadOS 15.8.6 (19H402)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026i",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026j",
+      "title": "iOS 12.5.8 (16H88)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026j",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=01262026k",
+      "title": "iPadOS 12.5.8 (16H88)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=01262026k",
+      "published_at": "Mon, 26 Jan 2026 09:00:00 PST",
+      "fetched_at": "2026-01-27T00:22:25.725780",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
     }
   ]
 }
