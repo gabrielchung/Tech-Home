@@ -1220,6 +1220,28 @@
       "tags": [],
       "summary": "<p>Explore the GitHub Copilot CLI and try interacting with Copilot directly from your terminal.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/\">Power agentic workflows in your terminal with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93457",
+      "title": "7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/",
+      "published_at": "Tue, 27 Jan 2026 17:17:28 +0000",
+      "fetched_at": "2026-01-28T00:21:33.291301",
+      "tags": [],
+      "summary": "<p>Anders Hejlsberg shares lessons from C# and TypeScript on fast feedback loops, scaling software, open source visibility, and building tools that last.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/\">7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93481",
+      "title": "Help shape the future of open source in Europe",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/",
+      "published_at": "Tue, 27 Jan 2026 14:16:04 +0000",
+      "fetched_at": "2026-01-28T00:21:33.291301",
+      "tags": [],
+      "summary": "<p>Read GitHub\u2019s position on the European Open Digital Ecosystem Strategy and learn how to participate.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/\">Help shape the future of open source in Europe</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
