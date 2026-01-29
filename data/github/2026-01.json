@@ -274,6 +274,28 @@
       "tags": [],
       "summary": "<p>Read GitHub\u2019s position on the European Open Digital Ecosystem Strategy and learn how to participate.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/\">Help shape the future of open source in Europe</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93464",
+      "title": "From pixels to characters: The engineering behind GitHub Copilot CLI\u2019s animated ASCII banner",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
+      "published_at": "Wed, 28 Jan 2026 17:00:00 +0000",
+      "fetched_at": "2026-01-29T00:24:02.524778",
+      "tags": [],
+      "summary": "<p>Learn how GitHub built an accessible, multi-terminal-safe ASCII animation for the Copilot CLI using custom tooling, ANSI color roles, and advanced terminal engineering.</p>\n<p>The post <a href=\"https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/\">From pixels to characters: The engineering behind GitHub Copilot CLI\u2019s animated ASCII banner</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93489",
+      "title": "Year recap and future goals for the GitHub Innovation Graph",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/",
+      "published_at": "Wed, 28 Jan 2026 16:00:00 +0000",
+      "fetched_at": "2026-01-29T00:24:02.524778",
+      "tags": [],
+      "summary": "<p>Discover the latest trends and insights on public software development activity on GitHub with data from the Innovation Graph through Q3 2025.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/\">Year recap and future goals for the GitHub Innovation Graph</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

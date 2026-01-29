@@ -109,6 +109,17 @@
       "tags": [],
       "summary": "<p>Microsoft has employed Azure Load Testing to enhance the reliability of Microsoft Fabric and Azure Synapse, ensuring they can handle high loads. Azure Synapse integrates various data analytics technologies, while Microsoft Fabric offers a full enterprise analytics solution. Through rigorous daily and weekly load testing, involving complex scenarios and extensive data sizes, Microsoft aims to identify and rectify potential issues, ensuring optimal performance. This testing, integrated within their development pipelines, supports continuous improvement, leverages Azure's scalability, and utilizes Power BI for detailed reporting, ultimately enhancing service reliability and user experience.</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/enhancing-reliability-in-microsoft-fabric-and-azure-synapse-through-load-testing/\">Enhancing reliability in Microsoft Fabric and Azure Synapse through load testing</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1233",
+      "title": "Diagnosing instability in production-scale agent reinforcement learning",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/diagnosing-instability-in-production-scale-agent-rl/",
+      "published_at": "Wed, 28 Jan 2026 18:07:38 +0000",
+      "fetched_at": "2026-01-29T00:24:02.524778",
+      "tags": [],
+      "summary": "<p>On January 28, 2026, Hugging Face announced that they have upstreamed the Post-Training Toolkit into TRL as a first-party integration, making these diagnostics directly usable in production RL and agent post-training pipelines. This enables closed-loop monitoring and control patterns that are increasingly necessary for long-running and continuously adapted agent systems. Documentation @ https://huggingface.co/docs/trl/main/en/ptt_integration. Overview In [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/diagnosing-instability-in-production-scale-agent-rl/\">Diagnosing instability in production-scale agent reinforcement learning</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
     }
   ]
 }

@@ -252,6 +252,28 @@
       "tags": [],
       "summary": "FunctionGemma is a specialized AI model for function calling. This post explains why fine-tuning is key to resolving tool selection ambiguity (e.g., internal vs. Google search) and achieving ultra-specialization, transforming it into a strict, enterprise-compliant agent. A case study demonstrates the improved logic. It also introduces the \"FunctionGemma Tuning Lab,\" a no-code demo on Hugging Face Spaces, which streamlines the entire fine-tuning process for developers.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/tailor-gemini-cli-to-your-workflow-with-hooks/",
+      "title": "Tailor Gemini CLI to your workflow with hooks",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/tailor-gemini-cli-to-your-workflow-with-hooks/",
+      "published_at": "",
+      "fetched_at": "2026-01-29T00:24:02.524778",
+      "tags": [],
+      "summary": "New Gemini CLI hooks (v0.26.0+) let you tailor the agentic loop. Add context, enforce policies, and block secrets with custom scripts that run at predefined points in your workflow.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/litert-the-universal-framework-for-on-device-ai/",
+      "title": "LiteRT: The Universal Framework for On-Device AI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/litert-the-universal-framework-for-on-device-ai/",
+      "published_at": "",
+      "fetched_at": "2026-01-29T00:24:02.524778",
+      "tags": [],
+      "summary": "LiteRT, the evolution of TFLite, is now the universal framework for on-device AI. It delivers up to 1.4x faster GPU, new NPU support, and streamlined GenAI deployment for models like Gemma.",
+      "notes": ""
     }
   ]
 }

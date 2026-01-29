@@ -1242,6 +1242,61 @@
       "tags": [],
       "summary": "<p>Read GitHub\u2019s position on the European Open Digital Ecosystem Strategy and learn how to participate.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/\">Help shape the future of open source in Europe</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/tailor-gemini-cli-to-your-workflow-with-hooks/",
+      "title": "Tailor Gemini CLI to your workflow with hooks",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/tailor-gemini-cli-to-your-workflow-with-hooks/",
+      "published_at": "",
+      "fetched_at": "2026-01-29T00:24:02.524778",
+      "tags": [],
+      "summary": "New Gemini CLI hooks (v0.26.0+) let you tailor the agentic loop. Add context, enforce policies, and block secrets with custom scripts that run at predefined points in your workflow.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/litert-the-universal-framework-for-on-device-ai/",
+      "title": "LiteRT: The Universal Framework for On-Device AI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/litert-the-universal-framework-for-on-device-ai/",
+      "published_at": "",
+      "fetched_at": "2026-01-29T00:24:02.524778",
+      "tags": [],
+      "summary": "LiteRT, the evolution of TFLite, is now the universal framework for on-device AI. It delivers up to 1.4x faster GPU, new NPU support, and streamlined GenAI deployment for models like Gemma.",
+      "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1233",
+      "title": "Diagnosing instability in production-scale agent reinforcement learning",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/diagnosing-instability-in-production-scale-agent-rl/",
+      "published_at": "Wed, 28 Jan 2026 18:07:38 +0000",
+      "fetched_at": "2026-01-29T00:24:02.524778",
+      "tags": [],
+      "summary": "<p>On January 28, 2026, Hugging Face announced that they have upstreamed the Post-Training Toolkit into TRL as a first-party integration, making these diagnostics directly usable in production RL and agent post-training pipelines. This enables closed-loop monitoring and control patterns that are increasingly necessary for long-running and continuously adapted agent systems. Documentation @ https://huggingface.co/docs/trl/main/en/ptt_integration. Overview In [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/diagnosing-instability-in-production-scale-agent-rl/\">Diagnosing instability in production-scale agent reinforcement learning</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93464",
+      "title": "From pixels to characters: The engineering behind GitHub Copilot CLI\u2019s animated ASCII banner",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
+      "published_at": "Wed, 28 Jan 2026 17:00:00 +0000",
+      "fetched_at": "2026-01-29T00:24:02.524778",
+      "tags": [],
+      "summary": "<p>Learn how GitHub built an accessible, multi-terminal-safe ASCII animation for the Copilot CLI using custom tooling, ANSI color roles, and advanced terminal engineering.</p>\n<p>The post <a href=\"https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/\">From pixels to characters: The engineering behind GitHub Copilot CLI\u2019s animated ASCII banner</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93489",
+      "title": "Year recap and future goals for the GitHub Innovation Graph",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/",
+      "published_at": "Wed, 28 Jan 2026 16:00:00 +0000",
+      "fetched_at": "2026-01-29T00:24:02.524778",
+      "tags": [],
+      "summary": "<p>Discover the latest trends and insights on public software development activity on GitHub with data from the Innovation Graph through Q3 2025.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/\">Year recap and future goals for the GitHub Innovation Graph</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
