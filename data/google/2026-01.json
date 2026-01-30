@@ -274,6 +274,17 @@
       "tags": [],
       "summary": "LiteRT, the evolution of TFLite, is now the universal framework for on-device AI. It delivers up to 1.4x faster GPU, new NPU support, and streamlined GenAI deployment for models like Gemma.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/beyond-the-chatbot-a-blueprint-for-trustable-ai/",
+      "title": "Beyond the Chatbot: A Blueprint for Trustable AI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/beyond-the-chatbot-a-blueprint-for-trustable-ai/",
+      "published_at": "",
+      "fetched_at": "2026-01-30T00:24:25.625115",
+      "tags": [],
+      "summary": "At Thunderhill Raceway Park, a team of Google Developer Experts (GDEs) put a new \"Trustable AI Framework\" to the test. Here is how they used GCP, Gemini and Antigravity to turn high-velocity racing into a masterclass for agentic architecture.",
+      "notes": ""
     }
   ]
 }

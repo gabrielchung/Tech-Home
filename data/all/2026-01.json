@@ -1297,6 +1297,17 @@
       "tags": [],
       "summary": "<p>Discover the latest trends and insights on public software development activity on GitHub with data from the Innovation Graph through Q3 2025.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/\">Year recap and future goals for the GitHub Innovation Graph</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/beyond-the-chatbot-a-blueprint-for-trustable-ai/",
+      "title": "Beyond the Chatbot: A Blueprint for Trustable AI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/beyond-the-chatbot-a-blueprint-for-trustable-ai/",
+      "published_at": "",
+      "fetched_at": "2026-01-30T00:24:25.625115",
+      "tags": [],
+      "summary": "At Thunderhill Raceway Park, a team of Google Developer Experts (GDEs) put a new \"Trustable AI Framework\" to the test. Here is how they used GCP, Gemini and Antigravity to turn high-velocity racing into a masterclass for agentic architecture.",
+      "notes": ""
     }
   ]
 }
