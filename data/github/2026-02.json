@@ -109,6 +109,17 @@
       "tags": [],
       "summary": "<p>Copilot\u2019s cross-agent memory system lets agents learn and improve across your development workflow, starting with coding agent, CLI, and code review.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/\">Building an agentic memory system for GitHub Copilot</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93542",
+      "title": "How to maximize GitHub Copilot\u2019s agentic capabilities",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/",
+      "published_at": "Mon, 02 Feb 2026 17:00:00 +0000",
+      "fetched_at": "2026-02-03T00:26:33.716403",
+      "tags": [],
+      "summary": "<p>A senior engineer's guide to architecting and extending Copilot's real-world applications.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/\">How to maximize GitHub Copilot&#8217;s agentic capabilities</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
