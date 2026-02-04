@@ -439,6 +439,17 @@
       "tags": [],
       "summary": "View downloads",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02032026a",
+      "title": "Xcode 26.3 Release Candidate (17C519)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02032026a",
+      "published_at": "Tue, 03 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-04T00:23:14.189935",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }

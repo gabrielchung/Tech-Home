@@ -219,6 +219,17 @@
       "tags": [],
       "summary": "LiteRT's new Qualcomm AI Engine Direct (QNN) Accelerator unlocks dedicated NPU power for on-device GenAI on Android. It offers a unified mobile deployment workflow, SOTA performance (up to 100x speedup over CPU), and full model delegation. This enables smooth, real-time AI experiences, with FastVLM-0.5B achieving over 11,000 tokens/sec prefill on Snapdragon 8 Elite Gen 5 NPU.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/easy-functiongemma-finetuning-with-tunix-on-google-tpus/",
+      "title": "Easy FunctionGemma finetuning with Tunix on Google TPUs",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/easy-functiongemma-finetuning-with-tunix-on-google-tpus/",
+      "published_at": "",
+      "fetched_at": "2026-02-04T00:23:14.189935",
+      "tags": [],
+      "summary": "Finetuning the FunctionGemma model is made fast and easy using the lightweight JAX-based Tunix library on Google TPUs, a process demonstrated here using LoRA for supervised finetuning. This approach delivers significant accuracy improvements with high TPU efficiency, culminating in a model ready for deployment.",
+      "notes": ""
     }
   ]
 }
