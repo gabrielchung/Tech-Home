@@ -230,6 +230,17 @@
       "tags": [],
       "summary": "Finetuning the FunctionGemma model is made fast and easy using the lightweight JAX-based Tunix library on Google TPUs, a process demonstrated here using LoRA for supervised finetuning. This approach delivers significant accuracy improvements with high TPU efficiency, culminating in a model ready for deployment.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
+      "title": "Introducing the Developer Knowledge API and MCP Server",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
+      "published_at": "",
+      "fetched_at": "2026-02-06T00:23:45.488846",
+      "tags": [],
+      "summary": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date documentation across Firebase, Google Cloud, Android, and more. By using the official MCP server, developers can connect tools directly to Google\u2019s documentation corpus, ensuring that AI-generated code and guidance are based on authoritative, real-time context.",
+      "notes": ""
     }
   ]
 }

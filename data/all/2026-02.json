@@ -1000,6 +1000,127 @@
       "tags": [],
       "summary": "<p>Claude by Anthropic and OpenAI Codex are now available in public preview on GitHub and VS Code with a Copilot Pro+ or Copilot Enterprise subscription. Here's what you need to know and how to get started today.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/\">Pick your agent: Use Claude and Codex on\u00a0Agent\u00a0HQ\u00a0</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
+      "title": "Introducing the Developer Knowledge API and MCP Server",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
+      "published_at": "",
+      "fetched_at": "2026-02-06T00:23:45.488846",
+      "tags": [],
+      "summary": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date documentation across Firebase, Google Cloud, Android, and more. By using the official MCP server, developers can connect tools directly to Google\u2019s documentation corpus, ensuring that AI-generated code and guidance are based on authoritative, real-time context.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02042026a",
+      "title": "iOS 26.3 RC (23D125)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02042026a",
+      "published_at": "Wed, 04 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-06T00:23:45.488846",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02042026b",
+      "title": "iPadOS 26.3 RC (23D125)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02042026b",
+      "published_at": "Wed, 04 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-06T00:23:45.488846",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02042026c",
+      "title": "macOS 26.3 RC (25D122)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02042026c",
+      "published_at": "Wed, 04 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-06T00:23:45.488846",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02042026d",
+      "title": "tvOS 26.3 RC (23K619)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02042026d",
+      "published_at": "Wed, 04 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-06T00:23:45.488846",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02042026e",
+      "title": "visionOS 26.3 RC (23N619)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02042026e",
+      "published_at": "Wed, 04 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-06T00:23:45.488846",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02042026f",
+      "title": "watchOS 26.3 RC (23S618)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02042026f",
+      "published_at": "Wed, 04 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-06T00:23:45.488846",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02042026g",
+      "title": "iOS 18.7.5 (22H311)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02042026g",
+      "published_at": "Wed, 04 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-06T00:23:45.488846",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02042026h",
+      "title": "iPadOS 18.7.5 (22H311)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02042026h",
+      "published_at": "Wed, 04 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-06T00:23:45.488846",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02032026b",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02032026b",
+      "published_at": "Tue, 03 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-06T00:23:45.488846",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93626",
+      "title": "Continuous AI in practice: What developers can automate today with agentic CI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/",
+      "published_at": "Thu, 05 Feb 2026 17:00:00 +0000",
+      "fetched_at": "2026-02-06T00:23:45.488846",
+      "tags": [],
+      "summary": "<p>Think of Continuous AI as background agents that operate in your repository for tasks that require reasoning.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/\">Continuous AI in practice: What developers can automate today with agentic CI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
