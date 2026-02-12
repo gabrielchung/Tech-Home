@@ -153,6 +153,17 @@
       "tags": [],
       "summary": "<p>Think of Continuous AI as background agents that operate in your repository for tasks that require reasoning.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/\">Continuous AI in practice: What developers can automate today with agentic CI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93780",
+      "title": "GitHub availability report: January 2026",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-january-2026/",
+      "published_at": "Wed, 11 Feb 2026 23:12:34 +0000",
+      "fetched_at": "2026-02-12T00:25:27.086103",
+      "tags": [],
+      "summary": "<p>In January, we experienced two incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-january-2026/\">GitHub availability report: January 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

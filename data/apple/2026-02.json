@@ -615,6 +615,72 @@
       "tags": [],
       "summary": "View release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02112026a",
+      "title": "iOS 26.3 (23D127)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02112026a",
+      "published_at": "Wed, 11 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-12T00:25:27.086103",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02112026b",
+      "title": "iPadOS 26.3 (23D127)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02112026b",
+      "published_at": "Wed, 11 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-12T00:25:27.086103",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02112026c",
+      "title": "macOS 26.3 (25D125)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02112026c",
+      "published_at": "Wed, 11 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-12T00:25:27.086103",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02112026d",
+      "title": "tvOS 26.3 (23K620)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02112026d",
+      "published_at": "Wed, 11 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-12T00:25:27.086103",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02112026e",
+      "title": "visionOS 26.3 (23N620)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02112026e",
+      "published_at": "Wed, 11 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-12T00:25:27.086103",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02112026f",
+      "title": "watchOS 26.3 (23S620)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02112026f",
+      "published_at": "Wed, 11 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-12T00:25:27.086103",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }

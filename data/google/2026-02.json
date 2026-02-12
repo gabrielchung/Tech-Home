@@ -252,6 +252,17 @@
       "tags": [],
       "summary": "Data Commons has launched a free, hosted Model Context Protocol (MCP) service on Google Cloud Platform, eliminating the need for users to manage complex local server installations. This update simplifies connecting AI agents and the Gemini CLI to Data Commons, allowing Google to handle security, updates, and resource management while users query data natively.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/making-gemini-cli-extensions-easier-to-use/",
+      "title": "Making Gemini CLI extensions easier to use",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/making-gemini-cli-extensions-easier-to-use/",
+      "published_at": "",
+      "fetched_at": "2026-02-12T00:25:27.086103",
+      "tags": [],
+      "summary": "To simplify the user experience and prevent startup failures, the Gemini CLI has introduced structured extension settings that eliminate the need for manual environment variable configuration. This update enables extensions to automatically prompt users for required details during installation and securely stores sensitive information, such as API keys, directly in the system keychain. Users can now easily manage and override these configurations globally or per project using the new Gemini extensions config command.",
+      "notes": ""
     }
   ]
 }
