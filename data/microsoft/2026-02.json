@@ -109,6 +109,17 @@
       "tags": [],
       "summary": "<p>My name is Bob Tabor and I\u2019m a member of Microsoft\u2019s Skilling organization. We create documentation and training content about Azure, developer tooling and languages, AI, Windows and much more hosted at Microsoft Learn. Our organization also develops and maintains the content publishing platform, the content hosting platform, the interactivity, and popular sites like Microsoft [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/\">How we built &#8220;Ask Learn&#8221;, the RAG-based knowledge service</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1296",
+      "title": "How we built the Microsoft Learn MCP Server",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-the-microsoft-learn-mcp-server/",
+      "published_at": "Wed, 11 Feb 2026 19:23:31 +0000",
+      "fetched_at": "2026-02-13T00:27:55.672186",
+      "tags": [],
+      "summary": "<p>When we launched the Microsoft Learn Model Context Protocol (MCP) Server in June 2025, our goal was simple: make it effortless for AI agents to use trusted, up-to-date Microsoft Learn documentation. GitHub Copilot and other agents are increasingly common, and they need to be able to ground responses just like humans with browsers do. Learn [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-the-microsoft-learn-mcp-server/\">How we built the Microsoft Learn MCP Server</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
     }
   ]
 }

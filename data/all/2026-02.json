@@ -1220,6 +1220,28 @@
       "tags": [],
       "summary": "<p>In January, we experienced two incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-january-2026/\">GitHub availability report: January 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1296",
+      "title": "How we built the Microsoft Learn MCP Server",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-the-microsoft-learn-mcp-server/",
+      "published_at": "Wed, 11 Feb 2026 19:23:31 +0000",
+      "fetched_at": "2026-02-13T00:27:55.672186",
+      "tags": [],
+      "summary": "<p>When we launched the Microsoft Learn Model Context Protocol (MCP) Server in June 2025, our goal was simple: make it effortless for AI agents to use trusted, up-to-date Microsoft Learn documentation. GitHub Copilot and other agents are increasingly common, and they need to be able to ground responses just like humans with browsers do. Learn [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-the-microsoft-learn-mcp-server/\">How we built the Microsoft Learn MCP Server</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93789",
+      "title": "Welcome to\u00a0the Eternal September of open source.\u00a0Here\u2019s\u00a0what we plan to do for maintainers.",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/",
+      "published_at": "Thu, 12 Feb 2026 20:14:11 +0000",
+      "fetched_at": "2026-02-13T00:27:55.672186",
+      "tags": [],
+      "summary": "<p>Open source is hitting an \u201cEternal September.\u201d As contribution friction drops, maintainers are adapting with new trust signals, triage approaches, and community-led solutions.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/\">Welcome to\u00a0the Eternal September of open source.\u00a0Here&#8217;s\u00a0what we plan to do for maintainers.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
