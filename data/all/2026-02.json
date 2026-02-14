@@ -1242,6 +1242,28 @@
       "tags": [],
       "summary": "<p>Open source is hitting an \u201cEternal September.\u201d As contribution friction drops, maintainers are adapting with new trust signals, triage approaches, and community-led solutions.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/\">Welcome to\u00a0the Eternal September of open source.\u00a0Here&#8217;s\u00a0what we plan to do for maintainers.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/conductor-update-introducing-automated-reviews/",
+      "title": "Conductor Update: Introducing Automated Reviews",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/conductor-update-introducing-automated-reviews/",
+      "published_at": "",
+      "fetched_at": "2026-02-14T00:25:56.103724",
+      "tags": [],
+      "summary": "Conductor for the Gemini CLI has introduced a new Automated Review feature designed to verify the quality and accuracy of AI-generated code. This update addresses the challenge of validating agentic development by automatically checking implementations against original plans, enforcing style guides, and identifying security risks or bugs. by incorporating test-suite validation and providing actionable reports, Conductor helps developers ensure that their AI agents deliver safe, predictable, and architecturally sound code before it is finalized.",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93730",
+      "title": "Automate repository tasks with GitHub Agentic Workflows",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/",
+      "published_at": "Fri, 13 Feb 2026 14:00:00 +0000",
+      "fetched_at": "2026-02-14T00:25:56.103724",
+      "tags": [],
+      "summary": "<p>Discover GitHub Agentic Workflows, now in technical preview. Build automations using coding agents in GitHub Actions to handle triage, documentation, code quality, and more.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/\">Automate repository tasks with GitHub Agentic Workflows\u00a0\u00a0</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
