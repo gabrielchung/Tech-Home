@@ -1264,6 +1264,83 @@
       "tags": [],
       "summary": "<p>Discover GitHub Agentic Workflows, now in technical preview. Build automations using coding agents in GitHub Actions to handle triage, documentation, code quality, and more.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/\">Automate repository tasks with GitHub Agentic Workflows\u00a0\u00a0</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02162026g",
+      "title": "Xcode 26.4 beta (17E5159k)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02162026g",
+      "published_at": "Mon, 16 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-17T00:26:18.870742",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02162026a",
+      "title": "iOS 26.4 beta (23E5207q)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02162026a",
+      "published_at": "Mon, 16 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-17T00:26:18.870742",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02162026b",
+      "title": "iPadOS 26.4 beta (23E5207q)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02162026b",
+      "published_at": "Mon, 16 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-17T00:26:18.870742",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02162026c",
+      "title": "macOS 26.4 beta (25E5207k)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02162026c",
+      "published_at": "Mon, 16 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-17T00:26:18.870742",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02162026d",
+      "title": "tvOS 26.4 beta (23L5208m)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02162026d",
+      "published_at": "Mon, 16 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-17T00:26:18.870742",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02162026e",
+      "title": "visionOS 26.4 beta (23O5209m)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02162026e",
+      "published_at": "Mon, 16 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-17T00:26:18.870742",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02162026f",
+      "title": "watchOS 26.4 beta (23T5209m)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02162026f",
+      "published_at": "Mon, 16 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-17T00:26:18.870742",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
