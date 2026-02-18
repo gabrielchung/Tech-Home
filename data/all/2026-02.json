@@ -1341,6 +1341,39 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/get-ready-for-google-io-2026/",
+      "title": "Get ready for Google I/O 2026",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/get-ready-for-google-io-2026/",
+      "published_at": "",
+      "fetched_at": "2026-02-18T00:26:25.726071",
+      "tags": [],
+      "summary": "Google I/O returns May 19-20. Watch the livestreams for updates on Android, AI, Chrome, and Cloud. Registration is open on the Google I/O website.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02172026a",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02172026a",
+      "published_at": "Tue, 17 Feb 2026 10:00:00 PST",
+      "fetched_at": "2026-02-18T00:26:25.726071",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93831",
+      "title": "Securing the AI software supply chain: Security results across 67 open source projects",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/",
+      "published_at": "Tue, 17 Feb 2026 19:00:00 +0000",
+      "fetched_at": "2026-02-18T00:26:25.726071",
+      "tags": [],
+      "summary": "<p>Learn how The GitHub Secure Open Source Fund helped 67 critical AI\u2011stack projects accelerate fixes, strengthen ecosystems, and advance open source resilience.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/\">Securing the AI software supply chain: Security results across 67 open source projects</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

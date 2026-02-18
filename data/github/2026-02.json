@@ -186,6 +186,17 @@
       "tags": [],
       "summary": "<p>Discover GitHub Agentic Workflows, now in technical preview. Build automations using coding agents in GitHub Actions to handle triage, documentation, code quality, and more.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/\">Automate repository tasks with GitHub Agentic Workflows\u00a0\u00a0</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93831",
+      "title": "Securing the AI software supply chain: Security results across 67 open source projects",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/",
+      "published_at": "Tue, 17 Feb 2026 19:00:00 +0000",
+      "fetched_at": "2026-02-18T00:26:25.726071",
+      "tags": [],
+      "summary": "<p>Learn how The GitHub Secure Open Source Fund helped 67 critical AI\u2011stack projects accelerate fixes, strengthen ecosystems, and advance open source resilience.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/\">Securing the AI software supply chain: Security results across 67 open source projects</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

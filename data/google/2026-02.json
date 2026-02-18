@@ -274,6 +274,17 @@
       "tags": [],
       "summary": "Conductor for the Gemini CLI has introduced a new Automated Review feature designed to verify the quality and accuracy of AI-generated code. This update addresses the challenge of validating agentic development by automatically checking implementations against original plans, enforcing style guides, and identifying security risks or bugs. by incorporating test-suite validation and providing actionable reports, Conductor helps developers ensure that their AI agents deliver safe, predictable, and architecturally sound code before it is finalized.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/get-ready-for-google-io-2026/",
+      "title": "Get ready for Google I/O 2026",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/get-ready-for-google-io-2026/",
+      "published_at": "",
+      "fetched_at": "2026-02-18T00:26:25.726071",
+      "tags": [],
+      "summary": "Google I/O returns May 19-20. Watch the livestreams for updates on Android, AI, Chrome, and Cloud. Registration is open on the Google I/O website.",
+      "notes": ""
     }
   ]
 }
