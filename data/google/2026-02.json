@@ -285,6 +285,17 @@
       "tags": [],
       "summary": "Google I/O returns May 19-20. Watch the livestreams for updates on Android, AI, Chrome, and Cloud. Registration is open on the Google I/O website.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/turn-creative-prompts-into-interactive-xr-experiences-with-gemini/",
+      "title": "Turn creative prompts into interactive XR experiences with Gemini",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/turn-creative-prompts-into-interactive-xr-experiences-with-gemini/",
+      "published_at": "",
+      "fetched_at": "2026-02-20T00:23:32.529309",
+      "tags": [],
+      "summary": "The Android XR team is using Gemini's Canvas feature to make creating immersive extended reality (XR) experiences more accessible. This allows developers to rapidly prototype interactive 3D environments and models on a Samsung Galaxy XR headset using simple creative prompts.",
+      "notes": ""
     }
   ]
 }

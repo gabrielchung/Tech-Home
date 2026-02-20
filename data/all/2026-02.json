@@ -1385,6 +1385,28 @@
       "tags": [],
       "summary": "<p>Let\u2019s dig into the 2025\u2019s open source data on GitHub to see what we can learn about the future.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/\">What to expect for open source in 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/turn-creative-prompts-into-interactive-xr-experiences-with-gemini/",
+      "title": "Turn creative prompts into interactive XR experiences with Gemini",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/turn-creative-prompts-into-interactive-xr-experiences-with-gemini/",
+      "published_at": "",
+      "fetched_at": "2026-02-20T00:23:32.529309",
+      "tags": [],
+      "summary": "The Android XR team is using Gemini's Canvas feature to make creating immersive extended reality (XR) experiences more accessible. This allows developers to rapidly prototype interactive 3D environments and models on a Samsung Galaxy XR headset using simple creative prompts.",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93955",
+      "title": "How AI is reshaping developer choice (and Octoverse data proves it)",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
+      "published_at": "Thu, 19 Feb 2026 17:00:00 +0000",
+      "fetched_at": "2026-02-20T00:23:32.529309",
+      "tags": [],
+      "summary": "<p>AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technology choice.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/\">How AI is reshaping developer choice (and Octoverse data proves it)</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
