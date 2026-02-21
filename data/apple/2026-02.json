@@ -769,6 +769,28 @@
       "tags": [],
       "summary": "View release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02202026b",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02202026b",
+      "published_at": "Fri, 20 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-21T00:25:08.422514",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02202026a",
+      "title": "Xcode 26.3 Release Candidate 2 (17C528)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02202026a",
+      "published_at": "Fri, 20 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-02-21T00:25:08.422514",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
