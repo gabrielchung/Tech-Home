@@ -296,6 +296,17 @@
       "tags": [],
       "summary": "The Android XR team is using Gemini's Canvas feature to make creating immersive extended reality (XR) experiences more accessible. This allows developers to rapidly prototype interactive 3D environments and models on a Samsung Galaxy XR headset using simple creative prompts.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/on-device-function-calling-in-google-ai-edge-gallery/",
+      "title": "On-Device Function Calling in Google AI Edge Gallery",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/on-device-function-calling-in-google-ai-edge-gallery/",
+      "published_at": "",
+      "fetched_at": "2026-02-27T00:26:22.001597",
+      "tags": [],
+      "summary": "Google has introduced FunctionGemma, a specialized 270M parameter model designed to bring efficient, action-oriented AI experiences directly to mobile devices through on-device function calling. By leveraging Google AI Edge and LiteRT-LM, the model enables complex tasks\u2014such as managing calendars, controlling device hardware, or executing specific game logic in the \"Tiny Garden\" demo\u2014to be performed entirely offline with high speed and low latency. Available for testing in the Google AI Edge Gallery app on both Android and iOS, FunctionGemma allows developers to move beyond simple text generation toward building responsive, \"agentic\" applications that interact seamlessly with the physical and digital world without relying on cloud processing.",
+      "notes": ""
     }
   ]
 }

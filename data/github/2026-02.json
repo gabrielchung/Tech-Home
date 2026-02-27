@@ -230,6 +230,17 @@
       "tags": [],
       "summary": "<p>Most multi-agent workflow failures come down to missing structure, not model capability. Learn the three engineering patterns that make agent systems reliable.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/\">Multi-agent workflows often fail. Here\u2019s how to engineer ones that don\u2019t.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94157",
+      "title": "What\u2019s new with GitHub Copilot coding agent",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/",
+      "published_at": "Thu, 26 Feb 2026 20:47:02 +0000",
+      "fetched_at": "2026-02-27T00:26:22.001597",
+      "tags": [],
+      "summary": "<p>GitHub Copilot coding agent now includes a model picker, self-review, built-in security scanning, custom agents, and CLI handoff. Here's what's new and how to use it. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/\">What&#8217;s new with GitHub Copilot coding agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
