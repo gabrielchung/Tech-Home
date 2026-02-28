@@ -241,6 +241,17 @@
       "tags": [],
       "summary": "<p>GitHub Copilot coding agent now includes a model picker, self-review, built-in security scanning, custom agents, and CLI handoff. Here's what's new and how to use it. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/\">What&#8217;s new with GitHub Copilot coding agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94179",
+      "title": "From idea to pull request: A practical guide to building with GitHub Copilot CLI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/",
+      "published_at": "Fri, 27 Feb 2026 16:00:00 +0000",
+      "fetched_at": "2026-02-28T00:22:19.977035",
+      "tags": [],
+      "summary": "<p>A hands-on guide to using GitHub Copilot CLI to move from intent to reviewable changes, and how that work flows naturally into your IDE and GitHub.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/\">From idea to pull request: A practical guide to building with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

@@ -307,6 +307,17 @@
       "tags": [],
       "summary": "Google has introduced FunctionGemma, a specialized 270M parameter model designed to bring efficient, action-oriented AI experiences directly to mobile devices through on-device function calling. By leveraging Google AI Edge and LiteRT-LM, the model enables complex tasks\u2014such as managing calendars, controlling device hardware, or executing specific game logic in the \"Tiny Garden\" demo\u2014to be performed entirely offline with high speed and low latency. Available for testing in the Google AI Edge Gallery app on both Android and iOS, FunctionGemma allows developers to move beyond simple text generation toward building responsive, \"agentic\" applications that interact seamlessly with the physical and digital world without relying on cloud processing.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/supercharge-your-ai-agents-adk-integrations-ecosystem/",
+      "title": "Supercharge your AI agents: The New ADK Integrations Ecosystem",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/supercharge-your-ai-agents-adk-integrations-ecosystem/",
+      "published_at": "",
+      "fetched_at": "2026-02-28T00:22:19.977035",
+      "tags": [],
+      "summary": "Agent Development Kit (ADK) now supports a robust ecosystem of third-party tools and integrations. Connect your agents to GitHub, Notion, Hugging Face, and more to build capable, real-world applications.",
+      "notes": ""
     }
   ]
 }

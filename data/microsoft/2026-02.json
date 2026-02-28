@@ -120,6 +120,17 @@
       "tags": [],
       "summary": "<p>When we launched the Microsoft Learn Model Context Protocol (MCP) Server in June 2025, our goal was simple: make it effortless for AI agents to use trusted, up-to-date Microsoft Learn documentation. GitHub Copilot and other agents are increasingly common, and they need to be able to ground responses just like humans with browsers do. Learn [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-the-microsoft-learn-mcp-server/\">How we built the Microsoft Learn MCP Server</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1310",
+      "title": "Engineering and algorithmic interventions for multimodal post-training at Microsoft scale",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/engineering-and-algorithmic-interventions-for-multimodal-post-training-at-microsoft-scale/",
+      "published_at": "Fri, 27 Feb 2026 18:05:59 +0000",
+      "fetched_at": "2026-02-28T00:22:19.977035",
+      "tags": [],
+      "summary": "<p>Aditya Challapally leads post-training research and infrastructure for Copilot agent capabilities that process millions of multimodal interactions. This post builds on the diagnostics from Diagnosing instability in production-scale agent reinforcement learning with the engineering and algorithmic interventions we developed to get the best results out of post training at scale. Post-training multimodal agents at scale [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/engineering-and-algorithmic-interventions-for-multimodal-post-training-at-microsoft-scale/\">Engineering and algorithmic interventions for multimodal post-training at Microsoft scale</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
     }
   ]
 }
