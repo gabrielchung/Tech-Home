@@ -1,0 +1,114 @@
+{
+  "articles": [
+    {
+      "id": "https://github.blog/?p=94179",
+      "title": "From idea to pull request: A practical guide to building with GitHub Copilot CLI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/",
+      "published_at": "Fri, 27 Feb 2026 16:00:00 +0000",
+      "fetched_at": "2026-03-01T00:28:10.251232",
+      "tags": [],
+      "summary": "<p>A hands-on guide to using GitHub Copilot CLI to move from intent to reviewable changes, and how that work flows naturally into your IDE and GitHub.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/\">From idea to pull request: A practical guide to building with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94157",
+      "title": "What\u2019s new with GitHub Copilot coding agent",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/",
+      "published_at": "Thu, 26 Feb 2026 20:47:02 +0000",
+      "fetched_at": "2026-03-01T00:28:10.251232",
+      "tags": [],
+      "summary": "<p>GitHub Copilot coding agent now includes a model picker, self-review, built-in security scanning, custom agents, and CLI handoff. Here's what's new and how to use it. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/\">What&#8217;s new with GitHub Copilot coding agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94039",
+      "title": "Multi-agent workflows often fail. Here\u2019s how to engineer ones that don\u2019t.",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/",
+      "published_at": "Tue, 24 Feb 2026 16:00:00 +0000",
+      "fetched_at": "2026-03-01T00:28:10.251232",
+      "tags": [],
+      "summary": "<p>Most multi-agent workflow failures come down to missing structure, not model capability. Learn the three engineering patterns that make agent systems reliable.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/\">Multi-agent workflows often fail. Here\u2019s how to engineer ones that don\u2019t.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93955",
+      "title": "How AI is reshaping developer choice (and Octoverse data proves it)",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
+      "published_at": "Thu, 19 Feb 2026 17:00:00 +0000",
+      "fetched_at": "2026-03-01T00:28:10.251232",
+      "tags": [],
+      "summary": "<p>AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technology choice.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/\">How AI is reshaping developer choice (and Octoverse data proves it)</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93939",
+      "title": "What to expect for open source in 2026",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/",
+      "published_at": "Wed, 18 Feb 2026 18:41:42 +0000",
+      "fetched_at": "2026-03-01T00:28:10.251232",
+      "tags": [],
+      "summary": "<p>Let\u2019s dig into the 2025\u2019s open source data on GitHub to see what we can learn about the future.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/\">What to expect for open source in 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93831",
+      "title": "Securing the AI software supply chain: Security results across 67 open source projects",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/",
+      "published_at": "Tue, 17 Feb 2026 19:00:00 +0000",
+      "fetched_at": "2026-03-01T00:28:10.251232",
+      "tags": [],
+      "summary": "<p>Learn how The GitHub Secure Open Source Fund helped 67 critical AI\u2011stack projects accelerate fixes, strengthen ecosystems, and advance open source resilience.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/\">Securing the AI software supply chain: Security results across 67 open source projects</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93730",
+      "title": "Automate repository tasks with GitHub Agentic Workflows",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/",
+      "published_at": "Fri, 13 Feb 2026 14:00:00 +0000",
+      "fetched_at": "2026-03-01T00:28:10.251232",
+      "tags": [],
+      "summary": "<p>Discover GitHub Agentic Workflows, now in technical preview. Build automations using coding agents in GitHub Actions to handle triage, documentation, code quality, and more.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/\">Automate repository tasks with GitHub Agentic Workflows\u00a0\u00a0</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93789",
+      "title": "Welcome to\u00a0the Eternal September of open source.\u00a0Here\u2019s\u00a0what we plan to do for maintainers.",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/",
+      "published_at": "Thu, 12 Feb 2026 20:14:11 +0000",
+      "fetched_at": "2026-03-01T00:28:10.251232",
+      "tags": [],
+      "summary": "<p>Open source is hitting an \u201cEternal September.\u201d As contribution friction drops, maintainers are adapting with new trust signals, triage approaches, and community-led solutions.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/\">Welcome to\u00a0the Eternal September of open source.\u00a0Here&#8217;s\u00a0what we plan to do for maintainers.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93780",
+      "title": "GitHub availability report: January 2026",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-january-2026/",
+      "published_at": "Wed, 11 Feb 2026 23:12:34 +0000",
+      "fetched_at": "2026-03-01T00:28:10.251232",
+      "tags": [],
+      "summary": "<p>In January, we experienced two incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-january-2026/\">GitHub availability report: January 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=93626",
+      "title": "Continuous AI in practice: What developers can automate today with agentic CI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/",
+      "published_at": "Thu, 05 Feb 2026 17:00:00 +0000",
+      "fetched_at": "2026-03-01T00:28:10.251232",
+      "tags": [],
+      "summary": "<p>Think of Continuous AI as background agents that operate in your repository for tasks that require reasoning.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/\">Continuous AI in practice: What developers can automate today with agentic CI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    }
+  ]
+}
