@@ -527,6 +527,61 @@
       "tags": [],
       "summary": "View installation instructions",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03022026a",
+      "title": "iOS 26.4 beta 3 (23E5223f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03022026a",
+      "published_at": "Mon, 02 Mar 2026 09:00:00 PST",
+      "fetched_at": "2026-03-03T00:26:16.467589",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03022026b",
+      "title": "iPadOS 26.4 beta 3 (23E5223f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03022026b",
+      "published_at": "Mon, 02 Mar 2026 09:00:00 PST",
+      "fetched_at": "2026-03-03T00:26:16.467589",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03022026d",
+      "title": "tvOS 26.4 beta 3 (23L5224d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03022026d",
+      "published_at": "Mon, 02 Mar 2026 09:00:00 PST",
+      "fetched_at": "2026-03-03T00:26:16.467589",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03022026e",
+      "title": "visionOS 26.4 beta 3 (23O5225f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03022026e",
+      "published_at": "Mon, 02 Mar 2026 09:00:00 PST",
+      "fetched_at": "2026-03-03T00:26:16.467589",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03022026f",
+      "title": "watchOS 26.4 beta 3 (23T5226e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03022026f",
+      "published_at": "Mon, 02 Mar 2026 09:00:00 PST",
+      "fetched_at": "2026-03-03T00:26:16.467589",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
