@@ -582,6 +582,17 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03032026a",
+      "title": "macOS 26.4 beta 3 (25E5223i)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03032026a",
+      "published_at": "Tue, 03 Mar 2026 09:00:00 PST",
+      "fetched_at": "2026-03-04T00:24:39.669486",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }

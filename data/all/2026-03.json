@@ -1033,6 +1033,50 @@
       "tags": [],
       "summary": "<p>Learn how to get organized and collaborate more efficiently with this step-by-step tutorial.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/\">GitHub for Beginners: Getting started with GitHub Issues and Projects</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/how-we-built-the-google-io-2026-save-the-date-experience/",
+      "title": "How we built the Google I/O 2026 Save the Date experience",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/how-we-built-the-google-io-2026-save-the-date-experience/",
+      "published_at": "",
+      "fetched_at": "2026-03-04T00:24:39.669486",
+      "tags": [],
+      "summary": "Google I/O 2026 is returning May 19-20 at Shoreline Amphitheatre in Mountain View, CA. But before the keynotes begin, you can get into the spirit of the event with our annual tradition: the save the date puzzle.  This year's experience highlights how AI can empower and accelerate",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03032026a",
+      "title": "macOS 26.4 beta 3 (25E5223i)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03032026a",
+      "published_at": "Tue, 03 Mar 2026 09:00:00 PST",
+      "fetched_at": "2026-03-04T00:24:39.669486",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94225",
+      "title": "How we rebuilt the search architecture for high availability in GitHub Enterprise Server",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/",
+      "published_at": "Tue, 03 Mar 2026 18:45:09 +0000",
+      "fetched_at": "2026-03-04T00:24:39.669486",
+      "tags": [],
+      "summary": "<p>Here's how we the search experience better, faster, and more resilient for GHES customers.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/\">How we rebuilt the search architecture for high availability in GitHub Enterprise Server</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94244",
+      "title": "Join or host a GitHub Copilot Dev Days event near you",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/join-or-host-a-github-copilot-dev-days-event-near-you/",
+      "published_at": "Tue, 03 Mar 2026 16:55:00 +0000",
+      "fetched_at": "2026-03-04T00:24:39.669486",
+      "tags": [],
+      "summary": "<p>GitHub Copilot Dev Days is a global series of hands-on, in-person, community-led events designed to help developers explore real-world, AI-assisted coding.  </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/join-or-host-a-github-copilot-dev-days-event-near-you/\">Join or host a GitHub Copilot Dev Days event near you</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
