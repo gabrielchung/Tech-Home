@@ -1077,6 +1077,50 @@
       "tags": [],
       "summary": "<p>GitHub Copilot Dev Days is a global series of hands-on, in-person, community-led events designed to help developers explore real-world, AI-assisted coding.  </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/join-or-host-a-github-copilot-dev-days-event-near-you/\">Join or host a GitHub Copilot Dev Days event near you</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03042026a",
+      "title": "iOS 26.3.1 (23D8133)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03042026a",
+      "published_at": "Wed, 04 Mar 2026 09:00:00 PST",
+      "fetched_at": "2026-03-05T00:25:30.049309",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03042026b",
+      "title": "iPadOS 26.3.1 (23D8133)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03042026b",
+      "published_at": "Wed, 04 Mar 2026 09:00:00 PST",
+      "fetched_at": "2026-03-05T00:25:30.049309",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03042026c",
+      "title": "macOS 26.3.1 (25D2128)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03042026c",
+      "published_at": "Wed, 04 Mar 2026 09:00:00 PST",
+      "fetched_at": "2026-03-05T00:25:30.049309",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03042026d",
+      "title": "iOS 18.7.6 (22H320)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03042026d",
+      "published_at": "Wed, 04 Mar 2026 09:00:00 PST",
+      "fetched_at": "2026-03-05T00:25:30.049309",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
     }
   ]
 }
