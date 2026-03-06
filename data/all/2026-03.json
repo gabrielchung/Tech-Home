@@ -1121,6 +1121,72 @@
       "tags": [],
       "summary": "View downloads",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/you-cant-stream-the-energy-a-developers-guide-to-google-cloud-next-26-in-vegas/",
+      "title": "You can't stream the energy: A developer's guide to Google Cloud Next '26 in Vegas",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/you-cant-stream-the-energy-a-developers-guide-to-google-cloud-next-26-in-vegas/",
+      "published_at": "",
+      "fetched_at": "2026-03-06T00:29:39.886779",
+      "tags": [],
+      "summary": "While keynotes are available online, Google Cloud Next '26 in Las Vegas offers an irreplaceable in-person experience centered on networking, hands-on problem solving, and the transition to agentic AI. The event features specialized technical tracks covering everything from Gemini multimodal breakthroughs to zero-trust security on Cloud Run, providing developers with the tools to balance individual speed with organizational stability. Beyond formal sessions, the \"in-person advantage\" lies in over 20 developer meetups and collaborative whiteboard sessions designed to foster serendipitous breakthroughs. Ultimately, the conference serves as a high-energy hub for engineers to move beyond the hype and master the modern building blocks of software architecture together.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03052026a",
+      "title": "iOS 26.4 beta 3 v.2 (23E5223k)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03052026a",
+      "published_at": "Thu, 05 Mar 2026 11:00:00 PST",
+      "fetched_at": "2026-03-06T00:29:39.886779",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03052026b",
+      "title": "iPadOS 26.4 beta 3 v.2 (23E5223k)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03052026b",
+      "published_at": "Thu, 05 Mar 2026 11:00:00 PST",
+      "fetched_at": "2026-03-06T00:29:39.886779",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03052026c",
+      "title": "watchOS 26.4 beta 3 v.2 (23T5226i)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03052026c",
+      "published_at": "Thu, 05 Mar 2026 11:00:00 PST",
+      "fetched_at": "2026-03-06T00:29:39.886779",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94298",
+      "title": "60 million Copilot code reviews and counting",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/",
+      "published_at": "Thu, 05 Mar 2026 20:10:43 +0000",
+      "fetched_at": "2026-03-06T00:29:39.886779",
+      "tags": [],
+      "summary": "<p>How Copilot code review helps teams keep up with AI-accelerated code changes.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/\">60 million Copilot code reviews and counting</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94275",
+      "title": "Scaling AI opportunity across the globe: Learnings from GitHub and Andela",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/",
+      "published_at": "Thu, 05 Mar 2026 17:00:00 +0000",
+      "fetched_at": "2026-03-06T00:29:39.886779",
+      "tags": [],
+      "summary": "<p>Developers connected to Andela share how they\u2019re learning AI tools inside real production workflows.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/\">Scaling AI opportunity across the globe: Learnings from GitHub and Andela</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
