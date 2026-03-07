@@ -164,6 +164,17 @@
       "tags": [],
       "summary": "<p>Developers connected to Andela share how they\u2019re learning AI tools inside real production workflows.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/\">Scaling AI opportunity across the globe: Learnings from GitHub and Andela</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94370",
+      "title": "How to scan for vulnerabilities with GitHub Security Lab\u2019s open source AI-powered framework",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/",
+      "published_at": "Fri, 06 Mar 2026 21:09:04 +0000",
+      "fetched_at": "2026-03-07T00:24:55.897512",
+      "tags": [],
+      "summary": "<p>GitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities.</p>\n<p>The post <a href=\"https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/\">How to scan for vulnerabilities with GitHub Security Lab\u2019s open source AI-powered framework</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
