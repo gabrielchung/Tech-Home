@@ -175,6 +175,17 @@
       "tags": [],
       "summary": "<p>GitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities.</p>\n<p>The post <a href=\"https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/\">How to scan for vulnerabilities with GitHub Security Lab\u2019s open source AI-powered framework</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94363",
+      "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
+      "published_at": "Mon, 09 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "<p>GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architecture help teams run agents safely in GitHub Actions. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/\">Under the hood: Security architecture of GitHub Agentic Workflows</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

@@ -1209,6 +1209,116 @@
       "tags": [],
       "summary": "<p>GitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities.</p>\n<p>The post <a href=\"https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/\">How to scan for vulnerabilities with GitHub Security Lab\u2019s open source AI-powered framework</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/introducing-wednesday-build-hour/",
+      "title": "Introducing Wednesday Build Hour",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/introducing-wednesday-build-hour/",
+      "published_at": "",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "Wednesday Build Hour is a weekly, interactive \"technical gym session\" led by Google Cloud experts to help developers and architects sharpen their cloud skills. Moving beyond passive slide decks, the program focuses on hands-on building, covering advanced topics like AI agents, Vertex AI, and developer productivity tools. Each hour-long session is designed to provide tangible results that participants can immediately deploy into their own workflows. It serves as a consistent, dedicated space for builders to stay ahead of the curve and connect with a community of cloud engineers.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026g",
+      "title": "Xcode 26.4 beta 3 (17E5179g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026g",
+      "published_at": "Mon, 09 Mar 2026 10:45:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026a",
+      "title": "iOS 26.4 beta 4 (23E5234a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026a",
+      "published_at": "Mon, 09 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026b",
+      "title": "iPadOS 26.4 beta 4 (23E5234a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026b",
+      "published_at": "Mon, 09 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026c",
+      "title": "macOS 26.4 beta 4 (25E5233c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026c",
+      "published_at": "Mon, 09 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026d",
+      "title": "tvOS 26.4 beta 4 (23L5234a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026d",
+      "published_at": "Mon, 09 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026e",
+      "title": "visionOS 26.4 beta 4 (23O5235a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026e",
+      "published_at": "Mon, 09 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026f",
+      "title": "watchOS 26.4 beta 4 (23T5236a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026f",
+      "published_at": "Mon, 09 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10062025h",
+      "title": "TestFlight 4.0",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10062025h",
+      "published_at": "Mon, 06 Oct 2025 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94363",
+      "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
+      "published_at": "Mon, 09 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "<p>GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architecture help teams run agents safely in GitHub Actions. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/\">Under the hood: Security architecture of GitHub Agentic Workflows</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

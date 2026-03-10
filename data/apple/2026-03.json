@@ -670,6 +670,94 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026g",
+      "title": "Xcode 26.4 beta 3 (17E5179g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026g",
+      "published_at": "Mon, 09 Mar 2026 10:45:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026a",
+      "title": "iOS 26.4 beta 4 (23E5234a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026a",
+      "published_at": "Mon, 09 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026b",
+      "title": "iPadOS 26.4 beta 4 (23E5234a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026b",
+      "published_at": "Mon, 09 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026c",
+      "title": "macOS 26.4 beta 4 (25E5233c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026c",
+      "published_at": "Mon, 09 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026d",
+      "title": "tvOS 26.4 beta 4 (23L5234a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026d",
+      "published_at": "Mon, 09 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026e",
+      "title": "visionOS 26.4 beta 4 (23O5235a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026e",
+      "published_at": "Mon, 09 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03092026f",
+      "title": "watchOS 26.4 beta 4 (23T5236a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03092026f",
+      "published_at": "Mon, 09 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10062025h",
+      "title": "TestFlight 4.0",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10062025h",
+      "published_at": "Mon, 06 Oct 2025 10:00:00 PDT",
+      "fetched_at": "2026-03-10T00:22:33.391395",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
     }
   ]
 }
