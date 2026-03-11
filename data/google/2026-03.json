@@ -263,6 +263,28 @@
       "tags": [],
       "summary": "Wednesday Build Hour is a weekly, interactive \"technical gym session\" led by Google Cloud experts to help developers and architects sharpen their cloud skills. Moving beyond passive slide decks, the program focuses on hands-on building, covering advanced topics like AI agents, Vertex AI, and developer productivity tools. Each hour-long session is designed to provide tangible results that participants can immediately deploy into their own workflows. It serves as a consistent, dedicated space for builders to stay ahead of the curve and connect with a community of cloud engineers.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/unleash-your-development-superpowers-refining-the-core-coding-experience/",
+      "title": "Unleash Your Development Superpowers: Refining the Core Coding Experience",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/unleash-your-development-superpowers-refining-the-core-coding-experience/",
+      "published_at": "",
+      "fetched_at": "2026-03-11T00:22:38.436671",
+      "tags": [],
+      "summary": "The Gemini Code Assist team has introduced a suite of updates focused on streamlining the core coding workflow through high-velocity tools like Agent Mode with Auto Approve and Inline Diff Views. These enhancements, along with new features for precise context management and custom commands, aim to transform the AI from a general assistant into a highly tailored, seamless collaborator that adapts to your specific development style.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/introducing-finish-changes-and-outlines-now-available-in-gemini-code-assist-extensions-on-intellij-and-vs-code/",
+      "title": "Introducing Finish Changes and Outlines, now available in Gemini Code Assist extensions on IntelliJ and VS Code",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/introducing-finish-changes-and-outlines-now-available-in-gemini-code-assist-extensions-on-intellij-and-vs-code/",
+      "published_at": "",
+      "fetched_at": "2026-03-11T00:22:38.436671",
+      "tags": [],
+      "summary": "Google has introduced Finish Changes and Outlines for Gemini Code Assist in IntelliJ and VS Code to reduce developer friction and eliminate the need for long, manual prompting. Finish Changes acts as an AI pair programmer that completes code, implements pseudocode, and applies refactoring patterns by observing your current edits and context. Meanwhile, Outlines improves code comprehension by generating interactive, high-level English summaries interleaved directly within the source code to help engineers navigate and understand complex files.",
+      "notes": ""
     }
   ]
 }

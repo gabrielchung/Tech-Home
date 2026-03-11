@@ -1319,6 +1319,61 @@
       "tags": [],
       "summary": "<p>GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architecture help teams run agents safely in GitHub Actions. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/\">Under the hood: Security architecture of GitHub Agentic Workflows</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/unleash-your-development-superpowers-refining-the-core-coding-experience/",
+      "title": "Unleash Your Development Superpowers: Refining the Core Coding Experience",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/unleash-your-development-superpowers-refining-the-core-coding-experience/",
+      "published_at": "",
+      "fetched_at": "2026-03-11T00:22:38.436671",
+      "tags": [],
+      "summary": "The Gemini Code Assist team has introduced a suite of updates focused on streamlining the core coding workflow through high-velocity tools like Agent Mode with Auto Approve and Inline Diff Views. These enhancements, along with new features for precise context management and custom commands, aim to transform the AI from a general assistant into a highly tailored, seamless collaborator that adapts to your specific development style.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/introducing-finish-changes-and-outlines-now-available-in-gemini-code-assist-extensions-on-intellij-and-vs-code/",
+      "title": "Introducing Finish Changes and Outlines, now available in Gemini Code Assist extensions on IntelliJ and VS Code",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/introducing-finish-changes-and-outlines-now-available-in-gemini-code-assist-extensions-on-intellij-and-vs-code/",
+      "published_at": "",
+      "fetched_at": "2026-03-11T00:22:38.436671",
+      "tags": [],
+      "summary": "Google has introduced Finish Changes and Outlines for Gemini Code Assist in IntelliJ and VS Code to reduce developer friction and eliminate the need for long, manual prompting. Finish Changes acts as an AI pair programmer that completes code, implements pseudocode, and applies refactoring patterns by observing your current edits and context. Meanwhile, Outlines improves code comprehension by generating interactive, high-level English summaries interleaved directly within the source code to help engineers navigate and understand complex files.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03102026b",
+      "title": "App Store Connect API 4.3",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03102026b",
+      "published_at": "Tue, 10 Mar 2026 14:00:00 PDT",
+      "fetched_at": "2026-03-11T00:22:38.436671",
+      "tags": [],
+      "summary": "Download fileView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03102026a",
+      "title": "macOS 26.3.2 (25D2140)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03102026a",
+      "published_at": "Tue, 10 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-11T00:22:38.436671",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94415",
+      "title": "The era of \u201cAI as text\u201d is over. Execution is the new interface.",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/",
+      "published_at": "Tue, 10 Mar 2026 20:16:01 +0000",
+      "fetched_at": "2026-03-11T00:22:38.436671",
+      "tags": [],
+      "summary": "<p>AI is shifting from prompt-response interactions to programmable execution. See how the GitHub Copilot SDK enables agentic workflows directly inside your applications.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/\">The era of \u201cAI as text\u201d is over. Execution is the new interface.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

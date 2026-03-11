@@ -758,6 +758,28 @@
       "tags": [],
       "summary": "Download the appView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03102026b",
+      "title": "App Store Connect API 4.3",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03102026b",
+      "published_at": "Tue, 10 Mar 2026 14:00:00 PDT",
+      "fetched_at": "2026-03-11T00:22:38.436671",
+      "tags": [],
+      "summary": "Download fileView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03102026a",
+      "title": "macOS 26.3.2 (25D2140)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03102026a",
+      "published_at": "Tue, 10 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-11T00:22:38.436671",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
