@@ -780,6 +780,61 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03112026a",
+      "title": "iOS 16.7.15 (20H380)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03112026a",
+      "published_at": "Wed, 11 Mar 2026 14:00:00 PDT",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03112026b",
+      "title": "iPadOS 16.7.15 (20H380)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03112026b",
+      "published_at": "Wed, 11 Mar 2026 14:00:00 PDT",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03112026c",
+      "title": "iOS 15.8.7 (19H411)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03112026c",
+      "published_at": "Wed, 11 Mar 2026 14:00:00 PDT",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03112026d",
+      "title": "iPadOS 15.8.7 (19H411)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03112026d",
+      "published_at": "Wed, 11 Mar 2026 14:00:00 PDT",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03102026c",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03102026c",
+      "published_at": "Tue, 10 Mar 2026 19:00:00 PDT",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
     }
   ]
 }

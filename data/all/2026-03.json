@@ -1374,6 +1374,83 @@
       "tags": [],
       "summary": "<p>AI is shifting from prompt-response interactions to programmable execution. See how the GitHub Copilot SDK enables agentic workflows directly inside your applications.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/\">The era of \u201cAI as text\u201d is over. Execution is the new interface.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/plan-mode-now-available-in-gemini-cli/",
+      "title": "Plan mode is now available in Gemini CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/plan-mode-now-available-in-gemini-cli/",
+      "published_at": "",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "Gemini CLI now features Plan Mode, a read-only environment that allows the AI to analyze complex codebases and map out architectural changes without the risk of accidental execution. By leveraging the new ask_user tool and expanded Model Context Protocol (MCP) support, developers can collaboratively refine strategies and pull in external data before committing to implementation.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03112026a",
+      "title": "iOS 16.7.15 (20H380)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03112026a",
+      "published_at": "Wed, 11 Mar 2026 14:00:00 PDT",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03112026b",
+      "title": "iPadOS 16.7.15 (20H380)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03112026b",
+      "published_at": "Wed, 11 Mar 2026 14:00:00 PDT",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03112026c",
+      "title": "iOS 15.8.7 (19H411)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03112026c",
+      "published_at": "Wed, 11 Mar 2026 14:00:00 PDT",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03112026d",
+      "title": "iPadOS 15.8.7 (19H411)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03112026d",
+      "published_at": "Wed, 11 Mar 2026 14:00:00 PDT",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03102026c",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03102026c",
+      "published_at": "Tue, 10 Mar 2026 19:00:00 PDT",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94472",
+      "title": "Addressing GitHub\u2019s recent availability issues",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/",
+      "published_at": "Wed, 11 Mar 2026 21:41:51 +0000",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "<p>GitHub recently experienced several availability incidents. We understand the impact these outages have on our customers and are sharing details on the stabilization work we\u2019re prioritizing right now.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/\">Addressing GitHub\u2019s recent availability issues</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

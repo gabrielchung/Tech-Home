@@ -285,6 +285,17 @@
       "tags": [],
       "summary": "Google has introduced Finish Changes and Outlines for Gemini Code Assist in IntelliJ and VS Code to reduce developer friction and eliminate the need for long, manual prompting. Finish Changes acts as an AI pair programmer that completes code, implements pseudocode, and applies refactoring patterns by observing your current edits and context. Meanwhile, Outlines improves code comprehension by generating interactive, high-level English summaries interleaved directly within the source code to help engineers navigate and understand complex files.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/plan-mode-now-available-in-gemini-cli/",
+      "title": "Plan mode is now available in Gemini CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/plan-mode-now-available-in-gemini-cli/",
+      "published_at": "",
+      "fetched_at": "2026-03-12T00:21:36.131037",
+      "tags": [],
+      "summary": "Gemini CLI now features Plan Mode, a read-only environment that allows the AI to analyze complex codebases and map out architectural changes without the risk of accidental execution. By leveraging the new ask_user tool and expanded Model Context Protocol (MCP) support, developers can collaboratively refine strategies and pull in external data before committing to implementation.",
+      "notes": ""
     }
   ]
 }
