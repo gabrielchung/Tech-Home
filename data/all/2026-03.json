@@ -1451,6 +1451,28 @@
       "tags": [],
       "summary": "<p>GitHub recently experienced several availability incidents. We understand the impact these outages have on our customers and are sharing details on the stabilization work we\u2019re prioritizing right now.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/\">Addressing GitHub\u2019s recent availability issues</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94451",
+      "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
+      "published_at": "Thu, 12 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-03-13T00:25:39.186595",
+      "tags": [],
+      "summary": "<p>AI automates triage for accessibility feedback, allowing us to focus on fixing barriers\u2014turning a chaotic backlog into continuous, rapid resolutions.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/\">Continuous AI for accessibility: How GitHub transforms feedback into inclusion</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94475",
+      "title": "GitHub availability report: February 2026",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-february-2026/",
+      "published_at": "Thu, 12 Mar 2026 03:23:54 +0000",
+      "fetched_at": "2026-03-13T00:25:39.186595",
+      "tags": [],
+      "summary": "<p>In February, we experienced six incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-february-2026/\">GitHub availability report: February 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
