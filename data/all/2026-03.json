@@ -1473,6 +1473,17 @@
       "tags": [],
       "summary": "<p>In February, we experienced six incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-february-2026/\">GitHub availability report: February 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94509",
+      "title": "GitHub for Beginners: Getting started with GitHub Actions",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/",
+      "published_at": "Mon, 16 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-03-17T00:25:45.212905",
+      "tags": [],
+      "summary": "<p>Set up your first GitHub Actions workflow in this how-to guide.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/\">GitHub for Beginners: Getting started with GitHub Actions</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
