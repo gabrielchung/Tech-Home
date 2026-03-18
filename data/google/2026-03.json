@@ -296,6 +296,17 @@
       "tags": [],
       "summary": "Gemini CLI now features Plan Mode, a read-only environment that allows the AI to analyze complex codebases and map out architectural changes without the risk of accidental execution. By leveraging the new ask_user tool and expanded Model Context Protocol (MCP) support, developers can collaboratively refine strategies and pull in external data before committing to implementation.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/",
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/",
+      "published_at": "",
+      "fetched_at": "2026-03-18T00:27:16.489607",
+      "tags": [],
+      "summary": "When you\u2019re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, thei...",
+      "notes": ""
     }
   ]
 }

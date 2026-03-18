@@ -1484,6 +1484,28 @@
       "tags": [],
       "summary": "<p>Set up your first GitHub Actions workflow in this how-to guide.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/\">GitHub for Beginners: Getting started with GitHub Actions</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/",
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/",
+      "published_at": "",
+      "fetched_at": "2026-03-18T00:27:16.489607",
+      "tags": [],
+      "summary": "When you\u2019re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, thei...",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94538",
+      "title": "Investing in the people shaping open source and securing the future together",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/",
+      "published_at": "Tue, 17 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-03-18T00:27:16.489607",
+      "tags": [],
+      "summary": "<p>See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and strengthen software supply chains.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/\">\u202fInvesting in the people shaping open source and securing the future together</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
