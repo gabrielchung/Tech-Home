@@ -307,6 +307,17 @@
       "tags": [],
       "summary": "When you\u2019re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, thei...",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/",
+      "title": "Developer\u2019s Guide to AI Agent Protocols",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/",
+      "published_at": "",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "This blog post introduces a suite of six protocols, such as MCP and A2A, designed to eliminate custom integration code by standardizing how AI agents access data and communicate. Using a \"kitchen manager\" agent as a practical example, it demonstrates how these tools handle complex tasks like real-time inventory checks, wholesale commerce via UCP, and secure payment authorization through AP2. By leveraging the Agent Development Kit (ADK), developers can also implement A2UI and AG-UI to deliver interactive dashboards and seamless streaming interfaces to users.",
+      "notes": ""
     }
   ]
 }

@@ -1506,6 +1506,116 @@
       "tags": [],
       "summary": "<p>See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and strengthen software supply chains.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/\">\u202fInvesting in the people shaping open source and securing the future together</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/",
+      "title": "Developer\u2019s Guide to AI Agent Protocols",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/",
+      "published_at": "",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "This blog post introduces a suite of six protocols, such as MCP and A2A, designed to eliminate custom integration code by standardizing how AI agents access data and communicate. Using a \"kitchen manager\" agent as a practical example, it demonstrates how these tools handle complex tasks like real-time inventory checks, wholesale commerce via UCP, and secure payment authorization through AP2. By leveraging the Agent Development Kit (ADK), developers can also implement A2UI and AG-UI to deliver interactive dashboards and seamless streaming interfaces to users.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026i",
+      "title": "Xcode 26.4 Release Candidate (17E192)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026i",
+      "published_at": "Wed, 18 Mar 2026 11:35:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026a",
+      "title": "iOS 26.4 RC (23E244)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026a",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026b",
+      "title": "iPadOS 26.4 RC (23E244)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026b",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026c",
+      "title": "macOS 26.4 RC (25E243)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026c",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026d",
+      "title": "tvOS 26.4 RC (23L240)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026d",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026e",
+      "title": "visionOS 26.4 RC (23O244)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026e",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026f",
+      "title": "watchOS 26.4 RC (23T239)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026f",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026g",
+      "title": "iOS 18.7.7 RC (22H333)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026g",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026h",
+      "title": "iPadOS 18.7.7 RC (22H333)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026h",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
     }
   ]
 }

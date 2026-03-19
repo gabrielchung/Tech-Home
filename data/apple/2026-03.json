@@ -835,6 +835,105 @@
       "tags": [],
       "summary": "View release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026i",
+      "title": "Xcode 26.4 Release Candidate (17E192)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026i",
+      "published_at": "Wed, 18 Mar 2026 11:35:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026a",
+      "title": "iOS 26.4 RC (23E244)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026a",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026b",
+      "title": "iPadOS 26.4 RC (23E244)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026b",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026c",
+      "title": "macOS 26.4 RC (25E243)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026c",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026d",
+      "title": "tvOS 26.4 RC (23L240)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026d",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026e",
+      "title": "visionOS 26.4 RC (23O244)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026e",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026f",
+      "title": "watchOS 26.4 RC (23T239)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026f",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026g",
+      "title": "iOS 18.7.7 RC (22H333)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026g",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03182026h",
+      "title": "iPadOS 18.7.7 RC (22H333)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03182026h",
+      "published_at": "Wed, 18 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-19T00:27:41.502211",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
     }
   ]
 }
