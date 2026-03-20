@@ -252,6 +252,28 @@
       "tags": [],
       "summary": "<p>See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and strengthen software supply chains.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/\">\u202fInvesting in the people shaping open source and securing the future together</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94621",
+      "title": "Rethinking open source mentorship in the AI era",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/",
+      "published_at": "Thu, 19 Mar 2026 18:00:00 +0000",
+      "fetched_at": "2026-03-20T00:26:05.274662",
+      "tags": [],
+      "summary": "<p>As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning out.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/\">Rethinking open source mentorship in the AI era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94634",
+      "title": "How Squad runs coordinated AI agents inside your repository",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
+      "published_at": "Thu, 19 Mar 2026 16:09:50 +0000",
+      "fetched_at": "2026-03-20T00:26:05.274662",
+      "tags": [],
+      "summary": "<p>An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/\">How Squad runs coordinated AI agents inside your repository</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
