@@ -274,6 +274,17 @@
       "tags": [],
       "summary": "<p>An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/\">How Squad runs coordinated AI agents inside your repository</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94729",
+      "title": "GitHub expands application security coverage with AI\u2011powered detections",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/",
+      "published_at": "Mon, 23 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-03-24T00:23:51.003797",
+      "tags": [],
+      "summary": "<p>CodeQL and AI\u2011powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/\">GitHub expands application security coverage with AI\u2011powered detections</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
