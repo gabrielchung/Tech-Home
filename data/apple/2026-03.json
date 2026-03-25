@@ -945,6 +945,116 @@
       "tags": [],
       "summary": "View release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026j",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026j",
+      "published_at": "Tue, 24 Mar 2026 12:45:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026i",
+      "title": "Xcode 26.4 (17E192)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026i",
+      "published_at": "Tue, 24 Mar 2026 11:30:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026a",
+      "title": "iOS 26.4 (23E246)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026a",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026b",
+      "title": "iPadOS 26.4 (23E246)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026b",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026c",
+      "title": "macOS 26.4 (25E246)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026c",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026d",
+      "title": "tvOS 26.4 (23L243)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026d",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026e",
+      "title": "visionOS 26.4 (23O247)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026e",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026f",
+      "title": "watchOS 26.4 (23T240)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026f",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026g",
+      "title": "iOS 18.7.7 (22H333)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026g",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026h",
+      "title": "iPadOS 18.7.7 (22H333)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026h",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
     }
   ]
 }

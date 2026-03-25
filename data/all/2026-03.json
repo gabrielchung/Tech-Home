@@ -1671,6 +1671,138 @@
       "tags": [],
       "summary": "<p>CodeQL and AI\u2011powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/\">GitHub expands application security coverage with AI\u2011powered detections</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/jump-to-play-building-with-gemini-mediapipe/",
+      "title": "Jump to play: Building with Gemini & MediaPipe",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/jump-to-play-building-with-gemini-mediapipe/",
+      "published_at": "",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "The provided workflow streamlines motion-controlled game development by using Gemini Canvas to rapidly prototype mechanics like the MediaPipe Pose Landmarker through high-level prompting. Developers can refine these prototypes in Google AI Studio by optimizing for low-latency \"lite\" models and stable tracking points, such as shoulder landmarks, to ensure responsive gameplay. The process concludes by using Gemini Code Assist to refactor experimental code into a modular, production-ready application capable of supporting various multimodal inputs.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026j",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026j",
+      "published_at": "Tue, 24 Mar 2026 12:45:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026i",
+      "title": "Xcode 26.4 (17E192)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026i",
+      "published_at": "Tue, 24 Mar 2026 11:30:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026a",
+      "title": "iOS 26.4 (23E246)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026a",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026b",
+      "title": "iPadOS 26.4 (23E246)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026b",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026c",
+      "title": "macOS 26.4 (25E246)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026c",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026d",
+      "title": "tvOS 26.4 (23L243)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026d",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026e",
+      "title": "visionOS 26.4 (23O247)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026e",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026f",
+      "title": "watchOS 26.4 (23T240)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026f",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026g",
+      "title": "iOS 18.7.7 (22H333)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026g",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03242026h",
+      "title": "iPadOS 18.7.7 (22H333)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03242026h",
+      "published_at": "Tue, 24 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94665",
+      "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
+      "published_at": "Tue, 24 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "<p>Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradation and caching.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/\">Building AI-powered GitHub issue triage with the Copilot SDK</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

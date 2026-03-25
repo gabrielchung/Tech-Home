@@ -285,6 +285,17 @@
       "tags": [],
       "summary": "<p>CodeQL and AI\u2011powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/\">GitHub expands application security coverage with AI\u2011powered detections</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94665",
+      "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
+      "published_at": "Tue, 24 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-03-25T00:27:10.148055",
+      "tags": [],
+      "summary": "<p>Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradation and caching.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/\">Building AI-powered GitHub issue triage with the Copilot SDK</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
