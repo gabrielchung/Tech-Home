@@ -340,6 +340,17 @@
       "tags": [],
       "summary": "The provided workflow streamlines motion-controlled game development by using Gemini Canvas to rapidly prototype mechanics like the MediaPipe Pose Landmarker through high-level prompting. Developers can refine these prototypes in Google AI Studio by optimizing for low-latency \"lite\" models and stable tracking points, such as shoulder landmarks, to ensure responsive gameplay. The process concludes by using Gemini Code Assist to refactor experimental code into a modular, production-ready application capable of supporting various multimodal inputs.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/closing-the-knowledge-gap-with-agent-skills/",
+      "title": "Closing the knowledge gap with agent skills",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/closing-the-knowledge-gap-with-agent-skills/",
+      "published_at": "",
+      "fetched_at": "2026-03-26T00:29:01.030604",
+      "tags": [],
+      "summary": "To bridge the gap between static model knowledge and rapidly evolving software practices, Google DeepMind developed a \"Gemini API developer skill\" that provides agents with live documentation and SDK guidance. Evaluation results show a massive performance boost, with the gemini-3.1-pro-preview model jumping from a 28.2% to a 96.6% success rate when equipped with the skill. This lightweight approach demonstrates how giving models strong reasoning capabilities and access to a \"source of truth\" can effectively eliminate outdated coding patterns.",
+      "notes": ""
     }
   ]
 }

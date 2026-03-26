@@ -296,6 +296,17 @@
       "tags": [],
       "summary": "<p>Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradation and caching.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/\">Building AI-powered GitHub issue triage with the Copilot SDK</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94234",
+      "title": "Updates to GitHub Copilot interaction data usage policy",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+      "published_at": "Wed, 25 Mar 2026 19:02:29 +0000",
+      "fetched_at": "2026-03-26T00:29:01.030604",
+      "tags": [],
+      "summary": "<p>From April 24 onward, interaction data\u2014specifically inputs, outputs, code snippets, and associated context\u2014from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/\">Updates to GitHub Copilot interaction data usage policy</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
