@@ -351,6 +351,17 @@
       "tags": [],
       "summary": "To bridge the gap between static model knowledge and rapidly evolving software practices, Google DeepMind developed a \"Gemini API developer skill\" that provides agents with live documentation and SDK guidance. Evaluation results show a massive performance boost, with the gemini-3.1-pro-preview model jumping from a 28.2% to a 96.6% success rate when equipped with the skill. This lightweight approach demonstrates how giving models strong reasoning capabilities and access to a \"source of truth\" can effectively eliminate outdated coding patterns.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-adk-for-java-100-building-the-future-of-ai-agents-in-java/",
+      "title": "Announcing ADK for Java 1.0.0: Building the Future of AI Agents in Java",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-adk-for-java-100-building-the-future-of-ai-agents-in-java/",
+      "published_at": "",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "Google has released version 1.0.0 of the Agent Development Kit (ADK) for Java, introducing powerful new features like Google Maps grounding, built-in URL fetching, and a standardized Agent2Agent protocol for cross-framework collaboration. The update enhances agent control through a new \"App\" and \"Plugin\" architecture, which allows for global logging, automated context window management via event compaction, and \"Human-in-the-Loop\" workflows for action confirmations. Additionally, the release provides robust session and memory services using Google Cloud integrations like Firestore and Vertex AI to manage long-term state and large data artifacts.",
+      "notes": ""
     }
   ]
 }

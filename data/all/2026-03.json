@@ -1847,6 +1847,105 @@
       "tags": [],
       "summary": "<p>Reviewed advisories hit a four-year low, malware advisories surged, and CNA publishing grew\u2014here\u2019s what changed and what it means for your triage and response. </p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/\">A year of open source vulnerability trends: CVEs, advisories, and malware</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-adk-for-java-100-building-the-future-of-ai-agents-in-java/",
+      "title": "Announcing ADK for Java 1.0.0: Building the Future of AI Agents in Java",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-adk-for-java-100-building-the-future-of-ai-agents-in-java/",
+      "published_at": "",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "Google has released version 1.0.0 of the Agent Development Kit (ADK) for Java, introducing powerful new features like Google Maps grounding, built-in URL fetching, and a standardized Agent2Agent protocol for cross-framework collaboration. The update enhances agent control through a new \"App\" and \"Plugin\" architecture, which allows for global logging, automated context window management via event compaction, and \"Human-in-the-Loop\" workflows for action confirmations. Additionally, the release provides robust session and memory services using Google Cloud integrations like Firestore and Vertex AI to manage long-term state and large data artifacts.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026g",
+      "title": "Xcode 26.5 beta (17F5012f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026g",
+      "published_at": "Mon, 30 Mar 2026 14:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026a",
+      "title": "iOS 26.5 beta (23F5043g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026a",
+      "published_at": "Mon, 30 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026b",
+      "title": "iPadOS 26.5 beta (23F5043g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026b",
+      "published_at": "Mon, 30 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026c",
+      "title": "macOS 26.5 beta (25F5042g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026c",
+      "published_at": "Mon, 30 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026d",
+      "title": "tvOS 26.5 beta (23L5443g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026d",
+      "published_at": "Mon, 30 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026e",
+      "title": "visionOS 26.5 beta (23O5441g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026e",
+      "published_at": "Mon, 30 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026f",
+      "title": "watchOS 26.5 beta (23T5541h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026f",
+      "published_at": "Mon, 30 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94754",
+      "title": "GitHub for Beginners: Getting started with GitHub security",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
+      "published_at": "Mon, 30 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "<p>Learn how to secure your projects and keep them safe with GitHub Advanced Security.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/\">GitHub for Beginners: Getting started with GitHub security</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

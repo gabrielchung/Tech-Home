@@ -329,6 +329,17 @@
       "tags": [],
       "summary": "<p>Reviewed advisories hit a four-year low, malware advisories surged, and CNA publishing grew\u2014here\u2019s what changed and what it means for your triage and response. </p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/\">A year of open source vulnerability trends: CVEs, advisories, and malware</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94754",
+      "title": "GitHub for Beginners: Getting started with GitHub security",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
+      "published_at": "Mon, 30 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "<p>Learn how to secure your projects and keep them safe with GitHub Advanced Security.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/\">GitHub for Beginners: Getting started with GitHub security</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

@@ -1055,6 +1055,83 @@
       "tags": [],
       "summary": "View downloads",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026g",
+      "title": "Xcode 26.5 beta (17F5012f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026g",
+      "published_at": "Mon, 30 Mar 2026 14:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026a",
+      "title": "iOS 26.5 beta (23F5043g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026a",
+      "published_at": "Mon, 30 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026b",
+      "title": "iPadOS 26.5 beta (23F5043g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026b",
+      "published_at": "Mon, 30 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026c",
+      "title": "macOS 26.5 beta (25F5042g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026c",
+      "published_at": "Mon, 30 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026d",
+      "title": "tvOS 26.5 beta (23L5443g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026d",
+      "published_at": "Mon, 30 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026e",
+      "title": "visionOS 26.5 beta (23O5441g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026e",
+      "published_at": "Mon, 30 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=03302026f",
+      "title": "watchOS 26.5 beta (23T5541h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=03302026f",
+      "published_at": "Mon, 30 Mar 2026 10:00:00 PDT",
+      "fetched_at": "2026-03-31T00:29:26.037024",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
