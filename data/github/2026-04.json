@@ -1,0 +1,114 @@
+{
+  "articles": [
+    {
+      "id": "https://github.blog/?p=94904",
+      "title": "Agent-driven development in Copilot Applied Science",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
+      "published_at": "Tue, 31 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "<p>I used coding agents to build agents that automated part of my job. Here's what I learned about working better with coding agents.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/\">Agent-driven development in Copilot Applied Science</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94754",
+      "title": "GitHub for Beginners: Getting started with GitHub security",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
+      "published_at": "Mon, 30 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "<p>Learn how to secure your projects and keep them safe with GitHub Advanced Security.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/\">GitHub for Beginners: Getting started with GitHub security</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94836",
+      "title": "What\u2019s coming to our GitHub Actions 2026 security roadmap",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
+      "published_at": "Thu, 26 Mar 2026 16:49:14 +0000",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "<p>A look at GitHub Actions\u2019 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/\">What&#8217;s coming to our GitHub Actions 2026 security roadmap</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94767",
+      "title": "A year of open source vulnerability trends: CVEs, advisories, and malware",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/",
+      "published_at": "Thu, 26 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "<p>Reviewed advisories hit a four-year low, malware advisories surged, and CNA publishing grew\u2014here\u2019s what changed and what it means for your triage and response. </p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/\">A year of open source vulnerability trends: CVEs, advisories, and malware</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94234",
+      "title": "Updates to GitHub Copilot interaction data usage policy",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+      "published_at": "Wed, 25 Mar 2026 19:02:29 +0000",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "<p>From April 24 onward, interaction data\u2014specifically inputs, outputs, code snippets, and associated context\u2014from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/\">Updates to GitHub Copilot interaction data usage policy</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94665",
+      "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
+      "published_at": "Tue, 24 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "<p>Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradation and caching.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/\">Building AI-powered GitHub issue triage with the Copilot SDK</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94729",
+      "title": "GitHub expands application security coverage with AI\u2011powered detections",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/",
+      "published_at": "Mon, 23 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "<p>CodeQL and AI\u2011powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/\">GitHub expands application security coverage with AI\u2011powered detections</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94621",
+      "title": "Rethinking open source mentorship in the AI era",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/",
+      "published_at": "Thu, 19 Mar 2026 18:00:00 +0000",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "<p>As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning out.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/\">Rethinking open source mentorship in the AI era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94634",
+      "title": "How Squad runs coordinated AI agents inside your repository",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
+      "published_at": "Thu, 19 Mar 2026 16:09:50 +0000",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "<p>An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/\">How Squad runs coordinated AI agents inside your repository</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94538",
+      "title": "Investing in the people shaping open source and securing the future together",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/",
+      "published_at": "Tue, 17 Mar 2026 16:00:00 +0000",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "<p>See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and strengthen software supply chains.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/\">Investing in the people shaping open source and securing the future together</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    }
+  ]
+}

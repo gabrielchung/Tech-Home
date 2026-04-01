@@ -1,0 +1,224 @@
+{
+  "articles": [
+    {
+      "id": "https://developers.googleblog.com/boost-training-goodput-how-continuous-checkpointing-optimizes-reliability-in-orbax-and-maxtext/",
+      "title": "Boost Training Goodput: How Continuous Checkpointing Optimizes Reliability in Orbax and MaxText",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/boost-training-goodput-how-continuous-checkpointing-optimizes-reliability-in-orbax-and-maxtext/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "The newly introduced continuous checkpointing feature in Orbax and MaxText is designed to optimize the balance between reliability and performance during model training, addressing issues with conventional fixed-frequency checkpointing. Unlike fixed intervals\u2014which can either compromise reliability or bottleneck performance\u2014continuous checkpointing maximizes I/O bandwidth and minimizes failure risk by asynchronously initiating a new save operation only after the previous one successfully completes. Benchmarks demonstrate that this approach significantly reduces checkpoint intervals and results in substantial resource conservation, especially in large-scale training jobs where mean-time-between-failure (MTBF) is short.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/adk-go-10-arrives/",
+      "title": "ADK Go 1.0 Arrives!",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/adk-go-10-arrives/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "The launch of Agent Development Kit (ADK) for Go 1.0 marks a significant shift from experimental AI scripts to production-ready services by prioritizing observability, security, and extensibility. Key updates include native OpenTelemetry integration for deep tracing, a new plugin system for self-healing logic, and \"Human-in-the-Loop\" confirmations to ensure safety during sensitive operations. Additionally, the release introduces YAML-based configurations for rapid iteration and refined Agent2Agent (A2A) protocols to support seamless communication across different programming languages. This framework empowers developers to build complex, reliable multi-agent systems using the high-performance engineering standards of Golang.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-adk-for-java-100-building-the-future-of-ai-agents-in-java/",
+      "title": "Announcing ADK for Java 1.0.0: Building the Future of AI Agents in Java",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-adk-for-java-100-building-the-future-of-ai-agents-in-java/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "Google has released version 1.0.0 of the Agent Development Kit (ADK) for Java, introducing powerful new features like Google Maps grounding, built-in URL fetching, and a standardized Agent2Agent protocol for cross-framework collaboration. The update enhances agent control through a new \"App\" and \"Plugin\" architecture, which allows for global logging, automated context window management via event compaction, and \"Human-in-the-Loop\" workflows for action confirmations. Additionally, the release provides robust session and memory services using Google Cloud integrations like Firestore and Vertex AI to manage long-term state and large data artifacts.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/closing-the-knowledge-gap-with-agent-skills/",
+      "title": "Closing the knowledge gap with agent skills",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/closing-the-knowledge-gap-with-agent-skills/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "To bridge the gap between static model knowledge and rapidly evolving software practices, Google DeepMind developed a \"Gemini API developer skill\" that provides agents with live documentation and SDK guidance. Evaluation results show a massive performance boost, with the gemini-3.1-pro-preview model jumping from a 28.2% to a 96.6% success rate when equipped with the skill. This lightweight approach demonstrates how giving models strong reasoning capabilities and access to a \"source of truth\" can effectively eliminate outdated coding patterns.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/jump-to-play-building-with-gemini-mediapipe/",
+      "title": "Jump to play: Building with Gemini & MediaPipe",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/jump-to-play-building-with-gemini-mediapipe/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "The provided workflow streamlines motion-controlled game development by using Gemini Canvas to rapidly prototype mechanics like the MediaPipe Pose Landmarker through high-level prompting. Developers can refine these prototypes in Google AI Studio by optimizing for low-latency \"lite\" models and stable tracking points, such as shoulder landmarks, to ensure responsive gameplay. The process concludes by using Gemini Code Assist to refactor experimental code into a modular, production-ready application capable of supporting various multimodal inputs.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-a-smart-financial-assistant-with-llamaparse-and-gemini-31/",
+      "title": "Build a smart financial assistant with LlamaParse and Gemini 3.1",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-a-smart-financial-assistant-with-llamaparse-and-gemini-31/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "This blog post introduces a workflow for extracting high-quality data from complex, unstructured documents by combining LlamaParse with Gemini 3.1 models. It demonstrates an event-driven architecture that uses Gemini 3.1 Pro for agentic parsing of dense financial tables and Gemini 3.1 Flash for cost-effective summarization. By following the provided tutorial, developers can build a personal finance assistant capable of transforming messy brokerage statements into structured, human-readable insights.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/",
+      "title": "Developer\u2019s Guide to AI Agent Protocols",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/developers-guide-to-ai-agent-protocols/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "This blog post introduces a suite of six protocols, such as MCP and A2A, designed to eliminate custom integration code by standardizing how AI agents access data and communicate. Using a \"kitchen manager\" agent as a practical example, it demonstrates how these tools handle complex tasks like real-time inventory checks, wholesale commerce via UCP, and secure payment authorization through AP2. By leveraging the Agent Development Kit (ADK), developers can also implement A2UI and AG-UI to deliver interactive dashboards and seamless streaming interfaces to users.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/",
+      "title": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "When you\u2019re prototyping locally with AI agents like Gemini CLI, Claude Code, or your own agent, thei...",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/plan-mode-now-available-in-gemini-cli/",
+      "title": "Plan mode is now available in Gemini CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/plan-mode-now-available-in-gemini-cli/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "Gemini CLI now features Plan Mode, a read-only environment that allows the AI to analyze complex codebases and map out architectural changes without the risk of accidental execution. By leveraging the new ask_user tool and expanded Model Context Protocol (MCP) support, developers can collaboratively refine strategies and pull in external data before committing to implementation.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/introducing-finish-changes-and-outlines-now-available-in-gemini-code-assist-extensions-on-intellij-and-vs-code/",
+      "title": "Introducing Finish Changes and Outlines, now available in Gemini Code Assist extensions on IntelliJ and VS Code",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/introducing-finish-changes-and-outlines-now-available-in-gemini-code-assist-extensions-on-intellij-and-vs-code/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "Google has introduced Finish Changes and Outlines for Gemini Code Assist in IntelliJ and VS Code to reduce developer friction and eliminate the need for long, manual prompting. Finish Changes acts as an AI pair programmer that completes code, implements pseudocode, and applies refactoring patterns by observing your current edits and context. Meanwhile, Outlines improves code comprehension by generating interactive, high-level English summaries interleaved directly within the source code to help engineers navigate and understand complex files.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/unleash-your-development-superpowers-refining-the-core-coding-experience/",
+      "title": "Unleash Your Development Superpowers: Refining the Core Coding Experience",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/unleash-your-development-superpowers-refining-the-core-coding-experience/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "The Gemini Code Assist team has introduced a suite of updates focused on streamlining the core coding workflow through high-velocity tools like Agent Mode with Auto Approve and Inline Diff Views. These enhancements, along with new features for precise context management and custom commands, aim to transform the AI from a general assistant into a highly tailored, seamless collaborator that adapts to your specific development style.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/introducing-wednesday-build-hour/",
+      "title": "Introducing Wednesday Build Hour",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/introducing-wednesday-build-hour/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "Wednesday Build Hour is a weekly, interactive \"technical gym session\" led by Google Cloud experts to help developers and architects sharpen their cloud skills. Moving beyond passive slide decks, the program focuses on hands-on building, covering advanced topics like AI agents, Vertex AI, and developer productivity tools. Each hour-long session is designed to provide tangible results that participants can immediately deploy into their own workflows. It serves as a consistent, dedicated space for builders to stay ahead of the curve and connect with a community of cloud engineers.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/whats-new-in-tensorflow-221/",
+      "title": "What's new in TensorFlow 2.21",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/whats-new-in-tensorflow-221/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "Google has officially launched LiteRT, the successor to TFLite, which offers significantly faster GPU and NPU acceleration alongside seamless support for PyTorch and JAX. The update also introduces lower-precision data type support for increased efficiency and a commitment to more frequent security and dependency updates across the TensorFlow ecosystem. This transition solidifies LiteRT as Google's primary high-performance framework for deploying GenAI and advanced on-device inference.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/you-cant-stream-the-energy-a-developers-guide-to-google-cloud-next-26-in-vegas/",
+      "title": "You can't stream the energy: A developer's guide to Google Cloud Next '26 in Vegas",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/you-cant-stream-the-energy-a-developers-guide-to-google-cloud-next-26-in-vegas/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "While keynotes are available online, Google Cloud Next '26 in Las Vegas offers an irreplaceable in-person experience centered on networking, hands-on problem solving, and the transition to agentic AI. The event features specialized technical tracks covering everything from Gemini multimodal breakthroughs to zero-trust security on Cloud Run, providing developers with the tools to balance individual speed with organizational stability. Beyond formal sessions, the \"in-person advantage\" lies in over 20 developer meetups and collaborative whiteboard sessions designed to foster serendipitous breakthroughs. Ultimately, the conference serves as a high-energy hub for engineers to move beyond the hype and master the modern building blocks of software architecture together.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/how-we-built-the-google-io-2026-save-the-date-experience/",
+      "title": "How we built the Google I/O 2026 Save the Date experience",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/how-we-built-the-google-io-2026-save-the-date-experience/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "Google I/O 2026 is returning May 19-20 at Shoreline Amphitheatre in Mountain View, CA. But before the keynotes begin, you can get into the spirit of the event with our annual tradition: the save the date puzzle.  This year's experience highlights how AI can empower and accelerate",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/supercharge-your-ai-agents-adk-integrations-ecosystem/",
+      "title": "Supercharge your AI agents: The New ADK Integrations Ecosystem",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/supercharge-your-ai-agents-adk-integrations-ecosystem/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "Agent Development Kit (ADK) now supports a robust ecosystem of third-party tools and integrations. Connect your agents to GitHub, Notion, Hugging Face, and more to build capable, real-world applications.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/on-device-function-calling-in-google-ai-edge-gallery/",
+      "title": "On-Device Function Calling in Google AI Edge Gallery",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/on-device-function-calling-in-google-ai-edge-gallery/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "Google has introduced FunctionGemma, a specialized 270M parameter model designed to bring efficient, action-oriented AI experiences directly to mobile devices through on-device function calling. By leveraging Google AI Edge and LiteRT-LM, the model enables complex tasks\u2014such as managing calendars, controlling device hardware, or executing specific game logic in the \"Tiny Garden\" demo\u2014to be performed entirely offline with high speed and low latency. Available for testing in the Google AI Edge Gallery app on both Android and iOS, FunctionGemma allows developers to move beyond simple text generation toward building responsive, \"agentic\" applications that interact seamlessly with the physical and digital world without relying on cloud processing.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/turn-creative-prompts-into-interactive-xr-experiences-with-gemini/",
+      "title": "Turn creative prompts into interactive XR experiences with Gemini",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/turn-creative-prompts-into-interactive-xr-experiences-with-gemini/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "The Android XR team is using Gemini's Canvas feature to make creating immersive extended reality (XR) experiences more accessible. This allows developers to rapidly prototype interactive 3D environments and models on a Samsung Galaxy XR headset using simple creative prompts.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/get-ready-for-google-io-2026/",
+      "title": "Get ready for Google I/O 2026",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/get-ready-for-google-io-2026/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "Google I/O returns May 19-20. Watch the livestreams for updates on Android, AI, Chrome, and Cloud. Registration is open on the Google I/O website.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/conductor-update-introducing-automated-reviews/",
+      "title": "Conductor Update: Introducing Automated Reviews",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/conductor-update-introducing-automated-reviews/",
+      "published_at": "",
+      "fetched_at": "2026-04-01T00:32:28.010689",
+      "tags": [],
+      "summary": "Conductor for the Gemini CLI has introduced a new Automated Review feature designed to verify the quality and accuracy of AI-generated code. This update addresses the challenge of validating agentic development by automatically checking implementations against original plans, enforcing style guides, and identifying security risks or bugs. by incorporating test-suite validation and providing actionable reports, Conductor helps developers ensure that their AI agents deliver safe, predictable, and architecturally sound code before it is finalized.",
+      "notes": ""
+    }
+  ]
+}
