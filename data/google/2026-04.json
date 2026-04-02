@@ -219,6 +219,17 @@
       "tags": [],
       "summary": "Conductor for the Gemini CLI has introduced a new Automated Review feature designed to verify the quality and accuracy of AI-generated code. This update addresses the challenge of validating agentic development by automatically checking implementations against original plans, enforcing style guides, and identifying security risks or bugs. by incorporating test-suite validation and providing actionable reports, Conductor helps developers ensure that their AI agents deliver safe, predictable, and architecturally sound code before it is finalized.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/developers-guide-to-building-adk-agents-with-skills/",
+      "title": "Developer\u2019s Guide to Building ADK Agents with Skills",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/developers-guide-to-building-adk-agents-with-skills/",
+      "published_at": "",
+      "fetched_at": "2026-04-02T00:27:25.961557",
+      "tags": [],
+      "summary": "The Agent Development Kit (ADK) SkillToolset introduces a \"progressive disclosure\" architecture that allows AI agents to load domain expertise on demand, reducing token usage by up to 90% compared to traditional monolithic prompts. Through four distinct patterns\u2014ranging from simple inline checklists to \"skill factories\" where agents write their own code\u2014the system enables agents to dynamically expand their capabilities at runtime using the universal agentskills.io specification. This modular approach ensures that complex instructions and external resources are only accessed when relevant, creating a scalable and self-extending framework for modern AI development.",
+      "notes": ""
     }
   ]
 }

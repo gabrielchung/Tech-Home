@@ -1000,6 +1000,72 @@
       "tags": [],
       "summary": "<p>See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and strengthen software supply chains.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/\">Investing in the people shaping open source and securing the future together</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/developers-guide-to-building-adk-agents-with-skills/",
+      "title": "Developer\u2019s Guide to Building ADK Agents with Skills",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/developers-guide-to-building-adk-agents-with-skills/",
+      "published_at": "",
+      "fetched_at": "2026-04-02T00:27:25.961557",
+      "tags": [],
+      "summary": "The Agent Development Kit (ADK) SkillToolset introduces a \"progressive disclosure\" architecture that allows AI agents to load domain expertise on demand, reducing token usage by up to 90% compared to traditional monolithic prompts. Through four distinct patterns\u2014ranging from simple inline checklists to \"skill factories\" where agents write their own code\u2014the system enables agents to dynamically expand their capabilities at runtime using the universal agentskills.io specification. This modular approach ensures that complex instructions and external resources are only accessed when relevant, creating a scalable and self-extending framework for modern AI development.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04012026c",
+      "title": "App Store Connect 3.2",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04012026c",
+      "published_at": "Wed, 01 Apr 2026 13:00:00 PDT",
+      "fetched_at": "2026-04-02T00:27:25.961557",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04012026a",
+      "title": "iOS 18.7.7 (22H340)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04012026a",
+      "published_at": "Wed, 01 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-02T00:27:25.961557",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04012026b",
+      "title": "iPadOS 18.7.7 (22H340)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04012026b",
+      "published_at": "Wed, 01 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-02T00:27:25.961557",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94975",
+      "title": "Securing the open source supply chain across GitHub",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
+      "published_at": "Wed, 01 Apr 2026 19:20:12 +0000",
+      "fetched_at": "2026-04-02T00:27:25.961557",
+      "tags": [],
+      "summary": "<p>Recent attacks on open source focus on exfiltrating secrets; here are the prevention steps you can take today, plus a look at the security capabilities GitHub is working on.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/\">Securing the open source supply chain across GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94908",
+      "title": "Run multiple agents at once with /fleet in Copilot CLI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
+      "published_at": "Wed, 01 Apr 2026 15:00:00 +0000",
+      "fetched_at": "2026-04-02T00:27:25.961557",
+      "tags": [],
+      "summary": "<p>/fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid common pitfalls.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/\">Run multiple agents at once with /fleet in Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

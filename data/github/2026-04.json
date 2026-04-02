@@ -109,6 +109,28 @@
       "tags": [],
       "summary": "<p>See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and strengthen software supply chains.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/\">Investing in the people shaping open source and securing the future together</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94975",
+      "title": "Securing the open source supply chain across GitHub",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
+      "published_at": "Wed, 01 Apr 2026 19:20:12 +0000",
+      "fetched_at": "2026-04-02T00:27:25.961557",
+      "tags": [],
+      "summary": "<p>Recent attacks on open source focus on exfiltrating secrets; here are the prevention steps you can take today, plus a look at the security capabilities GitHub is working on.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/\">Securing the open source supply chain across GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=94908",
+      "title": "Run multiple agents at once with /fleet in Copilot CLI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
+      "published_at": "Wed, 01 Apr 2026 15:00:00 +0000",
+      "fetched_at": "2026-04-02T00:27:25.961557",
+      "tags": [],
+      "summary": "<p>/fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid common pitfalls.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/\">Run multiple agents at once with /fleet in Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
