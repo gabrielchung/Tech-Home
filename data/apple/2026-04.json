@@ -593,6 +593,28 @@
       "tags": [],
       "summary": "View downloads",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04032026a",
+      "title": "iOS 26.5 beta 1 (v2) (23F5043k)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04032026a",
+      "published_at": "Fri, 03 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-04T00:27:16.931863",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04032026b",
+      "title": "iPadOS 26.5 beta 1 (v2) (23F5043k)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04032026b",
+      "published_at": "Fri, 03 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-04T00:27:16.931863",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
