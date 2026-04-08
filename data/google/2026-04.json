@@ -252,6 +252,17 @@
       "tags": [],
       "summary": "Google has updated its account settings to allow U.S. users to change their @gmail.com usernames while keeping all existing account data and inboxes intact. For developers, this means that while old email addresses will remain active as aliases, apps that rely solely on email addresses for identification may face issues with account duplication or lost access. To ensure a seamless user experience, Google recommends migrating to the \"subject ID\" as the primary user identifier and allowing users to manually update their contact information within app settings.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
+      "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
+      "published_at": "",
+      "fetched_at": "2026-04-08T00:30:51.002567",
+      "tags": [],
+      "summary": "TorchTPU is a new engineering stack designed to provide a native, high-performance experience for running PyTorch workloads on Google\u2019s TPU infrastructure with minimal code changes. It features an \"Eager First\" approach with multiple execution modes and utilizes the XLA compiler to optimize distributed training across massive clusters. Moving into 2026, the project aims to further reduce compilation overhead and expand support for dynamic shapes and custom kernels to ensure seamless scalability for the next generation of AI.",
+      "notes": ""
     }
   ]
 }
