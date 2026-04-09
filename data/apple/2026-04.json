@@ -615,6 +615,28 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04082026a",
+      "title": "iOS 26.4.1 (23E254)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04082026a",
+      "published_at": "Wed, 08 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-09T00:25:28.672213",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04082026b",
+      "title": "iPadOS 26.4.1 (23E254)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04082026b",
+      "published_at": "Wed, 08 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-09T00:25:28.672213",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
