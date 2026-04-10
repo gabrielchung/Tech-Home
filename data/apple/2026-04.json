@@ -637,6 +637,17 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04092026a",
+      "title": "macOS 26.4.1 (25E253)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04092026a",
+      "published_at": "Thu, 09 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-10T00:29:11.347640",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
