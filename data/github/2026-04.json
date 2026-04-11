@@ -175,6 +175,17 @@
       "tags": [],
       "summary": "<p>In March, we experienced four incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-march-2026/\">GitHub availability report: March 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95185",
+      "title": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/",
+      "published_at": "Fri, 10 Apr 2026 16:00:00 +0000",
+      "fetched_at": "2026-04-11T00:28:38.273794",
+      "tags": [],
+      "summary": "<p>GitHub for Beginners: Getting started with the GitHub Copilot CLI, a step-by-step tutorial.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/\">GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
