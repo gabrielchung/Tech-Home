@@ -725,6 +725,17 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04142026a",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04142026a",
+      "published_at": "Tue, 14 Apr 2026 14:00:00 PDT",
+      "fetched_at": "2026-04-15T00:35:47.437165",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
     }
   ]
 }

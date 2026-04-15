@@ -1297,6 +1297,61 @@
       "tags": [],
       "summary": "<p>Learn how to create a free website for any repository on GitHub Pages.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/\">GitHub for Beginners: Getting started with GitHub Pages</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/get-ready-for-google-io-livestream-schedule-revealed/",
+      "title": "Get ready for Google I/O: Livestream schedule revealed",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/get-ready-for-google-io-livestream-schedule-revealed/",
+      "published_at": "",
+      "fetched_at": "2026-04-15T00:35:47.437165",
+      "tags": [],
+      "summary": "Google I/O returns May 19\u201320 to showcase major updates in AI, Android, Chrome, and Cloud, beginning with a keynote on the \"agentic era\" of development. The event will focus on new tools designed to automate complex workflows and simplify the creation of high-quality, AI-ready applications. Attendees can register to access live sessions, technical demos, and professional development resources both live and on-demand.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-better-ai-agents-5-developer-tips-from-the-agent-bake-off/",
+      "title": "Build Better AI Agents: 5 Developer Tips from the Agent Bake-Off",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-better-ai-agents-5-developer-tips-from-the-agent-bake-off/",
+      "published_at": "",
+      "fetched_at": "2026-04-15T00:35:47.437165",
+      "tags": [],
+      "summary": "The Google Cloud AI Agent Bake-Off highlights a shift from simple prompt engineering to rigorous agentic engineering, emphasizing that production-ready AI requires a modular, multi-agent architecture. The post outlines five key developer tips, including decomposing complex tasks into specialized sub-agents and using deterministic code for execution to prevent probabilistic errors. Furthermore, it advises developers to prioritize multimodality and open-source protocols like MCP to ensure agents are scalable, integrated, and future-proof against rapidly evolving model capabilities.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04142026a",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04142026a",
+      "published_at": "Tue, 14 Apr 2026 14:00:00 PDT",
+      "fetched_at": "2026-04-15T00:35:47.437165",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95266",
+      "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
+      "published_at": "Tue, 14 Apr 2026 18:17:59 +0000",
+      "fetched_at": "2026-04-15T00:35:47.437165",
+      "tags": [],
+      "summary": "<p>Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills.</p>\n<p>The post <a href=\"https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/\">Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95258",
+      "title": "How exposed is your code? Find out in minutes\u2014for free",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/",
+      "published_at": "Tue, 14 Apr 2026 15:00:00 +0000",
+      "fetched_at": "2026-04-15T00:35:47.437165",
+      "tags": [],
+      "summary": "<p>The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/\">How exposed is your code? Find out in minutes\u2014for free</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
