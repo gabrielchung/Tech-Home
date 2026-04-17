@@ -241,6 +241,17 @@
       "tags": [],
       "summary": "<p>We\u2019re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what\u2019s ahead.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/\">Developer policy update: Intermediary liability, copyright, and transparency</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95074",
+      "title": "How GitHub uses eBPF to improve deployment safety",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+      "published_at": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "fetched_at": "2026-04-17T00:34:07.163059",
+      "tags": [],
+      "summary": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

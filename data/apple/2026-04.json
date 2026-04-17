@@ -736,6 +736,28 @@
       "tags": [],
       "summary": "View release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04162026b",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04162026b",
+      "published_at": "Thu, 16 Apr 2026 14:30:00 PDT",
+      "fetched_at": "2026-04-17T00:34:07.163059",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04162026a",
+      "title": "Xcode 26.4.1 (17E202)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04162026a",
+      "published_at": "Thu, 16 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-17T00:34:07.163059",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }

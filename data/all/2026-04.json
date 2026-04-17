@@ -1396,6 +1396,50 @@
       "tags": [],
       "summary": "<p>We\u2019re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what\u2019s ahead.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/\">Developer policy update: Intermediary liability, copyright, and transparency</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/maxtext-expands-post-training-capabilities-introducing-sft-and-rl-on-single-host-tpus/",
+      "title": "MaxText Expands Post-Training Capabilities: Introducing SFT and RL on Single-Host TPUs",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/maxtext-expands-post-training-capabilities-introducing-sft-and-rl-on-single-host-tpus/",
+      "published_at": "",
+      "fetched_at": "2026-04-17T00:34:07.163059",
+      "tags": [],
+      "summary": "MaxText has introduced new support for Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL) on single-host TPU configurations, leveraging JAX and the Tunix library for high-performance model refinement. These features enable developers to easily adapt pre-trained models for specialized tasks and complex reasoning using efficient algorithms like GRPO and GSPO. This update streamlines the post-training workflow, offering a scalable path from single-host setups to larger multi-host configurations.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04162026b",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04162026b",
+      "published_at": "Thu, 16 Apr 2026 14:30:00 PDT",
+      "fetched_at": "2026-04-17T00:34:07.163059",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04162026a",
+      "title": "Xcode 26.4.1 (17E202)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04162026a",
+      "published_at": "Thu, 16 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-17T00:34:07.163059",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95074",
+      "title": "How GitHub uses eBPF to improve deployment safety",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+      "published_at": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "fetched_at": "2026-04-17T00:34:07.163059",
+      "tags": [],
+      "summary": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
