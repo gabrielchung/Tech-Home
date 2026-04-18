@@ -1440,6 +1440,39 @@
       "tags": [],
       "summary": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/a2ui-v0-9-generative-ui/",
+      "title": "A2UI v0.9: The New Standard for Portable, Framework-Agnostic Generative UI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/a2ui-v0-9-generative-ui/",
+      "published_at": "",
+      "fetched_at": "2026-04-18T00:30:46.827714",
+      "tags": [],
+      "summary": "A2UI v0.9 introduces a framework-agnostic standard designed to help AI agents generate real-time, tailored UI widgets using a company\u2019s existing design system. This update simplifies the developer experience with a new Agent SDK for Python, a shared web-core library, and official support for renderers like React, Flutter, and Angular. By decoupling UI intent from specific platforms, the release enables seamless, low-latency streaming of generative interfaces across web and mobile applications. Integrating with broader ecosystems like AG2 and Vercel, A2UI v0.9 aims to move generative UI from experimental demos to production-ready digital products.",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95403",
+      "title": "Building an emoji list generator with the GitHub Copilot CLI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+      "published_at": "Fri, 17 Apr 2026 18:00:00 +0000",
+      "fetched_at": "2026-04-18T00:30:46.827714",
+      "tags": [],
+      "summary": "<p>See how we created an emoji list generator during the Rubber Duck Thursday stream.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/\">Building an emoji list generator with the GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95362",
+      "title": "Bringing more transparency to GitHub\u2019s status page",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
+      "published_at": "Fri, 17 Apr 2026 16:00:00 +0000",
+      "fetched_at": "2026-04-18T00:30:46.827714",
+      "tags": [],
+      "summary": "<p>Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/\">Bringing more transparency to GitHub\u2019s status page</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
