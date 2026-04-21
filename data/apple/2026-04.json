@@ -758,6 +758,72 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04202026a",
+      "title": "iOS 26.5 beta 3 (23F5059e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04202026a",
+      "published_at": "Mon, 20 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-21T00:34:22.650237",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04202026b",
+      "title": "iPadOS 26.5 beta 3 (23F5059e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04202026b",
+      "published_at": "Mon, 20 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-21T00:34:22.650237",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04202026c",
+      "title": "macOS 26.5 beta 3 (25F5058e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04202026c",
+      "published_at": "Mon, 20 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-21T00:34:22.650237",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04202026d",
+      "title": "tvOS 26.5 beta 3 (23L5460d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04202026d",
+      "published_at": "Mon, 20 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-21T00:34:22.650237",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04202026e",
+      "title": "visionOS 26.5 beta 3 (23O5458e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04202026e",
+      "published_at": "Mon, 20 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-21T00:34:22.650237",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04202026f",
+      "title": "watchOS 26.5 beta 3 (23T5558e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04202026f",
+      "published_at": "Mon, 20 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-21T00:34:22.650237",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }

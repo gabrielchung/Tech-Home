@@ -274,6 +274,28 @@
       "tags": [],
       "summary": "<p>Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/\">Bringing more transparency to GitHub\u2019s status page</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95440",
+      "title": "Changes to GitHub Copilot Individual plans",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+      "published_at": "Mon, 20 Apr 2026 18:15:28 +0000",
+      "fetched_at": "2026-04-21T00:34:22.650237",
+      "tags": [],
+      "summary": "<p>We're making these changes to ensure a reliable and predictable experience for existing customers.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/\">Changes to GitHub Copilot Individual plans</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95374",
+      "title": "Highlights from Git 2.54",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+      "published_at": "Mon, 20 Apr 2026 16:43:57 +0000",
+      "fetched_at": "2026-04-21T00:34:22.650237",
+      "tags": [],
+      "summary": "<p>The open source Git project just released Git 2.54. Here is GitHub\u2019s look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-54/\">Highlights from Git 2.54</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
