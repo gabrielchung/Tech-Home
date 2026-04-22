@@ -1561,6 +1561,17 @@
       "tags": [],
       "summary": "<p>The open source Git project just released Git 2.54. Here is GitHub\u2019s look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-54/\">Highlights from Git 2.54</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/production-ready-ai-agents-5-lessons-from-refactoring-a-monolith/",
+      "title": "Production-Ready AI Agents: 5 Lessons from Refactoring a Monolith",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/production-ready-ai-agents-5-lessons-from-refactoring-a-monolith/",
+      "published_at": "",
+      "fetched_at": "2026-04-22T00:31:56.547077",
+      "tags": [],
+      "summary": "The blog post outlines the transition of a brittle sales research prototype into a robust production agent using Google\u2019s Agent Development Kit (ADK). By replacing monolithic scripts with orchestrated sub-agents and structured Pydantic outputs, the developers eliminated silent failures and fragile parsing. Additionally, the post highlights the necessity of dynamic RAG pipelines and OpenTelemetry observability to ensure AI agents are scalable, cost-effective, and transparent in real-world applications.",
+      "notes": ""
     }
   ]
 }
