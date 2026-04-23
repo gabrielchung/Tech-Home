@@ -1572,6 +1572,61 @@
       "tags": [],
       "summary": "The blog post outlines the transition of a brittle sales research prototype into a robust production agent using Google\u2019s Agent Development Kit (ADK). By replacing monolithic scripts with orchestrated sub-agents and structured Pydantic outputs, the developers eliminated silent failures and fragile parsing. Additionally, the post highlights the necessity of dynamic RAG pipelines and OpenTelemetry observability to ensure AI agents are scalable, cost-effective, and transparent in real-world applications.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/",
+      "title": "Agents CLI in Agent Platform:  create to production in one CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/",
+      "published_at": "",
+      "fetched_at": "2026-04-23T00:36:56.069307",
+      "tags": [],
+      "summary": "Google Cloud has introduced the Agents CLI, a specialized tool designed to bridge the gap between local development and production-grade AI agent deployment. The CLI provides coding assistants with machine-readable access to the full Google Cloud stack, reducing context overload and token waste during the scaffolding process. By streamlining evaluation, infrastructure provisioning, and deployment into a single programmatic backbone, the tool enables developers to move from initial concept to a live service in hours rather than weeks.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04222026a",
+      "title": "iOS 26.4.2 (23E261)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04222026a",
+      "published_at": "Wed, 22 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-23T00:36:56.069307",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04222026b",
+      "title": "iPadOS 26.4.2 (23E261)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04222026b",
+      "published_at": "Wed, 22 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-23T00:36:56.069307",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04222026c",
+      "title": "iOS 18.7.8 (22H352)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04222026c",
+      "published_at": "Wed, 22 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-23T00:36:56.069307",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04222026d",
+      "title": "iPadOS 18.7.8 (22H352)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04222026d",
+      "published_at": "Wed, 22 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-23T00:36:56.069307",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
     }
   ]
 }

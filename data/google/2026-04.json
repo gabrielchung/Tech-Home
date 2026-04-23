@@ -340,6 +340,17 @@
       "tags": [],
       "summary": "The blog post outlines the transition of a brittle sales research prototype into a robust production agent using Google\u2019s Agent Development Kit (ADK). By replacing monolithic scripts with orchestrated sub-agents and structured Pydantic outputs, the developers eliminated silent failures and fragile parsing. Additionally, the post highlights the necessity of dynamic RAG pipelines and OpenTelemetry observability to ensure AI agents are scalable, cost-effective, and transparent in real-world applications.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/",
+      "title": "Agents CLI in Agent Platform:  create to production in one CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/",
+      "published_at": "",
+      "fetched_at": "2026-04-23T00:36:56.069307",
+      "tags": [],
+      "summary": "Google Cloud has introduced the Agents CLI, a specialized tool designed to bridge the gap between local development and production-grade AI agent deployment. The CLI provides coding assistants with machine-readable access to the full Google Cloud stack, reducing context overload and token waste during the scaffolding process. By streamlining evaluation, infrastructure provisioning, and deployment into a single programmatic backbone, the tool enables developers to move from initial concept to a live service in hours rather than weeks.",
+      "notes": ""
     }
   ]
 }
