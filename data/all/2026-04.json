@@ -1638,6 +1638,94 @@
       "tags": [],
       "summary": "LiteRT is a production-ready framework designed to help mobile developers unlock the power of Neural Processing Units (NPUs), overcoming the performance and battery limitations of traditional CPU or GPU processing. By providing a unified API that abstracts away hardware complexities, it allows industry leaders like Google Meet and Epic Games to deploy sophisticated AI models for real-time video, animation, and speech recognition with significantly higher efficiency. The platform further supports developers through benchmarking tools and cross-platform compatibility, enabling seamless AI deployment across mobile devices, AI PCs, and industrial IoT hardware.",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04272026g",
+      "title": "Xcode 26.5 beta 3 (17F5032f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04272026g",
+      "published_at": "Mon, 27 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-28T00:38:58.556692",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04272026a",
+      "title": "iOS 26.5 beta 4 (23F5069b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04272026a",
+      "published_at": "Mon, 27 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-28T00:38:58.556692",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04272026b",
+      "title": "iPadOS 26.5 beta 4 (23F5069b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04272026b",
+      "published_at": "Mon, 27 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-28T00:38:58.556692",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04272026c",
+      "title": "macOS 26.5 beta 4 (25F5068a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04272026c",
+      "published_at": "Mon, 27 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-28T00:38:58.556692",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04272026d",
+      "title": "tvOS 26.5 beta 4 (23L5469a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04272026d",
+      "published_at": "Mon, 27 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-28T00:38:58.556692",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04272026e",
+      "title": "visionOS 26.5 beta 4 (23O5468a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04272026e",
+      "published_at": "Mon, 27 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-28T00:38:58.556692",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04272026f",
+      "title": "watchOS 26.5 beta 4 (23T5568a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04272026f",
+      "published_at": "Mon, 27 Apr 2026 10:00:00 PDT",
+      "fetched_at": "2026-04-28T00:38:58.556692",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95572",
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "published_at": "Mon, 27 Apr 2026 15:58:22 +0000",
+      "fetched_at": "2026-04-28T00:38:58.556692",
+      "tags": [],
+      "summary": "<p>Starting June 1, your Copilot usage will consume GitHub AI Credits.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">GitHub Copilot is moving to usage-based billing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
