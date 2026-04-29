@@ -1726,6 +1726,50 @@
       "tags": [],
       "summary": "<p>Starting June 1, your Copilot usage will consume GitHub AI Credits.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">GitHub Copilot is moving to usage-based billing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04282026a",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04282026a",
+      "published_at": "Tue, 28 Apr 2026 14:00:00 PDT",
+      "fetched_at": "2026-04-29T00:40:29.221732",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95615",
+      "title": "GitHub for Beginners: Getting started with Markdown",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
+      "published_at": "Tue, 28 Apr 2026 18:00:00 +0000",
+      "fetched_at": "2026-04-29T00:40:29.221732",
+      "tags": [],
+      "summary": "<p>Discover how to format and edit your comments and posts using Markdown.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/\">GitHub for Beginners: Getting started with Markdown</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95594",
+      "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
+      "published_at": "Tue, 28 Apr 2026 15:30:00 +0000",
+      "fetched_at": "2026-04-29T00:40:29.221732",
+      "tags": [],
+      "summary": "<p>How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.</p>\n<p>The post <a href=\"https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/\">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95627",
+      "title": "An update on GitHub availability",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "published_at": "Tue, 28 Apr 2026 10:01:37 +0000",
+      "fetched_at": "2026-04-29T00:40:29.221732",
+      "tags": [],
+      "summary": "<p>Here\u2019s what we\u2019ve done\u2014and what we\u2019re still doing\u2014to improve our availability and reliability.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/an-update-on-github-availability/\">An update on GitHub availability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
