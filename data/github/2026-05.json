@@ -1,0 +1,114 @@
+{
+  "articles": [
+    {
+      "id": "https://github.blog/?p=95654",
+      "title": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
+      "published_at": "Thu, 30 Apr 2026 16:09:02 +0000",
+      "fetched_at": "2026-05-01T00:42:47.039380",
+      "tags": [],
+      "summary": "<p>Learn the difference between CLI interactive v. non-interactive modes.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/\">GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95615",
+      "title": "GitHub for Beginners: Getting started with Markdown",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
+      "published_at": "Tue, 28 Apr 2026 18:00:00 +0000",
+      "fetched_at": "2026-05-01T00:42:47.039380",
+      "tags": [],
+      "summary": "<p>Discover how to format and edit your comments and posts using Markdown.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/\">GitHub for Beginners: Getting started with Markdown</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95594",
+      "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
+      "published_at": "Tue, 28 Apr 2026 15:30:00 +0000",
+      "fetched_at": "2026-05-01T00:42:47.039380",
+      "tags": [],
+      "summary": "<p>How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.</p>\n<p>The post <a href=\"https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/\">Securing the git push pipeline: Responding to a critical remote code execution vulnerability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95627",
+      "title": "An update on GitHub availability",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "published_at": "Tue, 28 Apr 2026 10:01:37 +0000",
+      "fetched_at": "2026-05-01T00:42:47.039380",
+      "tags": [],
+      "summary": "<p>Here\u2019s what we\u2019ve done\u2014and what we\u2019re still doing\u2014to improve our availability and reliability.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/an-update-on-github-availability/\">An update on GitHub availability</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95572",
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "published_at": "Mon, 27 Apr 2026 15:58:22 +0000",
+      "fetched_at": "2026-05-01T00:42:47.039380",
+      "tags": [],
+      "summary": "<p>Starting June 1, your Copilot usage will consume GitHub AI Credits.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\">GitHub Copilot is moving to usage-based billing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95440",
+      "title": "Changes to GitHub Copilot Individual plans",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+      "published_at": "Mon, 20 Apr 2026 18:15:28 +0000",
+      "fetched_at": "2026-05-01T00:42:47.039380",
+      "tags": [],
+      "summary": "<p>We're making these changes to ensure a reliable and predictable experience for existing customers.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/\">Changes to GitHub Copilot Individual plans</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95374",
+      "title": "Highlights from Git 2.54",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+      "published_at": "Mon, 20 Apr 2026 16:43:57 +0000",
+      "fetched_at": "2026-05-01T00:42:47.039380",
+      "tags": [],
+      "summary": "<p>The open source Git project just released Git 2.54. Here is GitHub\u2019s look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-54/\">Highlights from Git 2.54</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95403",
+      "title": "Building an emoji list generator with the GitHub Copilot CLI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+      "published_at": "Fri, 17 Apr 2026 18:00:00 +0000",
+      "fetched_at": "2026-05-01T00:42:47.039380",
+      "tags": [],
+      "summary": "<p>See how we created an emoji list generator during the Rubber Duck Thursday stream.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/\">Building an emoji list generator with the GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95362",
+      "title": "Bringing more transparency to GitHub\u2019s status page",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
+      "published_at": "Fri, 17 Apr 2026 16:00:00 +0000",
+      "fetched_at": "2026-05-01T00:42:47.039380",
+      "tags": [],
+      "summary": "<p>Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/\">Bringing more transparency to GitHub\u2019s status page</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95074",
+      "title": "How GitHub uses eBPF to improve deployment safety",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+      "published_at": "Thu, 16 Apr 2026 16:00:00 +0000",
+      "fetched_at": "2026-05-01T00:42:47.039380",
+      "tags": [],
+      "summary": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    }
+  ]
+}
