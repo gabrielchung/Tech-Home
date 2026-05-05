@@ -769,6 +769,127 @@
       "tags": [],
       "summary": "<p>Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. </p>\n<p>The post <a href=\"https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/\">How GitHub uses eBPF to improve deployment safety</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/supercharging-llm-inference-on-google-tpus-achieving-3x-speedups-with-diffusion-style-speculative-decoding/",
+      "title": "Supercharging LLM inference on Google TPUs: Achieving 3X speedups with diffusion-style speculative decoding",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/supercharging-llm-inference-on-google-tpus-achieving-3x-speedups-with-diffusion-style-speculative-decoding/",
+      "published_at": "",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "Researchers at UCSD have successfully implemented DFlash, a block-diffusion speculative decoding method, on Google TPUs to bypass the sequential bottlenecks of traditional autoregressive drafting. By \"painting\" entire blocks of candidate tokens in a single forward pass rather than predicting them one-by-one, the system achieved average speedups of 3.13x, with peak performance nearly doubling that of existing methods like EAGLE-3. This open-source integration into the vLLM ecosystem optimizes TPU hardware by leveraging \"free\" parallel verification and high-quality draft predictions for complex reasoning tasks.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026i",
+      "title": "Xcode 26.5 RC (17F42)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026i",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026a",
+      "title": "iOS 26.5 RC (23F75)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026a",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026b",
+      "title": "iPadOS 26.5 RC (23F75)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026b",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026c",
+      "title": "macOS 26.5 RC (25F71)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026c",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026d",
+      "title": "tvOS 26.5 RC (23L471)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026d",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026e",
+      "title": "visionOS 26.5 RC (23O471)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026e",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026f",
+      "title": "watchOS 26.5 RC (23T570)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026f",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026g",
+      "title": "iOS 18.7.9 (22H355)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026g",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026h",
+      "title": "iPadOS 18.7.9 (22H355)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026h",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95662",
+      "title": "Register now for OpenClaw: After Hours @ GitHub",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
+      "published_at": "Mon, 04 May 2026 15:00:00 +0000",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "<p>OpenClaw builders will gather at GitHub HQ during Microsoft Build 2026 for demos and conversations. Join in person, or watch the livestream on Twitch.</p>\n<p>The post <a href=\"https://github.blog/open-source/register-now-for-openclaw-after-hours-github/\">Register now for OpenClaw: After Hours @ GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

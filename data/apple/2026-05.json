@@ -329,6 +329,105 @@
       "tags": [],
       "summary": "View installation instructions",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026i",
+      "title": "Xcode 26.5 RC (17F42)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026i",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026a",
+      "title": "iOS 26.5 RC (23F75)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026a",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026b",
+      "title": "iPadOS 26.5 RC (23F75)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026b",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026c",
+      "title": "macOS 26.5 RC (25F71)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026c",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026d",
+      "title": "tvOS 26.5 RC (23L471)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026d",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026e",
+      "title": "visionOS 26.5 RC (23O471)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026e",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026f",
+      "title": "watchOS 26.5 RC (23T570)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026f",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026g",
+      "title": "iOS 18.7.9 (22H355)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026g",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026h",
+      "title": "iPadOS 18.7.9 (22H355)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026h",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-05T00:37:49.158627",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
     }
   ]
 }
