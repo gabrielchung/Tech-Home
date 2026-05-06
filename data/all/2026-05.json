@@ -890,6 +890,28 @@
       "tags": [],
       "summary": "<p>OpenClaw builders will gather at GitHub HQ during Microsoft Build 2026 for demos and conversations. Join in person, or watch the livestream on Twitch.</p>\n<p>The post <a href=\"https://github.blog/open-source/register-now-for-openclaw-after-hours-github/\">Register now for OpenClaw: After Hours @ GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05052026a",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05052026a",
+      "published_at": "Tue, 05 May 2026 15:00:00 PDT",
+      "fetched_at": "2026-05-06T00:37:22.795104",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95708",
+      "title": "Welcome to Maintainer Month: Celebrating the people behind the code",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/",
+      "published_at": "Tue, 05 May 2026 14:30:00 +0000",
+      "fetched_at": "2026-05-06T00:37:22.795104",
+      "tags": [],
+      "summary": "<p>What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/\">Welcome to Maintainer Month: Celebrating the people behind the code</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

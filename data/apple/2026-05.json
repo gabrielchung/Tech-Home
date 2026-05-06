@@ -428,6 +428,17 @@
       "tags": [],
       "summary": "View downloads",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05052026a",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05052026a",
+      "published_at": "Tue, 05 May 2026 15:00:00 PDT",
+      "fetched_at": "2026-05-06T00:37:22.795104",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
     }
   ]
 }
