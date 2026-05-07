@@ -131,6 +131,17 @@
       "tags": [],
       "summary": "<p>What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/\">Welcome to Maintainer Month: Celebrating the people behind the code</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95757",
+      "title": "Validating agentic behavior when \u201ccorrect\u201d isn\u2019t deterministic",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
+      "published_at": "Wed, 06 May 2026 21:16:31 +0000",
+      "fetched_at": "2026-05-07T00:39:26.824513",
+      "tags": [],
+      "summary": "<p>How to build the \u201cTrust Layer\u201d for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/\">Validating agentic behavior when \u201ccorrect\u201d isn\u2019t deterministic</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
