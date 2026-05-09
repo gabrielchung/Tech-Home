@@ -164,6 +164,28 @@
       "tags": [],
       "summary": "<p>A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/\">Agent pull requests are everywhere. Here&#8217;s how to review them.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95805",
+      "title": "Why age assurance laws matter for developers",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
+      "published_at": "Fri, 08 May 2026 16:30:00 +0000",
+      "fetched_at": "2026-05-09T00:40:26.194594",
+      "tags": [],
+      "summary": "<p>Youth safety requirements are moving down the tech stack to operating systems and app stores\u2014raising new questions for open source developers. </p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/\">Why age assurance laws matter for developers</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95797",
+      "title": "How researchers are using GitHub Innovation Graph data to reveal the \u201cdigital complexity\u201d of nations",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/",
+      "published_at": "Fri, 08 May 2026 15:00:00 +0000",
+      "fetched_at": "2026-05-09T00:40:26.194594",
+      "tags": [],
+      "summary": "<p>Researchers share in an interview how they used GitHub data to predict GDP, inequality, and emissions in ways that traditional economic data misses, along with our Q4 2025 data release.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/\">How researchers are using GitHub Innovation Graph data to reveal the \u201cdigital complexity\u201d of nations</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
