@@ -461,6 +461,160 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026n",
+      "title": "Xcode 26.5 (17F42)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026n",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026a",
+      "title": "iOS 26.5 (23F77)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026a",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026b",
+      "title": "iPadOS 26.5 (23F77)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026b",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026c",
+      "title": "macOS 26.5 (25F71)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026c",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026d",
+      "title": "tvOS 26.5 (23L471)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026d",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026e",
+      "title": "visionOS 26.5 (23O471)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026e",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026f",
+      "title": "watchOS 26.5 (23T570)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026f",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026g",
+      "title": "iOS 18.7.9 (22H355)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026g",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026h",
+      "title": "iPadOS 18.7.9 (22H355)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026h",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026i",
+      "title": "iPadOS 17.7.11 (21H461)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026i",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026j",
+      "title": "iOS 16.7.16 (20H392)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026j",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026k",
+      "title": "iPadOS 16.7.16 (20H392)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026k",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026l",
+      "title": "iOS 15.8.8 (19H422)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026l",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05112026m",
+      "title": "iPadOS 15.8.8 (19H422)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05112026m",
+      "published_at": "Mon, 11 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-12T00:39:12.196952",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
