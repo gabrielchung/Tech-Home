@@ -230,6 +230,17 @@
       "tags": [],
       "summary": "Researchers at UCSD have successfully implemented DFlash, a block-diffusion speculative decoding method, on Google TPUs to bypass the sequential bottlenecks of traditional autoregressive drafting. By \"painting\" entire blocks of candidate tokens in a single forward pass rather than predicting them one-by-one, the system achieved average speedups of 3.13x, with peak performance nearly doubling that of existing methods like EAGLE-3. This open-source integration into the vLLM ecosystem optimizes TPU hardware by leveraging \"free\" parallel verification and high-quality draft predictions for complex reasoning tasks.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk/",
+      "title": "Build Long-running AI agents that pause, resume, and never lose context with ADK",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk/",
+      "published_at": "",
+      "fetched_at": "2026-05-13T00:43:05.921954",
+      "tags": [],
+      "summary": "How to transition from stateless chatbots to production-grade agents capable of managing long-running enterprise workflows, such as HR onboarding, that span days or weeks. It introduces the Agent Development Kit (ADK) and its architectural shifts, specifically using durable state machines and persistent session storage to ensure an agent never loses context during \"idle time\" or server restarts. By leveraging event-driven webhooks and multi-agent delegation, the tutorial demonstrates how to build resilient systems that \"sleep\" during pauses and wake up to resume complex tasks with high reasoning accuracy.",
+      "notes": ""
     }
   ]
 }

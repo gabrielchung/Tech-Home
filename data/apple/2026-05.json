@@ -615,6 +615,17 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05122026a",
+      "title": "App Store Connect API 4.3.1",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05122026a",
+      "published_at": "Tue, 12 May 2026 14:00:00 PDT",
+      "fetched_at": "2026-05-13T00:43:05.921954",
+      "tags": [],
+      "summary": "Download fileView release notes",
+      "notes": ""
     }
   ]
 }
