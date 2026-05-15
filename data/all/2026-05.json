@@ -1209,6 +1209,50 @@
       "tags": [],
       "summary": "<p>Roguelikes don\u2019t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once.</p>\n<p>The post <a href=\"https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/\">Dungeons &amp; Desktops: 10 roguelikes that never die (because their communities won\u2019t let them)</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/",
+      "title": "Announcing Genkit Middleware: Intercept, extend, and harden your agentic apps",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/",
+      "published_at": "",
+      "fetched_at": "2026-05-15T00:41:59.126612",
+      "tags": [],
+      "summary": "Genkit is an open-source framework designed to help developers build production-ready, agentic AI applications using TypeScript, Go, Dart, and Python. The framework utilizes a powerful middleware system that intercepts generation calls to inject custom behaviors like retries, model fallbacks, and human-in-the-loop tool approvals. By attaching hooks at the generate, model, and tool layers, developers can ensure high reliability and deterministic control over model outputs. Furthermore, Genkit allows for the creation and stacking of custom middleware, all of which can be inspected and debugged through a dedicated Developer UI.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/accelerating-on-device-ai-a-look-at-arm-and-google-ai-edge-optimization/",
+      "title": "Accelerating on-device AI: A look at Arm and Google AI Edge optimization",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/accelerating-on-device-ai-a-look-at-arm-and-google-ai-edge-optimization/",
+      "published_at": "",
+      "fetched_at": "2026-05-15T00:41:59.126612",
+      "tags": [],
+      "summary": "Integration of Arm Scalable Matrix Extension 2 (SME2) and the Google AI Edge software stack enables high-performance, on-device generative AI by turning the CPU into a powerful matrix-compute accelerator. Using Stability AI\u2019s \"stable-audio-open-small\" model as a case study, it outlines a streamlined \"Convert, Optimize, and Deploy\" pipeline that utilizes LiteRT, XNNPACK, and KleidiAI to automate hardware acceleration. The resulting implementation achieves over a 2x speedup in audio generation and a 4x reduction in memory usage while maintaining high audio quality on Arm-powered mobile devices and laptops.",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96106",
+      "title": "GitHub availability report: April 2026",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-april-2026/",
+      "published_at": "Thu, 14 May 2026 22:02:43 +0000",
+      "fetched_at": "2026-05-15T00:41:59.126612",
+      "tags": [],
+      "summary": "<p>In April, we experienced 10 incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-april-2026/\">GitHub availability report: April 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96052",
+      "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
+      "published_at": "Thu, 14 May 2026 16:00:00 +0000",
+      "fetched_at": "2026-05-15T00:41:59.126612",
+      "tags": [],
+      "summary": "<p>How the GitHub Issues team used client-side caching, smart prefetching, and service workers to make navigation feel instant.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/\">From latency to instant: Modernizing GitHub Issues navigation performance</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
