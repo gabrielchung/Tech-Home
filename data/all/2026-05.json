@@ -1253,6 +1253,28 @@
       "tags": [],
       "summary": "<p>How the GitHub Issues team used client-side caching, smart prefetching, and service workers to make navigation feel instant.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/\">From latency to instant: Modernizing GitHub Issues navigation performance</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96092",
+      "title": "Building a general-purpose accessibility agent\u2014and what we learned in the process",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+      "published_at": "Fri, 15 May 2026 16:00:00 +0000",
+      "fetched_at": "2026-05-16T00:39:46.259939",
+      "tags": [],
+      "summary": "<p>Learn about the experimental general-purpose accessibility agent that GitHub is piloting.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/\">Building a general-purpose accessibility agent\u2014and what we learned in the process</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96112",
+      "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub\u2019s bug bounty program",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
+      "published_at": "Fri, 15 May 2026 14:00:00 +0000",
+      "fetched_at": "2026-05-16T00:39:46.259939",
+      "tags": [],
+      "summary": "<p>We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings.</p>\n<p>The post <a href=\"https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/\">Raising the bar: Quality, shared responsibility, and the future of GitHub&#8217;s bug bounty program</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
