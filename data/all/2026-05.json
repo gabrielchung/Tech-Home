@@ -1275,6 +1275,17 @@
       "tags": [],
       "summary": "<p>We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings.</p>\n<p>The post <a href=\"https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/\">Raising the bar: Quality, shared responsibility, and the future of GitHub&#8217;s bug bounty program</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95877",
+      "title": "Take your local GitHub sessions anywhere",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+      "published_at": "Mon, 18 May 2026 16:54:53 +0000",
+      "fetched_at": "2026-05-19T00:45:55.511074",
+      "tags": [],
+      "summary": "<p>Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile.  </p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/\">Take your local GitHub sessions anywhere</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
