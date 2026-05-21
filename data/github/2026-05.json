@@ -285,6 +285,17 @@
       "tags": [],
       "summary": "<p>Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile.  </p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/\">Take your local GitHub sessions anywhere</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96242",
+      "title": "Investigating unauthorized access to GitHub\u2019s internal repositories",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
+      "published_at": "Wed, 20 May 2026 21:07:38 +0000",
+      "fetched_at": "2026-05-21T00:47:19.418742",
+      "tags": [],
+      "summary": "<p>If any impact is discovered, customers will be notified via established incident response and notification channels.</p>\n<p>The post <a href=\"https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/\">Investigating unauthorized access to GitHub&#8217;s internal repositories</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
