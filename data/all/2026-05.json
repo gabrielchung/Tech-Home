@@ -1363,6 +1363,50 @@
       "tags": [],
       "summary": "<p>If any impact is discovered, customers will be notified via established incident response and notification channels.</p>\n<p>The post <a href=\"https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/\">Investigating unauthorized access to GitHub&#8217;s internal repositories</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
+      "title": "Empowering Service Providers and Hardware Partners with Gemini for Home",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
+      "published_at": "",
+      "fetched_at": "2026-05-22T00:45:30.252973",
+      "tags": [],
+      "summary": "Google is expanding its smart home ecosystem by launching a full-stack Gemini AI offering that integrates advanced camera intelligence, natural language queries, and daily activity summaries. This initiative provides service providers and hardware manufacturers with turnkey reference designs and APIs to build proactive, branded services without extensive research and development. Ultimately, the program aims to move beyond basic device control toward an AI-native home that can understand context and care for users' needs in real time.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
+      "title": "Announcing ADK for Kotlin and ADK for Android 0.1.0: Building AI Agents on Android and Beyond",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
+      "published_at": "",
+      "fetched_at": "2026-05-22T00:45:30.252973",
+      "tags": [],
+      "summary": "ADK for Kotlin brings agentic workflows to your backend projects, while ADK for Android provides spe...",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96169",
+      "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
+      "published_at": "Thu, 21 May 2026 18:00:00 +0000",
+      "fetched_at": "2026-05-22T00:45:30.252973",
+      "tags": [],
+      "summary": "<p>Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets.</p>\n<p>The post <a href=\"https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/\">Beyond the engine: 10 open source projects shaping how games actually get made</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96232",
+      "title": "Building GitHub\u2019s next chapter in accessibility",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
+      "published_at": "Thu, 21 May 2026 16:00:00 +0000",
+      "fetched_at": "2026-05-22T00:45:30.252973",
+      "tags": [],
+      "summary": "<p>Explore our update on GitHub\u2019s accessibility strategy, and learn how you can join us in building a culture of accessibility.</p>\n<p>The post <a href=\"https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/\">Building GitHub&#8217;s next chapter in accessibility</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
