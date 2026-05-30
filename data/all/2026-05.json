@@ -1550,6 +1550,17 @@
       "tags": [],
       "summary": "<p>The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/\">Still a developer. Just outside. Our latest GitHub Shop collection is here.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05292026a",
+      "title": "TestFlight 4.2.1",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05292026a",
+      "published_at": "Fri, 29 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-05-30T00:45:16.295489",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
     }
   ]
 }
