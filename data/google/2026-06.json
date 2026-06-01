@@ -1,0 +1,224 @@
+{
+  "articles": [
+    {
+      "id": "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/",
+      "title": "Supercharge your integration workflow with the Google Pay & Wallet Developer MCP server",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "Google has announced the new Google Pay & Wallet Developer MCP server, an open-standard tool designed to securely connect AI development assistants and IDEs with real-time API and account context. The server allows developers to remain within their development environment to search official documentation, validate Wallet pass definitions, check integration status, and manage merchant accounts. Ultimately, this integration aims to reduce friction and accelerate development workflows by minimizing context switching and providing up-to-date, grounded AI support.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/",
+      "title": "How the community trained Gemma to \"Think\" with Tunix and TPUs",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "The Google Tunix Hackathon on Kaggle challenged developers to transform small, non-reasoning base models into general reasoning engines using Kaggle TPUs and a limited compute budget. The winning teams achieved this by implementing multi-stage post-training pipelines that combined Supervised Fine-Tuning (SFT) with advanced alignment techniques like GRPO and SimPO. Ultimately, the competition democratized AI development by proving that highly capable, structured reasoning models can be successfully trained by the community using accessible, open-source resources.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/the-latest-updates-to-google-pay/",
+      "title": "The latest updates to Google Pay",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/the-latest-updates-to-google-pay/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "Google Pay is evolving for \"agentic commerce\" by introducing the Universal Commerce Protocol and a new MCP server that allows AI agents to manage integrations and analyze trends. New Android updates introduce dynamic callbacks for seamless express checkouts and extend payment support into social media apps via WebViews. Additionally, the platform is launching cross-device biometric authentication and new transaction signals to help merchants reduce friction and optimize processing costs.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/enhancing-android-checkout-with-dynamic-callbacks-in-google-pay/",
+      "title": "Enhancing Android Checkout with Dynamic Callbacks in Google Pay",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/enhancing-android-checkout-with-dynamic-callbacks-in-google-pay/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "We are excited to bring Express checkout with Google Pay for Android native apps enabling developers...",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
+      "title": "Empowering Service Providers and Hardware Partners with Gemini for Home",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "Google is expanding its smart home ecosystem by launching a full-stack Gemini AI offering that integrates advanced camera intelligence, natural language queries, and daily activity summaries. This initiative provides service providers and hardware manufacturers with turnkey reference designs and APIs to build proactive, branded services without extensive research and development. Ultimately, the program aims to move beyond basic device control toward an AI-native home that can understand context and care for users' needs in real time.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
+      "title": "Announcing ADK for Kotlin and ADK for Android 0.1.0: Building AI Agents on Android and Beyond",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "ADK for Kotlin brings agentic workflows to your backend projects, while ADK for Android provides spe...",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/blazing-fast-on-device-genai-with-litert-lm/",
+      "title": "Blazing fast on-device GenAI with LiteRT-LM",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/blazing-fast-on-device-genai-with-litert-lm/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "Google AI Edge\u2019s LiteRT-LM provides a production-proven, highly optimized infrastructure for running Gemma 4 across cross-platform mobile and edge environments. It actively unlocks the model's native multimodal and agentic features on-device by utilizing memory-efficient dynamic loading, Multi-Token Prediction for up to a 2.2x speedup, and advanced orchestration tools like Thinking Mode and Constrained Decoding. Furthermore, the engine is rapidly expanding its integration surfaces beyond Android, introducing new native Swift APIs for Apple ecosystems and WebGPU-accelerated JavaScript APIs for high-performance, serverless browser inference.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community/",
+      "title": "One Year of Innovation: Celebrating 100k Members in the Google Cloud x NVIDIA Developer Community",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "The Google Cloud and NVIDIA developer community is celebrating its first anniversary with 100,000 members and a renewed focus on providing builders with advanced AI infrastructure and resources. To accelerate development, the community offers curated learning pathways for mastering LLM optimization, GPU-accelerated data analytics, and monthly expert-led webinars. Moving into its second year, the initiative will expand to include hands-on labs, engineering events, and specialized content focused on the growth of agentic AI.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
+      "title": "All the news from the Google I/O 2026 Developer keynote",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "Google announced the transition from assistive AI to independent agents, highlighting the launch of the Gemini 3.5 series and major updates to its Antigravity agent-first development platform. For mobile developers, the post introduces new Android CLI tools, the Android Bench evaluation leaderboard, and an automated Migration agent designed to rapidly convert various frameworks into native Kotlin code. Web development is also being transformed through Chrome DevTools for agents, the HTML-in-Canvas API, and the proposal of WebMCP, an open web standard that enables browser-based AI agents to execute complex tasks.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity/",
+      "title": "A Smarter Google AI Edge Gallery: MCP integration, notifications, and session continuity",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "The Google AI Edge Gallery app has expanded its on-device AI capabilities by introducing experimental support for the open-source Model Context Protocol (MCP) on Android, allowing Gemma 4 to coordinate complex tasks across external data sources like Google Workspace and Google Maps. To enable more proactive and persistent user interactions, the update adds a \"Schedule Notification\" skill for automating routines and a persistent chat history feature that restores long session contexts nearly instantly. Driven by an open-source toolkit, the platform encourages community developers to build and share custom utility-focused workflows, prompt configurations, and tool integrations via its GitHub repository.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/google-tensor-sdk-beta-with-litert/",
+      "title": "Google Tensor SDK Beta with LiteRT",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/google-tensor-sdk-beta-with-litert/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "The Google Tensor ML SDK is graduating to its Beta phase, allowing developers to build and deploy high-performance machine learning models directly onto the TPU of Google Pixel 10 devices. By integrating with LiteRT, Google's edge deployment framework, the SDK provides a unified workflow for developers to convert, compile, and run PyTorch or TFLite models with robust fallback options. Additionally, a new model garden offers over 100 classic and generative AI models, including Gemma 3, enabling low-latency, private features like speech recognition, computer vision, and text generation.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "title": "An important update: Transitioning Gemini CLI to Antigravity CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "Google is unifying its AI terminal tools by transitioning the community-focused Gemini CLI into Antigravity CLI, a new agent-first platform built for complex, multi-agent workflows. This new Go-based tool offers faster execution, asynchronous processing, and a unified architecture that syncs with the Antigravity 2.0 desktop application. While enterprise customers will maintain existing access, individual and free users must transition to the new platform before Gemini CLI stops serving requests on June 18, 2026.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/accelerating-on-device-ai-a-look-at-arm-and-google-ai-edge-optimization/",
+      "title": "Accelerating on-device AI: A look at Arm and Google AI Edge optimization",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/accelerating-on-device-ai-a-look-at-arm-and-google-ai-edge-optimization/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "Integration of Arm Scalable Matrix Extension 2 (SME2) and the Google AI Edge software stack enables high-performance, on-device generative AI by turning the CPU into a powerful matrix-compute accelerator. Using Stability AI\u2019s \"stable-audio-open-small\" model as a case study, it outlines a streamlined \"Convert, Optimize, and Deploy\" pipeline that utilizes LiteRT, XNNPACK, and KleidiAI to automate hardware acceleration. The resulting implementation achieves over a 2x speedup in audio generation and a 4x reduction in memory usage while maintaining high audio quality on Arm-powered mobile devices and laptops.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/",
+      "title": "Announcing Genkit Middleware: Intercept, extend, and harden your agentic apps",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "Genkit is an open-source framework designed to help developers build production-ready, agentic AI applications using TypeScript, Go, Dart, and Python. The framework utilizes a powerful middleware system that intercepts generation calls to inject custom behaviors like retries, model fallbacks, and human-in-the-loop tool approvals. By attaching hooks at the generate, model, and tool layers, developers can ensure high reliability and deterministic control over model outputs. Furthermore, Genkit allows for the creation and stacking of custom middleware, all of which can be inspected and debugged through a dedicated Developer UI.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk/",
+      "title": "Build Long-running AI agents that pause, resume, and never lose context with ADK",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "How to transition from stateless chatbots to production-grade agents capable of managing long-running enterprise workflows, such as HR onboarding, that span days or weeks. It introduces the Agent Development Kit (ADK) and its architectural shifts, specifically using durable state machines and persistent session storage to ensure an agent never loses context during \"idle time\" or server restarts. By leveraging event-driven webhooks and multi-agent delegation, the tutorial demonstrates how to build resilient systems that \"sleep\" during pauses and wake up to resume complex tasks with high reasoning accuracy.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/supercharging-llm-inference-on-google-tpus-achieving-3x-speedups-with-diffusion-style-speculative-decoding/",
+      "title": "Supercharging LLM inference on Google TPUs: Achieving 3X speedups with diffusion-style speculative decoding",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/supercharging-llm-inference-on-google-tpus-achieving-3x-speedups-with-diffusion-style-speculative-decoding/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "Researchers at UCSD have successfully implemented DFlash, a block-diffusion speculative decoding method, on Google TPUs to bypass the sequential bottlenecks of traditional autoregressive drafting. By \"painting\" entire blocks of candidate tokens in a single forward pass rather than predicting them one-by-one, the system achieved average speedups of 3.13x, with peak performance nearly doubling that of existing methods like EAGLE-3. This open-source integration into the vLLM ecosystem optimizes TPU hardware by leveraging \"free\" parallel verification and high-quality draft predictions for complex reasoning tasks.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/building-with-gemini-embedding-2/",
+      "title": "Building with Gemini Embedding 2: Agentic multimodal RAG and beyond",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/building-with-gemini-embedding-2/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "Google has announced the general availability of Gemini Embedding 2, a unified model that maps text, images, video, audio, and documents into a single semantic space. This model allows developers to process interleaved multimodal inputs in a single request, significantly improving performance for tasks like agentic RAG, visual search, and content moderation. By supporting over 100 languages and offering features like task-specific prefixes and Matryoshka dimensionality reduction, the model provides a highly efficient and accurate foundation for building complex AI agents.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/speeding-up-ai-bringing-google-colossus-to-pytorch-via-gcsfs-and-rapid-bucket/",
+      "title": "Speeding Up AI: Bringing Google Colossus to PyTorch via GCSFS and Rapid Bucket",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/speeding-up-ai-bringing-google-colossus-to-pytorch-via-gcsfs-and-rapid-bucket/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "Google Cloud has introduced a high-performance integration that connects Rapid Storage directly to PyTorch via the fsspec interface to eliminate AI training bottlenecks. By utilizing Google\u2019s Colossus architecture and bidirectional gRPC streaming, the solution offers up to 15 TiB/s aggregate throughput and significant reductions in latency. These improvements allow developers to speed up total training time by 23% with zero code changes required beyond updating the storage bucket type.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/building-real-world-on-device-ai-with-litert-and-npu/",
+      "title": "Building real-world on-device AI with LiteRT and NPU",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/building-real-world-on-device-ai-with-litert-and-npu/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "LiteRT is a production-ready framework designed to help mobile developers unlock the power of Neural Processing Units (NPUs), overcoming the performance and battery limitations of traditional CPU or GPU processing. By providing a unified API that abstracts away hardware complexities, it allows industry leaders like Google Meet and Epic Games to deploy sophisticated AI models for real-time video, animation, and speech recognition with significantly higher efficiency. The platform further supports developers through benchmarking tools and cross-platform compatibility, enabling seamless AI deployment across mobile devices, AI PCs, and industrial IoT hardware.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/",
+      "title": "Agents CLI in Agent Platform:  create to production in one CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/agents-cli-in-agent-platform-create-to-production-in-one-cli/",
+      "published_at": "",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "Google Cloud has introduced the Agents CLI, a specialized tool designed to bridge the gap between local development and production-grade AI agent deployment. The CLI provides coding assistants with machine-readable access to the full Google Cloud stack, reducing context overload and token waste during the scaffolding process. By streamlining evaluation, infrastructure provisioning, and deployment into a single programmatic backbone, the tool enables developers to move from initial concept to a live service in hours rather than weeks.",
+      "notes": ""
+    }
+  ]
+}

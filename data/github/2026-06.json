@@ -1,0 +1,114 @@
+{
+  "articles": [
+    {
+      "id": "https://github.blog/?p=96339",
+      "title": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
+      "published_at": "Thu, 28 May 2026 18:18:43 +0000",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "<p>The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/\">Still a developer. Just outside. Our latest GitHub Shop collection is here.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96273",
+      "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
+      "published_at": "Mon, 25 May 2026 16:00:00 +0000",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "<p>Discover how to use VS Code to interact with GitHub and maintain your projects.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/\">GitHub for Beginners: Getting started with Git and GitHub in VS Code</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96262",
+      "title": "GitHub recognized as a Leader in the Gartner\u00ae Magic Quadrant\u2122 for Enterprise AI Coding Agents for the third year in a row",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
+      "published_at": "Fri, 22 May 2026 16:10:21 +0000",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "<p>We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/\">GitHub recognized as a Leader in the Gartner\u00ae Magic Quadrant\u2122 for Enterprise AI Coding Agents for the third year in a row</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96169",
+      "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
+      "published_at": "Thu, 21 May 2026 18:00:00 +0000",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "<p>Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets.</p>\n<p>The post <a href=\"https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/\">Beyond the engine: 10 open source projects shaping how games actually get made</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96232",
+      "title": "Building GitHub\u2019s next chapter in accessibility",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
+      "published_at": "Thu, 21 May 2026 16:00:00 +0000",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "<p>Explore our update on GitHub\u2019s accessibility strategy, and learn how you can join us in building a culture of accessibility.</p>\n<p>The post <a href=\"https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/\">Building GitHub&#8217;s next chapter in accessibility</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96242",
+      "title": "Investigation update: GitHub Enterprise Server signing key rotation",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
+      "published_at": "Wed, 20 May 2026 21:07:38 +0000",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "<p>GitHub Enterprise Server customers need to take immediate action.</p>\n<p>The post <a href=\"https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/\">Investigation update: GitHub Enterprise Server signing key rotation</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=95877",
+      "title": "Take your local GitHub sessions anywhere",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+      "published_at": "Mon, 18 May 2026 16:54:53 +0000",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "<p>Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile.  </p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/\">Take your local GitHub sessions anywhere</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96092",
+      "title": "Building a general-purpose accessibility agent\u2014and what we learned in the process",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+      "published_at": "Fri, 15 May 2026 16:00:00 +0000",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "<p>Learn about the experimental general-purpose accessibility agent that GitHub is piloting.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/\">Building a general-purpose accessibility agent\u2014and what we learned in the process</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96112",
+      "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub\u2019s bug bounty program",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
+      "published_at": "Fri, 15 May 2026 14:00:00 +0000",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "<p>We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings.</p>\n<p>The post <a href=\"https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/\">Raising the bar: Quality, shared responsibility, and the future of GitHub&#8217;s bug bounty program</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96106",
+      "title": "GitHub availability report: April 2026",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-april-2026/",
+      "published_at": "Thu, 14 May 2026 22:02:43 +0000",
+      "fetched_at": "2026-06-01T00:51:12.701502",
+      "tags": [],
+      "summary": "<p>In April, we experienced 10 incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-april-2026/\">GitHub availability report: April 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    }
+  ]
+}
