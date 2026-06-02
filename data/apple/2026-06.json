@@ -450,6 +450,28 @@
       "tags": [],
       "summary": "View installation instructions",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06012026a",
+      "title": "iOS 26.5.1 (23F81)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06012026a",
+      "published_at": "Mon, 01 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-02T00:51:50.794710",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06012026b",
+      "title": "macOS 26.5.1 (25F80)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06012026b",
+      "published_at": "Mon, 01 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-02T00:51:50.794710",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
