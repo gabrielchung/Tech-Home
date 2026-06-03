@@ -912,6 +912,17 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96380",
+      "title": "GitHub Copilot app: The agent-native desktop experience",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+      "published_at": "Tue, 02 Jun 2026 17:30:03 +0000",
+      "fetched_at": "2026-06-03T00:57:12.465925",
+      "tags": [],
+      "summary": "<p>At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/\">GitHub Copilot app: The agent-native desktop experience</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
