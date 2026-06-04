@@ -219,6 +219,28 @@
       "tags": [],
       "summary": "Google Cloud has introduced the Agents CLI, a specialized tool designed to bridge the gap between local development and production-grade AI agent deployment. The CLI provides coding assistants with machine-readable access to the full Google Cloud stack, reducing context overload and token waste during the scaffolding process. By streamlining evaluation, infrastructure provisioning, and deployment into a single programmatic backbone, the tool enables developers to move from initial concept to a live service in hours rather than weeks.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
+      "title": "Gemma 4 12B: The Developer Guide",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
+      "published_at": "",
+      "fetched_at": "2026-06-04T00:57:03.721834",
+      "tags": [],
+      "summary": "The newly released Gemma 4 12B is a dense, multimodal model designed for high-performance local AI execution on consumer devices. By introducing a novel, encoder-free architecture, it bypasses traditional visual and audio encoders to feed multimodal data directly into the LLM backbone.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
+      "title": "Bringing Gemma 4 12B to your Laptop: Unlocking Local, Agentic Workflows with Google AI Edge",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
+      "published_at": "",
+      "fetched_at": "2026-06-04T00:57:03.721834",
+      "tags": [],
+      "summary": "Google DeepMind\u2019s Gemma 4 12B model brings agentic, multimodal AI capabilities to everyday laptops with 16GB of RAM, enabling local data processing and visual insight generation. Users can leverage this model on macOS through the Google AI Edge Gallery for dynamic Python code execution and visualization, as well as via Google AI Edge Eloquent for completely offline voice dictation and text editing. Additionally, developer workflows are enhanced by the LiteRT-LM CLI's new serve command, which creates an industry-compatible local endpoint to power fully-local AI tools and agents.",
+      "notes": ""
     }
   ]
 }
