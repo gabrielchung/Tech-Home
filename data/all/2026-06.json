@@ -945,6 +945,17 @@
       "tags": [],
       "summary": "Google DeepMind\u2019s Gemma 4 12B model brings agentic, multimodal AI capabilities to everyday laptops with 16GB of RAM, enabling local data processing and visual insight generation. Users can leverage this model on macOS through the Google AI Edge Gallery for dynamic Python code execution and visualization, as well as via Google AI Edge Eloquent for completely offline voice dictation and text editing. Additionally, developer workflows are enhanced by the LiteRT-LM CLI's new serve command, which creates an industry-compatible local endpoint to power fully-local AI tools and agents.",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96572",
+      "title": "GitHub Universe is back: All together now, in the agentic era",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
+      "published_at": "Thu, 04 Jun 2026 16:00:00 +0000",
+      "fetched_at": "2026-06-05T00:49:39.815079",
+      "tags": [],
+      "summary": "<p>GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28\u201329, 2026.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/\">GitHub Universe is back: All together now, in the agentic era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
