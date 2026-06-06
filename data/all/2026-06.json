@@ -956,6 +956,17 @@
       "tags": [],
       "summary": "<p>GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28\u201329, 2026.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/\">GitHub Universe is back: All together now, in the agentic era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/introducing-the-google-colab-cli/",
+      "title": "Introducing the Google Colab CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/introducing-the-google-colab-cli/",
+      "published_at": "",
+      "fetched_at": "2026-06-06T00:46:59.385794",
+      "tags": [],
+      "summary": "Google has announced the Google Colab Command-Line Interface (CLI), a new tool that allows developers and AI agents to connect local terminals to remote Colab runtimes for frictionless execution. The lightweight CLI enables users to easily request high-powered GPUs, run local Python scripts remotely, and seamlessly retrieve artifact logs or models like fine-tuned Gemma 3 adapters. By integrating directly into standard terminal environments, the tool is highly programmable and ready to be used by AI agents such as Antigravity or Claude Code to manage complex machine learning pipelines.",
+      "notes": ""
     }
   ]
 }
