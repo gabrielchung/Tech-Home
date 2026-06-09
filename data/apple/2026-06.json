@@ -472,6 +472,94 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06082026a",
+      "title": "App Store Connect API 4.4",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06082026a",
+      "published_at": "Mon, 08 Jun 2026 14:00:00 PDT",
+      "fetched_at": "2026-06-09T00:45:16.734074",
+      "tags": [],
+      "summary": "Download fileView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06082026h",
+      "title": "Xcode 26.6 RC (17F109)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06082026h",
+      "published_at": "Mon, 08 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-09T00:45:16.734074",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06082026b",
+      "title": "iOS 27 beta (24A5355q)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06082026b",
+      "published_at": "Mon, 08 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-09T00:45:16.734074",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06082026c",
+      "title": "iPadOS 27 beta (24A5355q)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06082026c",
+      "published_at": "Mon, 08 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-09T00:45:16.734074",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06082026d",
+      "title": "macOS 27 beta (26A5353q)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06082026d",
+      "published_at": "Mon, 08 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-09T00:45:16.734074",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06082026e",
+      "title": "tvOS 27 beta (24J5289o)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06082026e",
+      "published_at": "Mon, 08 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-09T00:45:16.734074",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06082026f",
+      "title": "visionOS 27 beta (24M5291p)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06082026f",
+      "published_at": "Mon, 08 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-09T00:45:16.734074",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06082026g",
+      "title": "watchOS 27 beta (24R5289n)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06082026g",
+      "published_at": "Mon, 08 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-09T00:45:16.734074",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
