@@ -1066,6 +1066,28 @@
       "tags": [],
       "summary": "<p>Find the answers to some of the most common GitHub-related questions.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/\">GitHub for Beginners: Answers to some common questions</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06092026a",
+      "title": "AirPods beta (9A292e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06092026a",
+      "published_at": "Tue, 09 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-10T00:51:13.862263",
+      "tags": [],
+      "summary": "View installation instructions",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96276",
+      "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+      "published_at": "Tue, 09 Jun 2026 16:00:00 +0000",
+      "fetched_at": "2026-06-10T00:51:13.862263",
+      "tags": [],
+      "summary": "<p>Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/\">From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

@@ -560,6 +560,17 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06092026a",
+      "title": "AirPods beta (9A292e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06092026a",
+      "published_at": "Tue, 09 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-10T00:51:13.862263",
+      "tags": [],
+      "summary": "View installation instructions",
+      "notes": ""
     }
   ]
 }
