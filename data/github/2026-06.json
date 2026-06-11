@@ -153,6 +153,17 @@
       "tags": [],
       "summary": "<p>Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/\">From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96610",
+      "title": "Give GitHub Copilot CLI real code intelligence with language servers",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
+      "published_at": "Wed, 10 Jun 2026 16:00:00 +0000",
+      "fetched_at": "2026-06-11T00:51:07.808913",
+      "tags": [],
+      "summary": "<p>Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/\">Give GitHub Copilot CLI real code intelligence with language servers</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
