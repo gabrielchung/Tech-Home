@@ -1110,6 +1110,28 @@
       "tags": [],
       "summary": "<p>Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/\">Give GitHub Copilot CLI real code intelligence with language servers</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96626",
+      "title": "GitHub availability report: May 2026",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
+      "published_at": "Thu, 11 Jun 2026 21:30:15 +0000",
+      "fetched_at": "2026-06-12T00:54:02.713147",
+      "tags": [],
+      "summary": "<p>In May, we experienced nine incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-may-2026/\">GitHub availability report: May 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96621",
+      "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
+      "published_at": "Thu, 11 Jun 2026 16:00:00 +0000",
+      "fetched_at": "2026-06-12T00:54:02.713147",
+      "tags": [],
+      "summary": "<p>Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning.</p>\n<p>The post <a href=\"https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/\">Making secret scanning more trustworthy: Reducing false positives at scale</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
