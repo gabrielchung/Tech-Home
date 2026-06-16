@@ -1143,6 +1143,94 @@
       "tags": [],
       "summary": "<p>Better orchestration, fewer handoffs, faster progress, without a single new knob.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/\">How we made GitHub Copilot CLI more selective about delegation</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06152026a",
+      "title": "iOS 26.6 beta 2 (23G5043d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06152026a",
+      "published_at": "Mon, 15 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06152026b",
+      "title": "iPadOS 26.6 beta 2 (23G5043d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06152026b",
+      "published_at": "Mon, 15 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06152026c",
+      "title": "macOS 26.6 beta 2 (25G5043d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06152026c",
+      "published_at": "Mon, 15 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06152026d",
+      "title": "tvOS 26.6 beta 2 (23L5744d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06152026d",
+      "published_at": "Mon, 15 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06152026e",
+      "title": "visionOS 26.6 beta 2 (23O5743c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06152026e",
+      "published_at": "Mon, 15 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06152026f",
+      "title": "watchOS 26.6 beta 2 (23U5040d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06152026f",
+      "published_at": "Mon, 15 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96773",
+      "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
+      "published_at": "Mon, 15 Jun 2026 20:15:31 +0000",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "<p>GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/\">GitHub Copilot CLI for Beginners: Overview of common slash commands</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96776",
+      "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+      "published_at": "Mon, 15 Jun 2026 19:17:30 +0000",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "<p>A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/\">Accelerating researchers and developers building multilingual AI with a new open dataset</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

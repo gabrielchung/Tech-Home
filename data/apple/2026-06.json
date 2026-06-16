@@ -571,6 +571,72 @@
       "tags": [],
       "summary": "View installation instructions",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06152026a",
+      "title": "iOS 26.6 beta 2 (23G5043d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06152026a",
+      "published_at": "Mon, 15 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06152026b",
+      "title": "iPadOS 26.6 beta 2 (23G5043d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06152026b",
+      "published_at": "Mon, 15 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06152026c",
+      "title": "macOS 26.6 beta 2 (25G5043d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06152026c",
+      "published_at": "Mon, 15 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06152026d",
+      "title": "tvOS 26.6 beta 2 (23L5744d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06152026d",
+      "published_at": "Mon, 15 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06152026e",
+      "title": "visionOS 26.6 beta 2 (23O5743c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06152026e",
+      "published_at": "Mon, 15 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06152026f",
+      "title": "watchOS 26.6 beta 2 (23U5040d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06152026f",
+      "published_at": "Mon, 15 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-16T00:59:01.873694",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
