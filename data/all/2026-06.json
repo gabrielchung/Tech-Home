@@ -1264,6 +1264,39 @@
       "tags": [],
       "summary": "<p>Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/\">What are git worktrees, and why should I use them?</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
+      "title": "A2UI + MCP Apps: Combining the best of declarative and custom agentic UIs",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
+      "published_at": "",
+      "fetched_at": "2026-06-18T00:53:42.540728",
+      "tags": [],
+      "summary": "This post introduces three architectural patterns designed to integrate Model Context Protocol (MCP) Apps and Agent-to-User Interface (A2UI) to solve the tradeoff between highly custom iframe environments and native, declarative rendering. By combining these approaches, developers can serve native-feeling UIs directly over MCP servers, embed complex and stateful iframe apps securely inside declarative views, or inject generative UI components into legacy systems. Ultimately, these hybrid frameworks empower engineering teams to deliver secure, performant, and brand-consistent agentic user experiences tailored to their specific project constraints.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
+      "title": "Announcing the Agentic Resource Discovery specification",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
+      "published_at": "",
+      "fetched_at": "2026-06-18T00:53:42.540728",
+      "tags": [],
+      "summary": "An open specification for finding and verifying tools, skills, and agents across the web.Agents are ...",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96832",
+      "title": "Getting more from each token: How Copilot improves context handling and model routing",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
+      "published_at": "Wed, 17 Jun 2026 19:41:46 +0000",
+      "fetched_at": "2026-06-18T00:53:42.540728",
+      "tags": [],
+      "summary": "<p>How GitHub Copilot is making more of each session go toward useful work, so your credits go further.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/\">Getting more from each token: How Copilot improves context handling and model routing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
