@@ -307,6 +307,17 @@
       "tags": [],
       "summary": "An open specification for finding and verifying tools, skills, and agents across the web.Agents are ...",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
+      "title": "How A2A is Building a World of Collaborative Agents",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
+      "published_at": "",
+      "fetched_at": "2026-06-19T00:58:20.049198",
+      "tags": [],
+      "summary": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies application design through modularity. To demonstrate this ecosystem in action, the post spotlights FoldRun\u2014an agentic interface for life sciences that orchestrates complex protein structure predictions\u2014alongside diverse A2A use cases spanning commerce, data streaming, DevOps, and telecommunications.",
+      "notes": ""
     }
   ]
 }

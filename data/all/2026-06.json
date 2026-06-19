@@ -1297,6 +1297,50 @@
       "tags": [],
       "summary": "<p>How GitHub Copilot is making more of each session go toward useful work, so your credits go further.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/\">Getting more from each token: How Copilot improves context handling and model routing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
+      "title": "How A2A is Building a World of Collaborative Agents",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
+      "published_at": "",
+      "fetched_at": "2026-06-19T00:58:20.049198",
+      "tags": [],
+      "summary": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies application design through modularity. To demonstrate this ecosystem in action, the post spotlights FoldRun\u2014an agentic interface for life sciences that orchestrates complex protein structure predictions\u2014alongside diverse A2A use cases spanning commerce, data streaming, DevOps, and telecommunications.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06182026b",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06182026b",
+      "published_at": "Thu, 18 Jun 2026 15:00:00 PDT",
+      "fetched_at": "2026-06-19T00:58:20.049198",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06182026a",
+      "title": "Xcode 26.6 RC 2 (17F113)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06182026a",
+      "published_at": "Thu, 18 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-19T00:58:20.049198",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96841",
+      "title": "How pull request limits are cutting down the noise",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+      "published_at": "Thu, 18 Jun 2026 16:00:00 +0000",
+      "fetched_at": "2026-06-19T00:58:20.049198",
+      "tags": [],
+      "summary": "<p>Learn how pull request limits can help manage contribution volume in your repositories, and see what\u2019s next on the roadmap.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/\">How pull request limits are cutting down the noise</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

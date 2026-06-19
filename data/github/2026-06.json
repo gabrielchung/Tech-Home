@@ -241,6 +241,17 @@
       "tags": [],
       "summary": "<p>How GitHub Copilot is making more of each session go toward useful work, so your credits go further.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/\">Getting more from each token: How Copilot improves context handling and model routing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96841",
+      "title": "How pull request limits are cutting down the noise",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+      "published_at": "Thu, 18 Jun 2026 16:00:00 +0000",
+      "fetched_at": "2026-06-19T00:58:20.049198",
+      "tags": [],
+      "summary": "<p>Learn how pull request limits can help manage contribution volume in your repositories, and see what\u2019s next on the roadmap.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/\">How pull request limits are cutting down the noise</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
