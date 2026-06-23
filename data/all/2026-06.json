@@ -1352,6 +1352,105 @@
       "tags": [],
       "summary": "<p>Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/\">How we built an internal data analytics agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+      "title": "Measuring What Matters with Jules",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+      "published_at": "",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "AI coding agents are rapidly shifting from reactive assistants that complete tasks when prompted to ...",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+      "title": "Build Cross-Language Multi-Agent Team with Google\u2019s Agent Development Kit and A2A",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+      "published_at": "",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06222026f",
+      "title": "Xcode 27 beta 2 (27A5209h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06222026f",
+      "published_at": "Mon, 22 Jun 2026 15:00:00 PDT",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06222026a",
+      "title": "iOS 27.0 beta 2 (24A5370h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06222026a",
+      "published_at": "Mon, 22 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06222026b",
+      "title": "iPadOS 27.0 beta 2 (24A5370h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06222026b",
+      "published_at": "Mon, 22 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06222026c",
+      "title": "macOS 27.0 beta 2 (26A5368g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06222026c",
+      "published_at": "Mon, 22 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06222026d",
+      "title": "tvOS 27.0 beta 2 (24J5305f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06222026d",
+      "published_at": "Mon, 22 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06222026e",
+      "title": "visionOS 27.0 beta 2 (24M5306i)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06222026e",
+      "published_at": "Mon, 22 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=96917",
+      "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+      "published_at": "Mon, 22 Jun 2026 17:20:31 +0000",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "<p>Learn about the progress we\u2019ve made toward our accessibility goals and how you can help make open source more inclusive. </p>\n<p>The post <a href=\"https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/\">From pledge to practice: Building a more inclusive open source ecosystem</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

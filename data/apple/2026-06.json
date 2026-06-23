@@ -659,6 +659,72 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06222026f",
+      "title": "Xcode 27 beta 2 (27A5209h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06222026f",
+      "published_at": "Mon, 22 Jun 2026 15:00:00 PDT",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06222026a",
+      "title": "iOS 27.0 beta 2 (24A5370h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06222026a",
+      "published_at": "Mon, 22 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06222026b",
+      "title": "iPadOS 27.0 beta 2 (24A5370h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06222026b",
+      "published_at": "Mon, 22 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06222026c",
+      "title": "macOS 27.0 beta 2 (26A5368g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06222026c",
+      "published_at": "Mon, 22 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06222026d",
+      "title": "tvOS 27.0 beta 2 (24J5305f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06222026d",
+      "published_at": "Mon, 22 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06222026e",
+      "title": "visionOS 27.0 beta 2 (24M5306i)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06222026e",
+      "published_at": "Mon, 22 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }

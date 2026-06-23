@@ -318,6 +318,28 @@
       "tags": [],
       "summary": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies application design through modularity. To demonstrate this ecosystem in action, the post spotlights FoldRun\u2014an agentic interface for life sciences that orchestrates complex protein structure predictions\u2014alongside diverse A2A use cases spanning commerce, data streaming, DevOps, and telecommunications.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+      "title": "Measuring What Matters with Jules",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+      "published_at": "",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "AI coding agents are rapidly shifting from reactive assistants that complete tasks when prompted to ...",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+      "title": "Build Cross-Language Multi-Agent Team with Google\u2019s Agent Development Kit and A2A",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+      "published_at": "",
+      "fetched_at": "2026-06-23T00:46:57.914942",
+      "tags": [],
+      "summary": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
+      "notes": ""
     }
   ]
 }
