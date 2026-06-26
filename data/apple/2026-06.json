@@ -758,6 +758,28 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06252026b",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06252026b",
+      "published_at": "Thu, 25 Jun 2026 15:00:00 PDT",
+      "fetched_at": "2026-06-26T00:49:13.374844",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06252026a",
+      "title": "Xcode 26.6 (17F113)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06252026a",
+      "published_at": "Thu, 25 Jun 2026 15:00:00 PDT",
+      "fetched_at": "2026-06-26T00:49:13.374844",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
