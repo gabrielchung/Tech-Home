@@ -780,6 +780,149 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06292026d",
+      "title": "iOS 26.6 beta 3 (23G5052d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06292026d",
+      "published_at": "Mon, 29 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06292026e",
+      "title": "iPadOS 26.6 beta 3 (23G5052d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06292026e",
+      "published_at": "Mon, 29 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06292026f",
+      "title": "macOS 26.6 beta 3 (25G5052e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06292026f",
+      "published_at": "Mon, 29 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06292026g",
+      "title": "tvOS 26.6 beta 3 (23L5753c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06292026g",
+      "published_at": "Mon, 29 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06292026h",
+      "title": "visionOS 26.6 beta 3 (23O5752d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06292026h",
+      "published_at": "Mon, 29 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06292026i",
+      "title": "watchOS 26.6 beta 3 (23U5049c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06292026i",
+      "published_at": "Mon, 29 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06292026a",
+      "title": "iOS 26.5.2 (23F84)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06292026a",
+      "published_at": "Mon, 29 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06292026b",
+      "title": "iPadOS 26.5.2 (23F84)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06292026b",
+      "published_at": "Mon, 29 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=06292026c",
+      "title": "macOS 26.5.2 (25F84)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=06292026c",
+      "published_at": "Mon, 29 Jun 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05082026a",
+      "title": "iOS 26.5 RC 2 (23F77)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05082026a",
+      "published_at": "Fri, 08 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05082026b",
+      "title": "iPadOS 26.5 RC 2 (23F77)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05082026b",
+      "published_at": "Fri, 08 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026a",
+      "title": "iOS 26.5 RC (23F75)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026a",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=04162026b",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=04162026b",
+      "published_at": "Thu, 16 Apr 2026 14:30:00 PDT",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
     }
   ]
 }

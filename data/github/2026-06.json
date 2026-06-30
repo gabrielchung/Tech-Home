@@ -329,6 +329,28 @@
       "tags": [],
       "summary": "<p>How GitHub's culture and benefits helped me be the best version of myself.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/\">Transitioning as a Hubber</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97076",
+      "title": "Highlights from Git 2.55",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-55/",
+      "published_at": "Mon, 29 Jun 2026 17:25:25 +0000",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "<p>The open source Git project just released Git 2.55. Here is GitHub\u2019s look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-55/\">Highlights from Git 2.55</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97150",
+      "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
+      "published_at": "Mon, 29 Jun 2026 16:10:20 +0000",
+      "fetched_at": "2026-06-30T00:47:30.591719",
+      "tags": [],
+      "summary": "<p>The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/\">Inside the Advisory Database and what happens when vulnerability volume breaks records</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
