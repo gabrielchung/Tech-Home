@@ -1,0 +1,224 @@
+{
+  "articles": [
+    {
+      "id": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+      "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "Building AI agents often leaves developers uncertain if prompt tweaks to fix single errors will accidentally cause widespread regressions in production. To bridge this gap, Google has introduced a new developer skill for coding agents that automates a five-stage evaluation flywheel: preparing data, running inference, grading with adaptive AutoRaters, analyzing failure clusters, and executing targeted optimizations. Running continuously against production traffic or on-demand via synthetic scenarios, this tool allows developers to describe testing goals in plain language while an independent evaluation service safely validates and counts actual performance improvements.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-adk-go-20/",
+      "title": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine, built-in human-in-the-loop, and dynamic orchestration",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-adk-go-20/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "The Agent Development Kit (ADK) for Go 2.0 has been released, introducing a first-class, graph-based workflow engine to help developers compose complex, multi-agent applications. This update adds built-in primitives for human-in-the-loop (HITL) orchestration, dynamic execution using plain Go code, and automated resilience features like exponential backoff retries. By unifying the execution model, both single-agent applications and intricate graphs now run on the same runtime, simplifying telemetry and state persistence.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+      "title": "Build Cross-Language Multi-Agent Team with Google\u2019s Agent Development Kit and A2A",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+      "title": "Measuring What Matters with Jules",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "AI coding agents are rapidly shifting from reactive assistants that complete tasks when prompted to ...",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
+      "title": "How A2A is Building a World of Collaborative Agents",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framework enables autonomous AI agents to securely collaborate and hand off tasks without the rigidity of traditional APIs. By delegating complex workflows to specialized peer agents, A2A prevents context pollution, ensures data privacy, and simplifies application design through modularity. To demonstrate this ecosystem in action, the post spotlights FoldRun\u2014an agentic interface for life sciences that orchestrates complex protein structure predictions\u2014alongside diverse A2A use cases spanning commerce, data streaming, DevOps, and telecommunications.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
+      "title": "A2UI + MCP Apps: Combining the best of declarative and custom agentic UIs",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "This post introduces three architectural patterns designed to integrate Model Context Protocol (MCP) Apps and Agent-to-User Interface (A2UI) to solve the tradeoff between highly custom iframe environments and native, declarative rendering. By combining these approaches, developers can serve native-feeling UIs directly over MCP servers, embed complex and stateful iframe apps securely inside declarative views, or inject generative UI components into legacy systems. Ultimately, these hybrid frameworks empower engineering teams to deliver secure, performant, and brand-consistent agentic user experiences tailored to their specific project constraints.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
+      "title": "Announcing the Agentic Resource Discovery specification",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "An open specification for finding and verifying tools, skills, and agents across the web.Agents are ...",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
+      "title": "Unlocking the Power of the TPU Stack: Introducing our new Developer Hub",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "Google has officially launched the TPU Developer Hub, a centralized educational resource designed to help model builders and developers maximize the performance of Google Cloud TPUs. The hub offers code-first resources, open-source recipes, and deep-dive documentation covering hardware architecture, software optimization, debugging, parallelism, and networking. These materials are tailored for both human developers and AI-assisted tools to streamline everything from large-scale training to low-latency inference workloads.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
+      "title": "Enhance Security and Trust: New Session Metadata in Sign in with Google",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/enhance-security-and-trust-new-session-metadata-in-sign-in-with-google/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "Google is enhancing Sign in with Google by introducing new OIDC standard claims\u2014specifically auth_time and amr (Authentication Methods Reference) to provide developers with deeper session metadata. These updates allow verified apps to verify the \"freshness\" of a user's login and the specific authentication methods used (such as MFA or hardware keys), enabling more dynamic, risk-based access controls. By leveraging these federated identity signals, platforms can better prevent account takeover and fraud while implementing granular security policies like step-up authentication for sensitive actions.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
+      "title": "DiffusionGemma: The Developer Guide",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "DiffusionGemma is an experimental text-generation model built on the Gemma 4 architecture that uses diffusion-based parallel generation instead of token-by-token autoregression, enabling much faster inference, bidirectional context awareness, and real-time self-correction while remaining deployable on consumer GPUs. Its architecture generates and refines 256-token blocks in parallel through iterative denoising, allowing it to handle complex constraint-based tasks such as Sudoku more effectively than traditional language models and demonstrating strong gains from fine-tuning. The model integrates with vLLM and other popular inference frameworks, giving developers access to a new non-autoregressive approach that combines high performance, efficient long-context scaling, and straightforward customization and deployment.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/introducing-the-google-colab-cli/",
+      "title": "Introducing the Google Colab CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/introducing-the-google-colab-cli/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "Google has announced the Google Colab Command-Line Interface (CLI), a new tool that allows developers and AI agents to connect local terminals to remote Colab runtimes for frictionless execution. The lightweight CLI enables users to easily request high-powered GPUs, run local Python scripts remotely, and seamlessly retrieve artifact logs or models like fine-tuned Gemma 3 adapters. By integrating directly into standard terminal environments, the tool is highly programmable and ready to be used by AI agents such as Antigravity or Claude Code to manage complex machine learning pipelines.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
+      "title": "Bringing Gemma 4 12B to your Laptop: Unlocking Local, Agentic Workflows with Google AI Edge",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "Google DeepMind\u2019s Gemma 4 12B model brings agentic, multimodal AI capabilities to everyday laptops with 16GB of RAM, enabling local data processing and visual insight generation. Users can leverage this model on macOS through the Google AI Edge Gallery for dynamic Python code execution and visualization, as well as via Google AI Edge Eloquent for completely offline voice dictation and text editing. Additionally, developer workflows are enhanced by the LiteRT-LM CLI's new serve command, which creates an industry-compatible local endpoint to power fully-local AI tools and agents.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
+      "title": "Gemma 4 12B: The Developer Guide",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "The newly released Gemma 4 12B is a dense, multimodal model designed for high-performance local AI execution on consumer devices. By introducing a novel, encoder-free architecture, it bypasses traditional visual and audio encoders to feed multimodal data directly into the LLM backbone.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/",
+      "title": "How the community trained Gemma to \"Think\" with Tunix and TPUs",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "The Google Tunix Hackathon on Kaggle challenged developers to transform small, non-reasoning base models into general reasoning engines using Kaggle TPUs and a limited compute budget. The winning teams achieved this by implementing multi-stage post-training pipelines that combined Supervised Fine-Tuning (SFT) with advanced alignment techniques like GRPO and SimPO. Ultimately, the competition democratized AI development by proving that highly capable, structured reasoning models can be successfully trained by the community using accessible, open-source resources.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/",
+      "title": "Supercharge your integration workflow with the Google Pay & Wallet Developer MCP server",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "Google has announced the new Google Pay & Wallet Developer MCP server, an open-standard tool designed to securely connect AI development assistants and IDEs with real-time API and account context. The server allows developers to remain within their development environment to search official documentation, validate Wallet pass definitions, check integration status, and manage merchant accounts. Ultimately, this integration aims to reduce friction and accelerate development workflows by minimizing context switching and providing up-to-date, grounded AI support.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/the-latest-updates-to-google-pay/",
+      "title": "The latest updates to Google Pay",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/the-latest-updates-to-google-pay/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "Google Pay is evolving for \"agentic commerce\" by introducing the Universal Commerce Protocol and a new MCP server that allows AI agents to manage integrations and analyze trends. New Android updates introduce dynamic callbacks for seamless express checkouts and extend payment support into social media apps via WebViews. Additionally, the platform is launching cross-device biometric authentication and new transaction signals to help merchants reduce friction and optimize processing costs.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/enhancing-android-checkout-with-dynamic-callbacks-in-google-pay/",
+      "title": "Enhancing Android Checkout with Dynamic Callbacks in Google Pay",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/enhancing-android-checkout-with-dynamic-callbacks-in-google-pay/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "We are excited to bring Express checkout with Google Pay for Android native apps enabling developers...",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
+      "title": "Announcing ADK for Kotlin and ADK for Android 0.1.0: Building AI Agents on Android and Beyond",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "Google has announced the launch of version 0.1.0 of the Agent Development Kit (ADK) for Kotlin, alongside a specialized ADK library for Android. This open-source framework simplifies the creation of AI agents by managing complex orchestration, session sharing, and error handling across cloud and edge environments. The release supports hybrid orchestration, enabling developers to build multi-agent systems where a cloud-based model can seamlessly offload specific tasks to local, on-device models like Gemini Nano to enhance user privacy.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
+      "title": "Empowering Service Providers and Hardware Partners with Gemini for Home",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "Google is expanding its smart home ecosystem by launching a full-stack Gemini AI offering that integrates advanced camera intelligence, natural language queries, and daily activity summaries. This initiative provides service providers and hardware manufacturers with turnkey reference designs and APIs to build proactive, branded services without extensive research and development. Ultimately, the program aims to move beyond basic device control toward an AI-native home that can understand context and care for users' needs in real time.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "title": "An important update: Transitioning Gemini CLI to Antigravity CLI",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "published_at": "",
+      "fetched_at": "2026-07-01T00:50:12.533039",
+      "tags": [],
+      "summary": "Google is unifying its AI terminal tools by transitioning the community-focused Gemini CLI into Antigravity CLI, a new agent-first platform built for complex, multi-agent workflows. This new Go-based tool offers faster execution, asynchronous processing, and a unified architecture that syncs with the Antigravity 2.0 desktop application. While enterprise customers will maintain existing access, individual and free users must transition to the new platform before Gemini CLI stops serving requests on June 18, 2026.",
+      "notes": ""
+    }
+  ]
+}
