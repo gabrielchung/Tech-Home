@@ -219,6 +219,39 @@
       "tags": [],
       "summary": "Google is unifying its AI terminal tools by transitioning the community-focused Gemini CLI into Antigravity CLI, a new agent-first platform built for complex, multi-agent workflows. This new Go-based tool offers faster execution, asynchronous processing, and a unified architecture that syncs with the Antigravity 2.0 desktop application. While enterprise customers will maintain existing access, individual and free users must transition to the new platform before Gemini CLI stops serving requests on June 18, 2026.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+      "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+      "published_at": "",
+      "fetched_at": "2026-07-02T00:47:01.783731",
+      "tags": [],
+      "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Marketplace.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/why-we-built-adk-20/",
+      "title": "Why we built ADK 2.0",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/why-we-built-adk-20/",
+      "published_at": "",
+      "fetched_at": "2026-07-02T00:47:01.783731",
+      "tags": [],
+      "summary": "Answering the questions of \"why we built ADK 2.0\".  This explains the rationale, some of the features, and why a developer should consider upgrading.  This will be published the day after ADK go 2.0 launches.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+      "title": "Build agentic full-stack apps with Genkit",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+      "published_at": "",
+      "fetched_at": "2026-07-02T00:47:01.783731",
+      "tags": [],
+      "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence\u2014allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination\u2014while seamlessly connecting backends to frontends via a unified wire protocol. Currently available in preview for TypeScript and Go, it also integrates with the Genkit Developer UI to allow developers to easily test, debug, and inspect agent snapshots without writing client code.",
+      "notes": ""
     }
   ]
 }

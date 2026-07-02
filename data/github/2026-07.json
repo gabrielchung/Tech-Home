@@ -109,6 +109,17 @@
       "tags": [],
       "summary": "<p>Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/\">How we built an internal data analytics agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97204",
+      "title": "6 security settings every GitHub maintainer should enable this week",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+      "published_at": "Wed, 01 Jul 2026 15:59:29 +0000",
+      "fetched_at": "2026-07-02T00:47:01.783731",
+      "tags": [],
+      "summary": "<p>These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before.</p>\n<p>The post <a href=\"https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/\">6 security settings every GitHub maintainer should enable this week</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
