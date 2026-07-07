@@ -1066,6 +1066,149 @@
       "tags": [],
       "summary": "<p>GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/\">How GitHub used secret scanning to reach inbox zero</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
+      "title": "We terminated a TPU mid-training and it recovered in seconds:  Introduction to elastic training with MaxText",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
+      "published_at": "",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "Distributed AI training is notoriously fragile because losing a single machine typically crashes the entire multi-node job, forcing a time-consuming, full-workload infrastructure restart. To address this, Google\u2019s JAX ecosystem utilizes elastic training via Pathways, which converts a hardware failure into a catchable Python exception so the running process can survive. When an unplanned failure occurs, the system automatically replaces only the broken worker, restores the last viable checkpoint from Cloud Storage, and resumes training in place\u2014minimizing total downtime to under two minutes without ever restarting the main controller process.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026g",
+      "title": "iOS 27.0 beta 3 (24A5380h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026g",
+      "published_at": "Mon, 06 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026h",
+      "title": "iPadOS 27.0 beta 3 (24A5380h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026h",
+      "published_at": "Mon, 06 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026i",
+      "title": "macOS 27.0 beta 3 (26A5378j)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026i",
+      "published_at": "Mon, 06 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026j",
+      "title": "tvOS 27.0 beta 3 (24J5315i)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026j",
+      "published_at": "Mon, 06 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026k",
+      "title": "visionOS 27.0 beta 3 (24M5316k)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026k",
+      "published_at": "Mon, 06 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026l",
+      "title": "watchOS 27.0 beta 3 (24R5315i)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026l",
+      "published_at": "Mon, 06 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026a",
+      "title": "iOS 26.6 beta 4 (23G5057c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026a",
+      "published_at": "Mon, 06 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026b",
+      "title": "iPadOS 26.6 beta 4 (23G5057c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026b",
+      "published_at": "Mon, 06 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026c",
+      "title": "macOS 26.6 beta 4 (25G5057c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026c",
+      "published_at": "Mon, 06 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026d",
+      "title": "tvOS 26.6 beta 4 (23L5758b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026d",
+      "published_at": "Mon, 06 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026e",
+      "title": "visionOS 26.6 beta 4 (23O5757c)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026e",
+      "published_at": "Mon, 06 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026f",
+      "title": "watchOS 26.6 beta 4 (23U5054b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026f",
+      "published_at": "Mon, 06 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-07T02:51:02.754365",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
