@@ -1209,6 +1209,39 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07072026a",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07072026a",
+      "published_at": "Tue, 07 Jul 2026 14:00:00 PDT",
+      "fetched_at": "2026-07-08T02:27:54.012726",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07062026m",
+      "title": "Xcode 27 beta 3 (27A5218g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07062026m",
+      "published_at": "Mon, 06 Jul 2026 14:00:00 PDT",
+      "fetched_at": "2026-07-08T02:27:54.012726",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97322",
+      "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+      "published_at": "Tue, 07 Jul 2026 16:00:00 +0000",
+      "fetched_at": "2026-07-08T02:27:54.012726",
+      "tags": [],
+      "summary": "<p>New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/\">Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
