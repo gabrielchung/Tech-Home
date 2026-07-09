@@ -1242,6 +1242,50 @@
       "tags": [],
       "summary": "<p>New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/\">Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
+      "title": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
+      "published_at": "",
+      "fetched_at": "2026-07-09T02:43:37.176003",
+      "tags": [],
+      "summary": "On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97282",
+      "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+      "published_at": "Wed, 08 Jul 2026 21:11:56 +0000",
+      "fetched_at": "2026-07-09T02:43:37.176003",
+      "tags": [],
+      "summary": "<p>Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/\">Automating cross-repo documentation with GitHub Agentic Workflows</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97408",
+      "title": "GitHub availability report: June 2026",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
+      "published_at": "Wed, 08 Jul 2026 19:35:51 +0000",
+      "fetched_at": "2026-07-09T02:43:37.176003",
+      "tags": [],
+      "summary": "<p>In June, we experienced six incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-june-2026/\">GitHub availability report: June 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97349",
+      "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
+      "published_at": "Wed, 08 Jul 2026 16:00:00 +0000",
+      "fetched_at": "2026-07-09T02:43:37.176003",
+      "tags": [],
+      "summary": "<p>Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/\">How GitHub Copilot enables zero DNS configuration for GitHub Pages</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

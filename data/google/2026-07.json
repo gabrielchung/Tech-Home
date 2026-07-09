@@ -263,6 +263,17 @@
       "tags": [],
       "summary": "Distributed AI training is notoriously fragile because losing a single machine typically crashes the entire multi-node job, forcing a time-consuming, full-workload infrastructure restart. To address this, Google\u2019s JAX ecosystem utilizes elastic training via Pathways, which converts a hardware failure into a catchable Python exception so the running process can survive. When an unplanned failure occurs, the system automatically replaces only the broken worker, restores the last viable checkpoint from Cloud Storage, and resumes training in place\u2014minimizing total downtime to under two minutes without ever restarting the main controller process.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
+      "title": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
+      "published_at": "",
+      "fetched_at": "2026-07-09T02:43:37.176003",
+      "tags": [],
+      "summary": "On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...",
+      "notes": ""
     }
   ]
 }
