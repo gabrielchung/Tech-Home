@@ -274,6 +274,17 @@
       "tags": [],
       "summary": "On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+      "title": "LiteRT.js, Google's high performance Web AI Inference",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+      "published_at": "",
+      "fetched_at": "2026-07-10T02:46:51.218114",
+      "tags": [],
+      "summary": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI runtime to the web. Built for JavaScript developers, LiteRT.js delivers state-of-the-art ML model inference performance on WebGPU and upcoming WebNN, with a fallback to WebAssembly for CPU. This post provides a quick tour of LiteRT.js and gives web developers everything they need to get started.",
+      "notes": ""
     }
   ]
 }

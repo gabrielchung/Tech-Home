@@ -1286,6 +1286,28 @@
       "tags": [],
       "summary": "<p>Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/\">How GitHub Copilot enables zero DNS configuration for GitHub Pages</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+      "title": "LiteRT.js, Google's high performance Web AI Inference",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+      "published_at": "",
+      "fetched_at": "2026-07-10T02:46:51.218114",
+      "tags": [],
+      "summary": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI runtime to the web. Built for JavaScript developers, LiteRT.js delivers state-of-the-art ML model inference performance on WebGPU and upcoming WebNN, with a fallback to WebAssembly for CPU. This post provides a quick tour of LiteRT.js and gives web developers everything they need to get started.",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97373",
+      "title": "How GitHub gave every repository a durable owner",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+      "published_at": "Thu, 09 Jul 2026 16:29:37 +0000",
+      "fetched_at": "2026-07-10T02:46:51.218114",
+      "tags": [],
+      "summary": "<p>GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/\">How GitHub gave every repository a durable owner</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
