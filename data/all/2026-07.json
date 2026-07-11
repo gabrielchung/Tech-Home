@@ -1308,6 +1308,17 @@
       "tags": [],
       "summary": "<p>GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/\">How GitHub gave every repository a durable owner</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97467",
+      "title": "Better tools made Copilot code review worse. Here\u2019s how we actually improved it.",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+      "published_at": "Fri, 10 Jul 2026 15:57:47 +0000",
+      "fetched_at": "2026-07-11T02:26:00.644643",
+      "tags": [],
+      "summary": "<p>How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/\">Better tools made Copilot code review worse. Here&#8217;s how we actually improved it.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
