@@ -1319,6 +1319,94 @@
       "tags": [],
       "summary": "<p>How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/\">Better tools made Copilot code review worse. Here&#8217;s how we actually improved it.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07132026g",
+      "title": "iPadOS 27.0 beta 3 v.2 (24A5380l)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07132026g",
+      "published_at": "Mon, 13 Jul 2026 13:00:00 PDT",
+      "fetched_at": "2026-07-14T02:11:31.112406",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07132026h",
+      "title": "macOS 27.0 beta 3 v.2 (26A5378n)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07132026h",
+      "published_at": "Mon, 13 Jul 2026 13:00:00 PDT",
+      "fetched_at": "2026-07-14T02:11:31.112406",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07132026a",
+      "title": "iOS 26.6 beta 5 (23G5065a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07132026a",
+      "published_at": "Mon, 13 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-14T02:11:31.112406",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07132026b",
+      "title": "iPadOS 26.6 beta 5 (23G5065a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07132026b",
+      "published_at": "Mon, 13 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-14T02:11:31.112406",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07132026c",
+      "title": "macOS 26.6 beta 5 (25G5065a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07132026c",
+      "published_at": "Mon, 13 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-14T02:11:31.112406",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07132026d",
+      "title": "tvOS 26.6 beta 5 (23L5766a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07132026d",
+      "published_at": "Mon, 13 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-14T02:11:31.112406",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07132026e",
+      "title": "visionOS 26.6 beta 5 (23O5765a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07132026e",
+      "published_at": "Mon, 13 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-14T02:11:31.112406",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07132026f",
+      "title": "watchOS 26.6 beta 5 (23U5062b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07132026f",
+      "published_at": "Mon, 13 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-14T02:11:31.112406",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
