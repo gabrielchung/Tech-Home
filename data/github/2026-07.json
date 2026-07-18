@@ -208,6 +208,17 @@
       "tags": [],
       "summary": "<p>New to GitHub? This beginner's guide explains version control, repositories, and pull requests\u2014plus everything else you need to start working confidently on GitHub.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/\">GitHub for Beginners: Your roadmap to mastering the GitHub essentials</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97604",
+      "title": "The cost of saying yes has changed",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+      "published_at": "Fri, 17 Jul 2026 16:46:47 +0000",
+      "fetched_at": "2026-07-18T02:10:40.864049",
+      "tags": [],
+      "summary": "<p>The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era.</p>\n<p>The post <a href=\"https://github.blog/engineering/the-cost-of-saying-yes-has-changed/\">The cost of saying yes has changed</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
