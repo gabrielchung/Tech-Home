@@ -1495,6 +1495,171 @@
       "tags": [],
       "summary": "<p>The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era.</p>\n<p>The post <a href=\"https://github.blog/engineering/the-cost-of-saying-yes-has-changed/\">The cost of saying yes has changed</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
+      "title": "Run Ray on TPU, Part 1: The foundations",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
+      "published_at": "",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict networking requirement of keeping multi-host TPU \"slices\" together over their Inter-Chip Interconnect (ICI), the KubeRay Operator on GKE automatically provisions and labels the underlying hardware layout. Ray Core utilizes these labels via its slice_placement_group() primitive to atomically reserve complete slices, allowing developers to deploy jobs through KubeRay, Ray Train, or Ray Serve simply by declaring a hardware topology (like \"4x4\") without writing custom placement code.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026m",
+      "title": "Xcode 27 beta 4 (27A5228h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026m",
+      "published_at": "Mon, 20 Jul 2026 13:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026k",
+      "title": "visionOS 27.0 beta 4 (24M5326g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026k",
+      "published_at": "Mon, 20 Jul 2026 13:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026l",
+      "title": "watchOS 27.0 beta 4 (24R5325h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026l",
+      "published_at": "Mon, 20 Jul 2026 13:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026g",
+      "title": "iOS 27.0 beta 4 (24A5390f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026g",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026h",
+      "title": "iPadOS 27.0 beta 4 (24A5390f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026h",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026i",
+      "title": "macOS 27.0 beta 4 (26A5388g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026i",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026j",
+      "title": "tvOS 27.0 beta 4 (24J5325d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026j",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026a",
+      "title": "iOS 26.6 RC (23G71)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026a",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026b",
+      "title": "iPadOS 26.6 RC (23G71)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026b",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026c",
+      "title": "macOS 26.6 RC (25G70)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026c",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026d",
+      "title": "tvOS 26.6 RC (23L772)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026d",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026e",
+      "title": "visionOS 26.6 RC (23O770)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026e",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026f",
+      "title": "watchOS 26.6 RC (23U67)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026f",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97607",
+      "title": "$100 million for open source: A milestone built by the community",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+      "published_at": "Mon, 20 Jul 2026 16:00:00 +0000",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "<p>Celebrating $100 million contributed by the community to the people who build and sustain open source every day.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/\">$100 million for open source: A milestone built by the community</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

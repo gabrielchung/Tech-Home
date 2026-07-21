@@ -340,6 +340,17 @@
       "tags": [],
       "summary": "Google Cloud has partnered with Parallel Web Systems to natively integrate Parallel's search infrastructure as a web grounding provider on the Gemini Enterprise Agent Platform. This integration enables developers to anchor their AI agents in verifiable, real-time web results, significantly improving factual accuracy for complex enterprise workflows. Additionally, the partnership offers expanded architectural flexibility, allowing users to programmatically extract, permanently cache, and process web data alongside other large language models.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
+      "title": "Run Ray on TPU, Part 1: The foundations",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
+      "published_at": "",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict networking requirement of keeping multi-host TPU \"slices\" together over their Inter-Chip Interconnect (ICI), the KubeRay Operator on GKE automatically provisions and labels the underlying hardware layout. Ray Core utilizes these labels via its slice_placement_group() primitive to atomically reserve complete slices, allowing developers to deploy jobs through KubeRay, Ray Train, or Ray Serve simply by declaring a hardware topology (like \"4x4\") without writing custom placement code.",
+      "notes": ""
     }
   ]
 }

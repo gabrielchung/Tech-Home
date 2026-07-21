@@ -824,6 +824,149 @@
       "tags": [],
       "summary": "Download fileView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026m",
+      "title": "Xcode 27 beta 4 (27A5228h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026m",
+      "published_at": "Mon, 20 Jul 2026 13:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026k",
+      "title": "visionOS 27.0 beta 4 (24M5326g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026k",
+      "published_at": "Mon, 20 Jul 2026 13:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026l",
+      "title": "watchOS 27.0 beta 4 (24R5325h)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026l",
+      "published_at": "Mon, 20 Jul 2026 13:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026g",
+      "title": "iOS 27.0 beta 4 (24A5390f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026g",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026h",
+      "title": "iPadOS 27.0 beta 4 (24A5390f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026h",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026i",
+      "title": "macOS 27.0 beta 4 (26A5388g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026i",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026j",
+      "title": "tvOS 27.0 beta 4 (24J5325d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026j",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026a",
+      "title": "iOS 26.6 RC (23G71)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026a",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026b",
+      "title": "iPadOS 26.6 RC (23G71)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026b",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026c",
+      "title": "macOS 26.6 RC (25G70)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026c",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026d",
+      "title": "tvOS 26.6 RC (23L772)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026d",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026e",
+      "title": "visionOS 26.6 RC (23O770)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026e",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07202026f",
+      "title": "watchOS 26.6 RC (23U67)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07202026f",
+      "published_at": "Mon, 20 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-21T02:26:21.323792",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
