@@ -967,6 +967,28 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07212026a",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07212026a",
+      "published_at": "Tue, 21 Jul 2026 13:00:00 PDT",
+      "fetched_at": "2026-07-22T02:25:02.893249",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07212026b",
+      "title": "TestFlight 4.3",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07212026b",
+      "published_at": "Tue, 21 Jul 2026 13:00:00 PDT",
+      "fetched_at": "2026-07-22T02:25:02.893249",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
     }
   ]
 }

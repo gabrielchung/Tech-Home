@@ -1660,6 +1660,50 @@
       "tags": [],
       "summary": "<p>Celebrating $100 million contributed by the community to the people who build and sustain open source every day.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/\">$100 million for open source: A milestone built by the community</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+      "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+      "published_at": "",
+      "fetched_at": "2026-07-22T02:25:02.893249",
+      "tags": [],
+      "summary": "Tunix is Google\u2019s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly concurrent, asynchronous rollouts with a decoupled producer-consumer pipeline, ensuring the trainer is constantly fed even while agents wait on network I/O or environment steps. Additionally, Tunix provides plug-and-play abstractions and continuous macro-level profiling, allowing developers to easily integrate custom open-source environments and optimize complex distributed workflows without massive code rewrites.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07212026a",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07212026a",
+      "published_at": "Tue, 21 Jul 2026 13:00:00 PDT",
+      "fetched_at": "2026-07-22T02:25:02.893249",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07212026b",
+      "title": "TestFlight 4.3",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07212026b",
+      "published_at": "Tue, 21 Jul 2026 13:00:00 PDT",
+      "fetched_at": "2026-07-22T02:25:02.893249",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97611",
+      "title": "How to build interactive experiences with canvases",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+      "published_at": "Tue, 21 Jul 2026 16:00:00 +0000",
+      "fetched_at": "2026-07-22T02:25:02.893249",
+      "tags": [],
+      "summary": "<p>Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/\">How to build interactive experiences with canvases</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

@@ -351,6 +351,17 @@
       "tags": [],
       "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict networking requirement of keeping multi-host TPU \"slices\" together over their Inter-Chip Interconnect (ICI), the KubeRay Operator on GKE automatically provisions and labels the underlying hardware layout. Ray Core utilizes these labels via its slice_placement_group() primitive to atomically reserve complete slices, allowing developers to deploy jobs through KubeRay, Ray Train, or Ray Serve simply by declaring a hardware topology (like \"4x4\") without writing custom placement code.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+      "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+      "published_at": "",
+      "fetched_at": "2026-07-22T02:25:02.893249",
+      "tags": [],
+      "summary": "Tunix is Google\u2019s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly concurrent, asynchronous rollouts with a decoupled producer-consumer pipeline, ensuring the trainer is constantly fed even while agents wait on network I/O or environment steps. Additionally, Tunix provides plug-and-play abstractions and continuous macro-level profiling, allowing developers to easily integrate custom open-source environments and optimize complex distributed workflows without massive code rewrites.",
+      "notes": ""
     }
   ]
 }
