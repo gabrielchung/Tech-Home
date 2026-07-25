@@ -362,6 +362,17 @@
       "tags": [],
       "summary": "Tunix is Google\u2019s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly concurrent, asynchronous rollouts with a decoupled producer-consumer pipeline, ensuring the trainer is constantly fed even while agents wait on network I/O or environment steps. Additionally, Tunix provides plug-and-play abstractions and continuous macro-level profiling, allowing developers to easily integrate custom open-source environments and optimize complex distributed workflows without massive code rewrites.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
+      "title": "Run Ray on TPU, Part 2: Ray AI libraries",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
+      "published_at": "",
+      "fetched_at": "2026-07-25T02:25:24.811706",
+      "tags": [],
+      "summary": "This second installment explores how Ray\u2019s higher-level libraries\u2014Serve, Data, and Train\u2014abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to correctly gang-schedule large multi-host models, while Ray Data eliminates data-loading bottlenecks by feeding accelerators directly with native JAX batches. Finally, JaxTrainer streamlines distributed training across TPUs by automatically handling cross-slice coordination, checkpointing, and fault tolerance.",
+      "notes": ""
     }
   ]
 }

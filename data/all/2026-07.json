@@ -1737,6 +1737,17 @@
       "tags": [],
       "summary": "<p>A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/\">The case for a cooldown: Why Dependabot now waits before issuing version updates</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
+      "title": "Run Ray on TPU, Part 2: Ray AI libraries",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
+      "published_at": "",
+      "fetched_at": "2026-07-25T02:25:24.811706",
+      "tags": [],
+      "summary": "This second installment explores how Ray\u2019s higher-level libraries\u2014Serve, Data, and Train\u2014abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to correctly gang-schedule large multi-host models, while Ray Data eliminates data-loading bottlenecks by feeding accelerators directly with native JAX batches. Finally, JaxTrainer streamlines distributed training across TPUs by automatically handling cross-slice coordination, checkpointing, and fault tolerance.",
+      "notes": ""
     }
   ]
 }
