@@ -989,6 +989,72 @@
       "tags": [],
       "summary": "Download the appView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07272026a",
+      "title": "iOS 26.6 (23G71)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07272026a",
+      "published_at": "Mon, 27 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-28T02:20:14.190539",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07272026b",
+      "title": "iPadOS 26.6 (23G71)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07272026b",
+      "published_at": "Mon, 27 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-28T02:20:14.190539",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07272026c",
+      "title": "macOS 26.6 (25G72)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07272026c",
+      "published_at": "Mon, 27 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-28T02:20:14.190539",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07272026d",
+      "title": "tvOS 26.6 (23L773)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07272026d",
+      "published_at": "Mon, 27 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-28T02:20:14.190539",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07272026e",
+      "title": "visionOS 26.6 (23O770)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07272026e",
+      "published_at": "Mon, 27 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-28T02:20:14.190539",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=07272026f",
+      "title": "watchOS 26.6 (23U67)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=07272026f",
+      "published_at": "Mon, 27 Jul 2026 10:00:00 PDT",
+      "fetched_at": "2026-07-28T02:20:14.190539",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
