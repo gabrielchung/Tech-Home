@@ -373,6 +373,17 @@
       "tags": [],
       "summary": "This second installment explores how Ray\u2019s higher-level libraries\u2014Serve, Data, and Train\u2014abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to correctly gang-schedule large multi-host models, while Ray Data eliminates data-loading bottlenecks by feeding accelerators directly with native JAX batches. Finally, JaxTrainer streamlines distributed training across TPUs by automatically handling cross-slice coordination, checkpointing, and fault tolerance.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+      "title": "How to use Google microbenchmarks for evaluating TPU performance",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+      "published_at": "",
+      "fetched_at": "2026-07-31T02:34:12.147887",
+      "tags": [],
+      "summary": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By leveraging these benchmarks to establish a Roofline model, engineers can accurately diagnose whether their machine learning workloads are compute-, memory-, or network-bound. This empirical baseline directly guides targeted software optimizations\u2014such as kernel tuning, mesh sharding, and rematerialization\u2014to maximize hardware utilization for large-scale model deployments.",
+      "notes": ""
     }
   ]
 }
