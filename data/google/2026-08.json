@@ -1,0 +1,224 @@
+{
+  "articles": [
+    {
+      "id": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+      "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can evaluate agents using over 20 pre-built metrics, DeepMind-backed adaptive rubrics, or custom code-based and LLM-as-a-judge metrics stored in a centralized, versioned registry. The service integrates directly into existing workflows via the Agent Platform SDK, agents-cli, and ADK, offering built-in user and environment simulators to automate complex multi-turn testing and streamline CI pipelines.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
+      "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references into modular SKILL.md bundles where only the frontmatter metadata is initially exposed to the agent's system prompt. When a task matches the skill's description, Genkit's middleware dynamically loads the full instruction body and associated assets, ensuring the model accesses precise workflows exactly when needed.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+      "title": "How to use Google microbenchmarks for evaluating TPU performance",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By leveraging these benchmarks to establish a Roofline model, engineers can accurately diagnose whether their machine learning workloads are compute-, memory-, or network-bound. This empirical baseline directly guides targeted software optimizations\u2014such as kernel tuning, mesh sharding, and rematerialization\u2014to maximize hardware utilization for large-scale model deployments.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
+      "title": "Run Ray on TPU, Part 2: Ray AI libraries",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "This second installment explores how Ray\u2019s higher-level libraries\u2014Serve, Data, and Train\u2014abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to correctly gang-schedule large multi-host models, while Ray Data eliminates data-loading bottlenecks by feeding accelerators directly with native JAX batches. Finally, JaxTrainer streamlines distributed training across TPUs by automatically handling cross-slice coordination, checkpointing, and fault tolerance.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+      "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "Tunix is Google\u2019s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly concurrent, asynchronous rollouts with a decoupled producer-consumer pipeline, ensuring the trainer is constantly fed even while agents wait on network I/O or environment steps. Additionally, Tunix provides plug-and-play abstractions and continuous macro-level profiling, allowing developers to easily integrate custom open-source environments and optimize complex distributed workflows without massive code rewrites.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
+      "title": "Run Ray on TPU, Part 1: The foundations",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict networking requirement of keeping multi-host TPU \"slices\" together over their Inter-Chip Interconnect (ICI), the KubeRay Operator on GKE automatically provisions and labels the underlying hardware layout. Ray Core utilizes these labels via its slice_placement_group() primitive to atomically reserve complete slices, allowing developers to deploy jobs through KubeRay, Ray Train, or Ray Serve simply by declaring a hardware topology (like \"4x4\") without writing custom placement code.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
+      "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command sequences, developers can now chat naturally with their AI assistant while it dynamically manages persistent markdown artifacts (like spec.md and plan.md) in the background. This update eliminates workflow friction while ensuring your repository remains a version-controlled, single source of truth for your project's architecture and state across different AI tools.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+      "title": "Building scalable AI agents with modular prompt transpilation",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these modular \"skill files\" through a transpiler, developers can enforce static validation, catch missing dependencies at build time, and integrate prompt generation directly into their CI/CD pipelines. This deterministic approach prevents code drift and ultimately establishes a safe framework where agents can propose updates to their own logic via standard pull requests.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
+      "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "Google Cloud has partnered with Parallel Web Systems to natively integrate Parallel's search infrastructure as a web grounding provider on the Gemini Enterprise Agent Platform. This integration enables developers to anchor their AI agents in verifiable, real-time web results, significantly improving factual accuracy for complex enterprise workflows. Additionally, the partnership offers expanded architectural flexibility, allowing users to programmatically extract, permanently cache, and process web data alongside other large language models.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
+      "title": "Systems Engineering Playbook: Optimizing Qwen 3.5-397B MoE on Ironwood (TPU7x)",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "To serve the 397B-parameter Qwen 3.5 Mixture-of-Experts (MoE) model on Ironwood TPUs, engineers developed a modular JAX/Pallas optimization stack that achieved up to a 4.7x inference speedup for prefill-heavy workloads. The team bypassed severe hardware sharding constraints by deploying a hybrid Data Parallelism and Expert Parallelism (DP+EP) topology, paired with custom low-level communication fusions like a hierarchical reduce-scatter to optimize cross-device token routing. Finally, by executing hardware-aware custom kernels\u2014such as Batched Ragged Page Attention and a fully-fused Gated DeltaNet (GDN) block\u2014they successfully saturated HBM bandwidth and TensorCore MXUs to push system throughput near its theoretical roofline limits.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+      "title": "LiteRT.js, Google's high performance Web AI Inference",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI runtime to the web. Built for JavaScript developers, LiteRT.js delivers state-of-the-art ML model inference performance on WebGPU and upcoming WebNN, with a fallback to WebAssembly for CPU. This post provides a quick tour of LiteRT.js and gives web developers everything they need to get started.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
+      "title": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
+      "title": "We terminated a TPU mid-training and it recovered in seconds:  Introduction to elastic training with MaxText",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/we-terminated-a-tpu-mid-training-and-it-recovered-in-seconds-introduction-to-elastic-training-with-maxtext/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "Distributed AI training is notoriously fragile because losing a single machine typically crashes the entire multi-node job, forcing a time-consuming, full-workload infrastructure restart. To address this, Google\u2019s JAX ecosystem utilizes elastic training via Pathways, which converts a hardware failure into a catchable Python exception so the running process can survive. When an unplanned failure occurs, the system automatically replaces only the broken worker, restores the last viable checkpoint from Cloud Storage, and resumes training in place\u2014minimizing total downtime to under two minutes without ever restarting the main controller process.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+      "title": "Build agentic full-stack apps with Genkit",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "The open-source Genkit framework has introduced the Agents API, a full-stack tool designed to simplify the complex plumbing of conversational AI by packaging message history, tool loops, and streaming into a single interface. The API supports flexible, server- or client-managed state persistence\u2014allowing for advanced workflows like history branching, long-running detached tasks, and multi-agent coordination\u2014while seamlessly connecting backends to frontends via a unified wire protocol. Currently available in preview for TypeScript and Go, it also integrates with the Genkit Developer UI to allow developers to easily test, debug, and inspect agent snapshots without writing client code.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/why-we-built-adk-20/",
+      "title": "Why we built ADK 2.0",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/why-we-built-adk-20/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "Answering the questions of \"why we built ADK 2.0\".  This explains the rationale, some of the features, and why a developer should consider upgrading.  This will be published the day after ADK go 2.0 launches.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+      "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "The Google Cloud Workbench Notebooks extension for VS Code has officially launched, allowing developers to connect their local IDE to scalable, cloud-based Jupyter environments. This integration streamlines the machine learning lifecycle by eliminating context switching and providing direct access to high-performance Google Cloud infrastructure. To support transparency and community-driven innovation, the newly released extension is fully open-sourced and available on GitHub and the VS Code Marketplace.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+      "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "Building AI agents often leaves developers uncertain if prompt tweaks to fix single errors will accidentally cause widespread regressions in production. To bridge this gap, Google has introduced a new developer skill for coding agents that automates a five-stage evaluation flywheel: preparing data, running inference, grading with adaptive AutoRaters, analyzing failure clusters, and executing targeted optimizations. Running continuously against production traffic or on-demand via synthetic scenarios, this tool allows developers to describe testing goals in plain language while an independent evaluation service safely validates and counts actual performance improvements.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-adk-go-20/",
+      "title": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine, built-in human-in-the-loop, and dynamic orchestration",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-adk-go-20/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "The Agent Development Kit (ADK) for Go 2.0 has been released, introducing a first-class, graph-based workflow engine to help developers compose complex, multi-agent applications. This update adds built-in primitives for human-in-the-loop (HITL) orchestration, dynamic execution using plain Go code, and automated resilience features like exponential backoff retries. By unifying the execution model, both single-agent applications and intricate graphs now run on the same runtime, simplifying telemetry and state persistence.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+      "title": "Measuring What Matters with Jules",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "AI coding agents are rapidly shifting from reactive assistants that complete tasks when prompted to ...",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+      "title": "Build Cross-Language Multi-Agent Team with Google\u2019s Agent Development Kit and A2A",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
+      "published_at": "",
+      "fetched_at": "2026-08-01T02:32:44.503224",
+      "tags": [],
+      "summary": "How a Python agent and a Go agent collaborate on contract compliance using the Agent2Agent protocolY...",
+      "notes": ""
+    }
+  ]
+}
