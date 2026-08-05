@@ -1033,6 +1033,83 @@
       "tags": [],
       "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement application-level session tracking directly within the runtime to accurately measure the committed concurrent workload of active conversations. By feeding these precise session counts alongside standard CPU utilization metrics into a hybrid routing algorithm, infrastructure can effectively distribute stateful AI traffic and prevent individual backend bottlenecks.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
+      "title": "A unified API for AI model routing",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
+      "published_at": "",
+      "fetched_at": "2026-08-05T02:12:08.248760",
+      "tags": [],
+      "summary": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing open-source proxies. Developers can easily configure these routing rules directly within their OpenAPI 3.x specifications by mapping virtual model names to specific backend targets on a shared host. Once deployed, the Gateway acts as a serverless ingress layer that accepts standard OpenAI-compatible requests, automatically transcodes the payload to the native schema of the target model, and routes the traffic on the fly.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05262026c",
+      "title": "macOS 26.6 beta (25G5028f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05262026c",
+      "published_at": "Tue, 26 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-05T02:12:08.248760",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026b",
+      "title": "iPadOS 26.5 RC (23F75)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026b",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-05T02:12:08.248760",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026e",
+      "title": "visionOS 26.5 RC (23O471)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026e",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-05T02:12:08.248760",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=05042026g",
+      "title": "iOS 18.7.9 (22H355)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=05042026g",
+      "published_at": "Mon, 04 May 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-05T02:12:08.248760",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97698",
+      "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+      "published_at": "Tue, 04 Aug 2026 19:02:34 +0000",
+      "fetched_at": "2026-08-05T02:12:08.248760",
+      "tags": [],
+      "summary": "<p>Learn how to build tools to simplify how you work\u2014without writing a single line of code.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/\">How the GitHub legal team used Copilot CLI to streamline their workflows</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97894",
+      "title": "Turn one giant AI-generated pull request to a reviewable stack",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+      "published_at": "Tue, 04 Aug 2026 16:47:18 +0000",
+      "fetched_at": "2026-08-05T02:12:08.248760",
+      "tags": [],
+      "summary": "<p>Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests.</p>\n<p>The post <a href=\"https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/\">Turn one giant AI-generated pull request to a reviewable stack</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

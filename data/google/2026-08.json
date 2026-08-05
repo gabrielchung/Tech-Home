@@ -230,6 +230,17 @@
       "tags": [],
       "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement application-level session tracking directly within the runtime to accurately measure the committed concurrent workload of active conversations. By feeding these precise session counts alongside standard CPU utilization metrics into a hybrid routing algorithm, infrastructure can effectively distribute stateful AI traffic and prevent individual backend bottlenecks.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
+      "title": "A unified API for AI model routing",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
+      "published_at": "",
+      "fetched_at": "2026-08-05T02:12:08.248760",
+      "tags": [],
+      "summary": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing open-source proxies. Developers can easily configure these routing rules directly within their OpenAPI 3.x specifications by mapping virtual model names to specific backend targets on a shared host. Once deployed, the Gateway acts as a serverless ingress layer that accepts standard OpenAI-compatible requests, automatically transcodes the payload to the native schema of the target model, and routes the traffic on the fly.",
+      "notes": ""
     }
   ]
 }
