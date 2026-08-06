@@ -1110,6 +1110,17 @@
       "tags": [],
       "summary": "<p>Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests.</p>\n<p>The post <a href=\"https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/\">Turn one giant AI-generated pull request to a reviewable stack</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
+      "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
+      "published_at": "",
+      "fetched_at": "2026-08-06T02:20:48.536346",
+      "tags": [],
+      "summary": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load balancing. This architectural shift introduces standardized HTTP headers for efficient routing without deep packet inspection, caching controls, and Multi Round-Trip Requests (MRTR) to handle interactive and long-running tasks without blocking connections. Developers can immediately begin migrating their agentic applications to this highly scalable infrastructure using the newly available beta SDKs for Python, TypeScript, Go, and C#.",
+      "notes": ""
     }
   ]
 }
