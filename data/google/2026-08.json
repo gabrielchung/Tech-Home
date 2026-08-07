@@ -252,6 +252,17 @@
       "tags": [],
       "summary": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load balancing. This architectural shift introduces standardized HTTP headers for efficient routing without deep packet inspection, caching controls, and Multi Round-Trip Requests (MRTR) to handle interactive and long-running tasks without blocking connections. Developers can immediately begin migrating their agentic applications to this highly scalable infrastructure using the newly available beta SDKs for Python, TypeScript, Go, and C#.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
+      "title": "Agent Plugins package your skills, tools, and more",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
+      "published_at": "",
+      "fetched_at": "2026-08-07T02:31:23.648983",
+      "tags": [],
+      "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification\u2014backed by Google, Amazon, Microsoft, and others\u2014for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest (plugin.json) and utilizing a fixed directory layout, it eliminates the need for developers to maintain separate wrappers or configurations to support different AI coding agents and IDEs. Google has officially joined as a Core Maintainer and already rolled out support in the Agents CLI and Data Agent Kit, allowing developers to start building and distributing interoperable plugins today.",
+      "notes": ""
     }
   ]
 }

@@ -131,6 +131,28 @@
       "tags": [],
       "summary": "<p>Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests.</p>\n<p>The post <a href=\"https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/\">Turn one giant AI-generated pull request to a reviewable stack</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98013",
+      "title": "A guide to slash commands in the GitHub Copilot app",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+      "published_at": "Thu, 06 Aug 2026 19:49:34 +0000",
+      "fetched_at": "2026-08-07T02:31:23.648983",
+      "tags": [],
+      "summary": "<p>Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/\">A guide to slash commands in the GitHub Copilot app</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97978",
+      "title": "How we took malware advisories beyond npm",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+      "published_at": "Thu, 06 Aug 2026 16:51:12 +0000",
+      "fetched_at": "2026-08-07T02:31:23.648983",
+      "tags": [],
+      "summary": "<p>GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/\">How we took malware advisories beyond npm</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
