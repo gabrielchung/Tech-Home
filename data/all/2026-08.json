@@ -1154,6 +1154,149 @@
       "tags": [],
       "summary": "<p>GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/\">How we took malware advisories beyond npm</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08102026l",
+      "title": "Xcode 27 beta 5 (27A5237l)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08102026l",
+      "published_at": "Mon, 10 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08102026f",
+      "title": "iOS 27.0 beta 5 (24A5408d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08102026f",
+      "published_at": "Mon, 10 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08102026g",
+      "title": "iPadOS 27.0 beta 5 (24A5408d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08102026g",
+      "published_at": "Mon, 10 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08102026h",
+      "title": "macOS 27.0 beta 5 (26A5406e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08102026h",
+      "published_at": "Mon, 10 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08102026i",
+      "title": "tvOS 27.0 beta 5 (24J5346a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08102026i",
+      "published_at": "Mon, 10 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08102026j",
+      "title": "visionOS 27.0 beta 5 (24M5348b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08102026j",
+      "published_at": "Mon, 10 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08102026k",
+      "title": "watchOS 27.0 beta 5 (24R5347a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08102026k",
+      "published_at": "Mon, 10 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08102026a",
+      "title": "iOS 26.6.1 (23G82)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08102026a",
+      "published_at": "Mon, 10 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08102026b",
+      "title": "iPadOS 26.6.1 (23G82)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08102026b",
+      "published_at": "Mon, 10 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08102026c",
+      "title": "macOS 26.6.2 (25G82)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08102026c",
+      "published_at": "Mon, 10 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08102026d",
+      "title": "iOS 18.7.10 (22H373)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08102026d",
+      "published_at": "Mon, 10 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08102026e",
+      "title": "iPadOS 18.7.10 (22H373)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08102026e",
+      "published_at": "Mon, 10 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=97992",
+      "title": "Using the GitHub Copilot SDK for Java",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "published_at": "Mon, 10 Aug 2026 19:30:00 +0000",
+      "fetched_at": "2026-08-11T01:25:10.585333",
+      "tags": [],
+      "summary": "<p>Enterprise Java developers have a new superpower\u2014drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.</p>\n<p>The post <a href=\"https://github.blog/engineering/using-the-github-copilot-sdk-for-java/\">Using the GitHub Copilot SDK for Java</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
