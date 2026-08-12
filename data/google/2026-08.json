@@ -263,6 +263,28 @@
       "tags": [],
       "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification\u2014backed by Google, Amazon, Microsoft, and others\u2014for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest (plugin.json) and utilizing a fixed directory layout, it eliminates the need for developers to maintain separate wrappers or configurations to support different AI coding agents and IDEs. Google has officially joined as a Core Maintainer and already rolled out support in the Agents CLI and Data Agent Kit, allowing developers to start building and distributing interoperable plugins today.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+      "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+      "published_at": "",
+      "fetched_at": "2026-08-12T01:42:15.108908",
+      "tags": [],
+      "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4, enabling real-time local reasoning for robotics. Developers can quickly convert, quantize, and run these models using the lightweight LiteRT CLI tool. Support for Hailo AI accelerators is also coming very soon.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "published_at": "",
+      "fetched_at": "2026-08-12T01:42:15.108908",
+      "tags": [],
+      "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses this new paradigm by utilizing its strict compiler, integrated toolchain, and uncompromising readability to provide deterministic guardrails that help AI models self-correct and generate highly standardized code. By enforcing ecosystem-wide consistency and strict backward compatibility, the Go platform empowers engineering teams to efficiently verify, optimize, and maintain high-velocity, AI-generated output in production environments.",
+      "notes": ""
     }
   ]
 }

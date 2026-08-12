@@ -1297,6 +1297,50 @@
       "tags": [],
       "summary": "<p>Enterprise Java developers have a new superpower\u2014drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.</p>\n<p>The post <a href=\"https://github.blog/engineering/using-the-github-copilot-sdk-for-java/\">Using the GitHub Copilot SDK for Java</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+      "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+      "published_at": "",
+      "fetched_at": "2026-08-12T01:42:15.108908",
+      "tags": [],
+      "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4, enabling real-time local reasoning for robotics. Developers can quickly convert, quantize, and run these models using the lightweight LiteRT CLI tool. Support for Hailo AI accelerators is also coming very soon.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "published_at": "",
+      "fetched_at": "2026-08-12T01:42:15.108908",
+      "tags": [],
+      "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses this new paradigm by utilizing its strict compiler, integrated toolchain, and uncompromising readability to provide deterministic guardrails that help AI models self-correct and generate highly standardized code. By enforcing ecosystem-wide consistency and strict backward compatibility, the Go platform empowers engineering teams to efficiently verify, optimize, and maintain high-velocity, AI-generated output in production environments.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08112026a",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08112026a",
+      "published_at": "Tue, 11 Aug 2026 13:00:00 PDT",
+      "fetched_at": "2026-08-12T01:42:15.108908",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98090",
+      "title": "From coder to orchestrator: How agents shift the role of a developer",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
+      "published_at": "Tue, 11 Aug 2026 18:38:17 +0000",
+      "fetched_at": "2026-08-12T01:42:15.108908",
+      "tags": [],
+      "summary": "<p>Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/\">From coder to orchestrator: How agents shift the role of a developer</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
