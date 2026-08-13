@@ -1341,6 +1341,39 @@
       "tags": [],
       "summary": "<p>Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/\">From coder to orchestrator: How agents shift the role of a developer</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98241",
+      "title": "GitHub availability report: July 2026",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+      "published_at": "Wed, 12 Aug 2026 22:17:32 +0000",
+      "fetched_at": "2026-08-13T01:45:02.021391",
+      "tags": [],
+      "summary": "<p>In July, we experienced eight incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-july-2026/\">GitHub availability report: July 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98221",
+      "title": "Write your first prompt with the GitHub Copilot app",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+      "published_at": "Wed, 12 Aug 2026 19:00:00 +0000",
+      "fetched_at": "2026-08-13T01:45:02.021391",
+      "tags": [],
+      "summary": "<p>Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/\">Write your first prompt with the GitHub Copilot app</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98128",
+      "title": "Your contributors are AI-first now. Is your project?",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
+      "published_at": "Wed, 12 Aug 2026 18:00:08 +0000",
+      "fetched_at": "2026-08-13T01:45:02.021391",
+      "tags": [],
+      "summary": "<p>AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/\">Your contributors are AI-first now. Is your project?</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
