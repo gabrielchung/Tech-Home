@@ -1418,6 +1418,17 @@
       "tags": [],
       "summary": "<p>See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. </p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/\">What 50 open source projects taught us about security in the AI era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98252",
+      "title": "How to bring your software delivery workflow into GitHub with agent apps",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+      "published_at": "Fri, 14 Aug 2026 16:00:00 +0000",
+      "fetched_at": "2026-08-15T01:03:42.812549",
+      "tags": [],
+      "summary": "<p>See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC\u2013all without leaving GitHub. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/\">How to bring your software delivery workflow into GitHub with agent apps</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
