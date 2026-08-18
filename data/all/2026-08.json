@@ -1429,6 +1429,160 @@
       "tags": [],
       "summary": "<p>See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC\u2013all without leaving GitHub. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/\">How to bring your software delivery workflow into GitHub with agent apps</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
+      "title": "Build zero-trust AI agents with Google's Agent Development Kit",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
+      "published_at": "",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections and malicious execution, developers must implement hardware-backed cryptographic signatures for database writes, kernel-level sandboxing with gVisor for dynamic code, and deterministic semantic gateways for I/O validation. By enforcing these hard security boundaries at the infrastructure level, you can safely deploy multi-tool AI agents without risking unauthorized data manipulation or server compromise.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08172026a",
+      "title": "iOS 27.0 beta 6 (24A5418b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08172026a",
+      "published_at": "Mon, 17 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08172026b",
+      "title": "iPadOS 27.0 beta 6 (24A5418b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08172026b",
+      "published_at": "Mon, 17 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08172026c",
+      "title": "macOS 27.0 beta 6 (26A5416b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08172026c",
+      "published_at": "Mon, 17 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08172026d",
+      "title": "tvOS 27.0 beta 6 (24J5353b)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08172026d",
+      "published_at": "Mon, 17 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08172026e",
+      "title": "visionOS 27.0 beta 6 (24M5355a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08172026e",
+      "published_at": "Mon, 17 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08172026f",
+      "title": "watchOS 27.0 beta 6 (24R5353a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08172026f",
+      "published_at": "Mon, 17 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08172026g",
+      "title": "iOS 26.6.1 (23G83)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08172026g",
+      "published_at": "Mon, 17 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08172026h",
+      "title": "iPadOS 26.6.1 (23G83)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08172026h",
+      "published_at": "Mon, 17 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08172026i",
+      "title": "visionOS 26.6.1 (23O780)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08172026i",
+      "published_at": "Mon, 17 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08172026j",
+      "title": "macOS 26.6.2 (25G83)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08172026j",
+      "published_at": "Mon, 17 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08172026k",
+      "title": "iOS 18.7.10 (22H374)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08172026k",
+      "published_at": "Mon, 17 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08172026l",
+      "title": "iPadOS 18.7.10 (22H374)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08172026l",
+      "published_at": "Mon, 17 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98309",
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "published_at": "Mon, 17 Aug 2026 16:00:00 +0000",
+      "fetched_at": "2026-08-18T01:03:05.195630",
+      "tags": [],
+      "summary": "<p>Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows\u2014and why your workflow also deserves a canvas.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/\">How canvases make agentic workflows visible, steerable, and cost-efficient</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
