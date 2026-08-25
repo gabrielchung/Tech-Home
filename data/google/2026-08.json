@@ -318,6 +318,17 @@
       "tags": [],
       "summary": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections and malicious execution, developers must implement hardware-backed cryptographic signatures for database writes, kernel-level sandboxing with gVisor for dynamic code, and deterministic semantic gateways for I/O validation. By enforcing these hard security boundaries at the infrastructure level, you can safely deploy multi-tool AI agents without risking unauthorized data manipulation or server compromise.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
+      "title": "How to Evaluate Live & Voice Agents in ADK",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
+      "published_at": "",
+      "fetched_at": "2026-08-25T01:05:14.309241",
+      "tags": [],
+      "summary": "Moving live voice agents from demo to production requires rigorous, automated testing to handle the unpredictability of real multi-turn conversations. ADK now provides native live evaluation, allowing developers to test graph-based agent workflows against LLM-driven simulated users that generate actual audio via Gemini TTS. By defining evaluation scenarios and natural-language rubrics, you can automatically score audio responses and tool executions, inspect the resulting transcripts in ADK Web, or run the CLI directly in your CI/CD pipeline.",
+      "notes": ""
     }
   ]
 }

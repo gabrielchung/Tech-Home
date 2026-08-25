@@ -901,6 +901,72 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08242026a",
+      "title": "iOS 27.0 beta 7 (24A5424a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08242026a",
+      "published_at": "Mon, 24 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-25T01:05:14.309241",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08242026b",
+      "title": "iPadOS 27.0 beta 7 (24A5424a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08242026b",
+      "published_at": "Mon, 24 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-25T01:05:14.309241",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08242026c",
+      "title": "macOS 27.0 beta 7 (26A5421a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08242026c",
+      "published_at": "Mon, 24 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-25T01:05:14.309241",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08242026d",
+      "title": "tvOS 27.0 beta 7 (24J5358a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08242026d",
+      "published_at": "Mon, 24 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-25T01:05:14.309241",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08242026e",
+      "title": "visionOS 27.0 beta 7 (24M5359a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08242026e",
+      "published_at": "Mon, 24 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-25T01:05:14.309241",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08242026f",
+      "title": "watchOS 27.0 beta 7 (24R5358a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08242026f",
+      "published_at": "Mon, 24 Aug 2026 10:00:00 PDT",
+      "fetched_at": "2026-08-25T01:05:14.309241",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
