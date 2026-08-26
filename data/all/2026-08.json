@@ -1693,6 +1693,28 @@
       "tags": [],
       "summary": "<p>We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works.</p>\n<p>The post <a href=\"https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/\">Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=08252026a",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=08252026a",
+      "published_at": "Tue, 25 Aug 2026 14:00:00 PDT",
+      "fetched_at": "2026-08-26T01:07:14.258390",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98316",
+      "title": "How to evaluate LLMs before production",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "published_at": "Tue, 25 Aug 2026 21:35:11 +0000",
+      "fetched_at": "2026-08-26T01:07:14.258390",
+      "tags": [],
+      "summary": "<p>These are the lessons we learned evaluating LLMs for real-world secret scanning.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/\">How to evaluate LLMs before production</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
