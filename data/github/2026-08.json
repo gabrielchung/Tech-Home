@@ -296,6 +296,17 @@
       "tags": [],
       "summary": "<p>These are the lessons we learned evaluating LLMs for real-world secret scanning.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/\">How to evaluate LLMs before production</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98460",
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+      "published_at": "Wed, 26 Aug 2026 20:12:53 +0000",
+      "fetched_at": "2026-08-27T07:13:57.777173",
+      "tags": [],
+      "summary": "<p>Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/\">GitHub Copilot app for Beginners: Automate Dependabot pull request triage</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
