@@ -307,6 +307,17 @@
       "tags": [],
       "summary": "<p>Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/\">GitHub Copilot app for Beginners: Automate Dependabot pull request triage</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98468",
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+      "published_at": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "fetched_at": "2026-08-28T09:26:49.154861",
+      "tags": [],
+      "summary": "<p>OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/\">OpenClaw went viral. Meet the maintainers building and securing it.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
