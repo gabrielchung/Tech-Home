@@ -1759,6 +1759,28 @@
       "tags": [],
       "summary": "<p>OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/\">OpenClaw went viral. Meet the maintainers building and securing it.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=910",
+      "title": "Copy-on-Write performance and debugging",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/copy-on-write-performance-and-debugging/",
+      "published_at": "Tue, 14 May 2024 20:25:59 +0000",
+      "fetched_at": "2026-08-31T03:32:32.038668",
+      "tags": [],
+      "summary": "<p>This is a follow-up to our previous coverage of Dev Drive and copy-on-write (CoW) linking. See our previous articles from May 24, 2023, October 13, 2023, and November 2, 2023. Dev Drive was released in Windows 11 in October, 2023, and will be part of Windows Server 2025 this fall. Server 2025 and Windows 11 [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/copy-on-write-performance-and-debugging/\">Copy-on-Write performance and debugging</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=877",
+      "title": "How we built \u201cAsk Learn\u201d, the RAG-based knowledge service",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/",
+      "published_at": "Mon, 22 Apr 2024 18:41:48 +0000",
+      "fetched_at": "2026-08-31T03:32:32.038668",
+      "tags": [],
+      "summary": "<p>My name is Bob Tabor and I\u2019m a member of Microsoft\u2019s Skilling organization. We create documentation and training content about Azure, developer tooling and languages, AI, Windows and much more hosted at Microsoft Learn. Our organization also develops and maintains the content publishing platform, the content hosting platform, the interactivity, and popular sites like Microsoft [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/\">How we built &#8220;Ask Learn&#8221;, the RAG-based knowledge service</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
     }
   ]
 }
