@@ -1,0 +1,114 @@
+{
+  "articles": [
+    {
+      "id": "https://github.blog/?p=98468",
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+      "published_at": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "fetched_at": "2026-09-01T03:30:15.329357",
+      "tags": [],
+      "summary": "<p>OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/\">OpenClaw went viral. Meet the maintainers building and securing it.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98460",
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+      "published_at": "Wed, 26 Aug 2026 20:12:53 +0000",
+      "fetched_at": "2026-09-01T03:30:15.329357",
+      "tags": [],
+      "summary": "<p>Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/\">GitHub Copilot app for Beginners: Automate Dependabot pull request triage</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98316",
+      "title": "How to evaluate LLMs before production",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "published_at": "Tue, 25 Aug 2026 21:35:11 +0000",
+      "fetched_at": "2026-09-01T03:30:15.329357",
+      "tags": [],
+      "summary": "<p>These are the lessons we learned evaluating LLMs for real-world secret scanning.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/\">How to evaluate LLMs before production</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98354",
+      "title": "Your alt text passes automated checks. That doesn\u2019t mean it\u2019s any good.",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+      "published_at": "Mon, 24 Aug 2026 20:56:32 +0000",
+      "fetched_at": "2026-09-01T03:30:15.329357",
+      "tags": [],
+      "summary": "<p>We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works.</p>\n<p>The post <a href=\"https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/\">Your alt text passes automated checks. That doesn&#8217;t mean it&#8217;s any good.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98377",
+      "title": "The August 17 outage, and the work ahead",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "published_at": "Thu, 20 Aug 2026 18:36:11 +0000",
+      "fetched_at": "2026-09-01T03:30:15.329357",
+      "tags": [],
+      "summary": "<p>An update on the August 17 outage and the steps we're taking to improve reliability.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\">The August 17 outage, and the work ahead</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98348",
+      "title": "GitHub Copilot app for Beginners: Managing your work",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+      "published_at": "Wed, 19 Aug 2026 17:50:23 +0000",
+      "fetched_at": "2026-09-01T03:30:15.329357",
+      "tags": [],
+      "summary": "<p>If you\u2019re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/\">GitHub Copilot app for Beginners: Managing your work</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98309",
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "published_at": "Mon, 17 Aug 2026 16:00:00 +0000",
+      "fetched_at": "2026-09-01T03:30:15.329357",
+      "tags": [],
+      "summary": "<p>Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows\u2014and why your workflow also deserves a canvas.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/\">How canvases make agentic workflows visible, steerable, and cost-efficient</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98252",
+      "title": "How to bring your software delivery workflow into GitHub with agent apps",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+      "published_at": "Fri, 14 Aug 2026 16:00:00 +0000",
+      "fetched_at": "2026-09-01T03:30:15.329357",
+      "tags": [],
+      "summary": "<p>See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC\u2013all without leaving GitHub. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/\">How to bring your software delivery workflow into GitHub with agent apps</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98265",
+      "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+      "published_at": "Thu, 13 Aug 2026 19:00:00 +0000",
+      "fetched_at": "2026-09-01T03:30:15.329357",
+      "tags": [],
+      "summary": "<p>The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/\">Your guide to GitHub Universe 2026 is here: The schedule just launched!</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98152",
+      "title": "What 50 open source projects taught us about security in the AI era",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+      "published_at": "Thu, 13 Aug 2026 16:00:00 +0000",
+      "fetched_at": "2026-09-01T03:30:15.329357",
+      "tags": [],
+      "summary": "<p>See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. </p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/\">What 50 open source projects taught us about security in the AI era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    }
+  ]
+}
