@@ -1022,6 +1022,17 @@
       "tags": [],
       "summary": "<p>See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. </p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/\">What 50 open source projects taught us about security in the AI era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1012",
+      "title": "Managed DevOps Pools \u2013 The Origin Story",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/managed-devops-pools-the-origin-story/",
+      "published_at": "Thu, 18 Jul 2024 16:00:02 +0000",
+      "fetched_at": "2026-09-02T02:48:18.204060",
+      "tags": [],
+      "summary": "<p>Learn about how Microsoft's 1ES organization developed an internal service called \"1ES Hosted Pools\" to manage Microsoft's diverse Engineering system infrastructure and how it helped make significant improvements to productivity, cost savings, and security. This solution will soon be available as a third-party offering named \"Managed DevOps Pools\".</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/managed-devops-pools-the-origin-story/\">Managed DevOps Pools \u2013 The Origin Story</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
     }
   ]
 }

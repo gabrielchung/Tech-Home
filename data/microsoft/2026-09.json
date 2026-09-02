@@ -109,6 +109,17 @@
       "tags": [],
       "summary": "<p>My name is Bob Tabor and I\u2019m a member of Microsoft\u2019s Skilling organization. We create documentation and training content about Azure, developer tooling and languages, AI, Windows and much more hosted at Microsoft Learn. Our organization also develops and maintains the content publishing platform, the content hosting platform, the interactivity, and popular sites like Microsoft [&#8230;]</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/\">How we built &#8220;Ask Learn&#8221;, the RAG-based knowledge service</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://devblogs.microsoft.com/engineering-at-microsoft/?p=1012",
+      "title": "Managed DevOps Pools \u2013 The Origin Story",
+      "source": "Microsoft Engineering",
+      "url": "https://devblogs.microsoft.com/engineering-at-microsoft/managed-devops-pools-the-origin-story/",
+      "published_at": "Thu, 18 Jul 2024 16:00:02 +0000",
+      "fetched_at": "2026-09-02T02:48:18.204060",
+      "tags": [],
+      "summary": "<p>Learn about how Microsoft's 1ES organization developed an internal service called \"1ES Hosted Pools\" to manage Microsoft's diverse Engineering system infrastructure and how it helped make significant improvements to productivity, cost savings, and security. This solution will soon be available as a third-party offering named \"Managed DevOps Pools\".</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/managed-devops-pools-the-origin-story/\">Managed DevOps Pools \u2013 The Origin Story</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
+      "notes": ""
     }
   ]
 }
