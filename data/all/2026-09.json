@@ -1033,6 +1033,39 @@
       "tags": [],
       "summary": "<p>Learn about how Microsoft's 1ES organization developed an internal service called \"1ES Hosted Pools\" to manage Microsoft's diverse Engineering system infrastructure and how it helped make significant improvements to productivity, cost savings, and security. This solution will soon be available as a third-party offering named \"Managed DevOps Pools\".</p>\n<p>The post <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft/managed-devops-pools-the-origin-story/\">Managed DevOps Pools \u2013 The Origin Story</a> appeared first on <a href=\"https://devblogs.microsoft.com/engineering-at-microsoft\">Engineering@Microsoft</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
+      "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
+      "published_at": "",
+      "fetched_at": "2026-09-03T02:52:48.816165",
+      "tags": [],
+      "summary": "The recent Google for Startups AI Agents Challenge revealed that the most successful multi-agent systems rely on foundational software engineering patterns rather than just raw model power. Winning architectures consistently implemented bidirectional MCP for seamless inter-agent communication, async event buses for parallel execution, strict unified validation for model fallbacks, and tiered routing to minimize expensive inference calls. By prioritizing these structural practices over simple linear prompt chains, developers can build more resilient, low-latency, and cost-effective agentic workflows.",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98631",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing\u2026 oh my!",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "published_at": "Wed, 02 Sep 2026 21:00:00 +0000",
+      "fetched_at": "2026-09-03T02:52:48.816165",
+      "tags": [],
+      "summary": "<p>From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/\">Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my!</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98586",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "published_at": "Wed, 02 Sep 2026 18:00:00 +0000",
+      "fetched_at": "2026-09-03T02:52:48.816165",
+      "tags": [],
+      "summary": "<p>Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/\">How we make AI coding more cost efficient without sacrificing task quality</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

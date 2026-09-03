@@ -219,6 +219,17 @@
       "tags": [],
       "summary": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command sequences, developers can now chat naturally with their AI assistant while it dynamically manages persistent markdown artifacts (like spec.md and plan.md) in the background. This update eliminates workflow friction while ensuring your repository remains a version-controlled, single source of truth for your project's architecture and state across different AI tools.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
+      "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
+      "published_at": "",
+      "fetched_at": "2026-09-03T02:52:48.816165",
+      "tags": [],
+      "summary": "The recent Google for Startups AI Agents Challenge revealed that the most successful multi-agent systems rely on foundational software engineering patterns rather than just raw model power. Winning architectures consistently implemented bidirectional MCP for seamless inter-agent communication, async event buses for parallel execution, strict unified validation for model fallbacks, and tiered routing to minimize expensive inference calls. By prioritizing these structural practices over simple linear prompt chains, developers can build more resilient, low-latency, and cost-effective agentic workflows.",
+      "notes": ""
     }
   ]
 }

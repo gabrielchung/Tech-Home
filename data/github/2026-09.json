@@ -109,6 +109,28 @@
       "tags": [],
       "summary": "<p>See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. </p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/\">What 50 open source projects taught us about security in the AI era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98631",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing\u2026 oh my!",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "published_at": "Wed, 02 Sep 2026 21:00:00 +0000",
+      "fetched_at": "2026-09-03T02:52:48.816165",
+      "tags": [],
+      "summary": "<p>From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/\">Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my!</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98586",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "published_at": "Wed, 02 Sep 2026 18:00:00 +0000",
+      "fetched_at": "2026-09-03T02:52:48.816165",
+      "tags": [],
+      "summary": "<p>Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/\">How we make AI coding more cost efficient without sacrificing task quality</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
