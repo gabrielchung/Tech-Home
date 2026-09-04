@@ -1066,6 +1066,17 @@
       "tags": [],
       "summary": "<p>Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/\">How we make AI coding more cost efficient without sacrificing task quality</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98638",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "published_at": "Thu, 03 Sep 2026 16:00:00 +0000",
+      "fetched_at": "2026-09-04T02:51:37.891948",
+      "tags": [],
+      "summary": "<p>Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/\">GitHub Copilot app for Beginners: Run several agents at once</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
