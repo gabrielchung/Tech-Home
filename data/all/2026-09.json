@@ -1077,6 +1077,28 @@
       "tags": [],
       "summary": "<p>Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/\">GitHub Copilot app for Beginners: Run several agents at once</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
+      "title": "Driving Developer Excellence: Inside the Program Sprints",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
+      "published_at": "",
+      "fetched_at": "2026-09-05T02:53:41.627916",
+      "tags": [],
+      "summary": "The Gemini Enterprise Developer Experience (DevEx) program conducts ongoing sprint testing of end-to-end developer workflows to identify and rapidly resolve friction points without relying on internal shortcuts. This recent sprint focused on optimizing enterprise AI governance, including refining setup prerequisites, securing extension configurations, and clarifying policy enforcement mechanics to ensure a smoother, more reliable deployment. Developers can now leverage updated documentation and standardized code samples to improve their experience with Agent Gateway and Semantic Governance configurations.",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98615",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "published_at": "Fri, 04 Sep 2026 16:04:14 +0000",
+      "fetched_at": "2026-09-05T02:53:41.627916",
+      "tags": [],
+      "summary": "<p>In controlled offline evaluations, HydraFusion\u2019s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/\">Project HydraFusion: Frontier quality via multi-model orchestration</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
