@@ -153,6 +153,17 @@
       "tags": [],
       "summary": "<p>In controlled offline evaluations, HydraFusion\u2019s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/\">Project HydraFusion: Frontier quality via multi-model orchestration</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98774",
+      "title": "GitHub availability report: August 2026",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+      "published_at": "Thu, 10 Sep 2026 02:05:17 +0000",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "<p>In August, we experienced five incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-august-2026/\">GitHub availability report: August 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

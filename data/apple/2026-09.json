@@ -615,6 +615,127 @@
       "tags": [],
       "summary": "View downloads",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026i",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026i",
+      "published_at": "Wed, 09 Sep 2026 15:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026h",
+      "title": "Xcode 27 RC (27A266a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026h",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026a",
+      "title": "iOS 27.0 RC (24A435)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026a",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026b",
+      "title": "iPadOS 27.0 RC (24A435)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026b",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026c",
+      "title": "macOS 27.0 RC (26A428)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026c",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026d",
+      "title": "tvOS 27.0 RC (24J360)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026d",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026e",
+      "title": "visionOS 27.0 RC (24M362)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026e",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026f",
+      "title": "watchOS 27.0 RC (24R363)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026f",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026g",
+      "title": "iPadOS 26.7 (23H24)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026g",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02262026b",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02262026b",
+      "published_at": "Thu, 26 Feb 2026 12:00:00 PST",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02202026b",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02202026b",
+      "published_at": "Fri, 20 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
     }
   ]
 }

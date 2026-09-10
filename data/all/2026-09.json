@@ -1132,6 +1132,160 @@
       "tags": [],
       "summary": "View downloads",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
+      "title": "The Anatomy of Harness Engineering: How to Evaluate, Iterate, and Guard AI Coding Agents",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
+      "published_at": "",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "While end-to-end benchmarks like SWE-bench provide broad performance scores for AI agents, they are often expensive, slow, and lack the root-cause diagnostics needed to explain exactly where an agent's logic broke down. To solve this, developers should adopt behavioral evaluations\u2014fast, local, unit-style tests that assert on discrete intermediate actions, such as verifying specific tool calls or file modifications rather than final string equality. By building these inexpensive micro-checks alongside macro benchmarks, engineering teams can confidently iterate on system prompts and upgrade models without the risk of regressions.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
+      "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
+      "published_at": "",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "Google has officially released version 1.0 of the Agent Development Kit (ADK) for Kotlin, achieving full feature parity with the Python and Java ADK cores to enable idiomatic, multi-agent AI development. Built on Kotlin Multiplatform (KMP), the framework leverages Kotlin Symbol Processing (KSP) for zero-reflection, type-safe function calling, alongside advanced orchestration capabilities like human-in-the-loop workflows and context compaction. Additionally, the release introduces a robust suite of Android-first extensions, allowing mobile developers to integrate local models via LiteRT-LM, cloud reasoning through Firebase AI, session persistence using Room, and semantic memory powered by AppSearch.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026i",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026i",
+      "published_at": "Wed, 09 Sep 2026 15:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026h",
+      "title": "Xcode 27 RC (27A266a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026h",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026a",
+      "title": "iOS 27.0 RC (24A435)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026a",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026b",
+      "title": "iPadOS 27.0 RC (24A435)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026b",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026c",
+      "title": "macOS 27.0 RC (26A428)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026c",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026d",
+      "title": "tvOS 27.0 RC (24J360)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026d",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026e",
+      "title": "visionOS 27.0 RC (24M362)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026e",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026f",
+      "title": "watchOS 27.0 RC (24R363)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026f",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09092026g",
+      "title": "iPadOS 26.7 (23H24)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09092026g",
+      "published_at": "Wed, 09 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02262026b",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02262026b",
+      "published_at": "Thu, 26 Feb 2026 12:00:00 PST",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=02202026b",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=02202026b",
+      "published_at": "Fri, 20 Feb 2026 09:00:00 PST",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98774",
+      "title": "GitHub availability report: August 2026",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+      "published_at": "Thu, 10 Sep 2026 02:05:17 +0000",
+      "fetched_at": "2026-09-10T03:01:29.294885",
+      "tags": [],
+      "summary": "<p>In August, we experienced five incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-august-2026/\">GitHub availability report: August 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
