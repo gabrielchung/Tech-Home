@@ -1286,6 +1286,17 @@
       "tags": [],
       "summary": "<p>In August, we experienced five incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-august-2026/\">GitHub availability report: August 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98771",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "published_at": "Thu, 10 Sep 2026 21:31:19 +0000",
+      "fetched_at": "2026-09-11T02:56:48.364788",
+      "tags": [],
+      "summary": "<p>Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/\">GitHub Copilot app for Beginners: Using the diff, terminal, and browser</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
