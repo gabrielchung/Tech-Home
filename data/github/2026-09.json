@@ -175,6 +175,17 @@
       "tags": [],
       "summary": "<p>Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/\">GitHub Copilot app for Beginners: Using the diff, terminal, and browser</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98799",
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "published_at": "Fri, 11 Sep 2026 18:26:10 +0000",
+      "fetched_at": "2026-09-12T03:03:40.770305",
+      "tags": [],
+      "summary": "<p>If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/\">Marketing ops as code: Automating events from planning to follow-up on GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

@@ -263,6 +263,17 @@
       "tags": [],
       "summary": "Google has officially released version 1.0 of the Agent Development Kit (ADK) for Kotlin, achieving full feature parity with the Python and Java ADK cores to enable idiomatic, multi-agent AI development. Built on Kotlin Multiplatform (KMP), the framework leverages Kotlin Symbol Processing (KSP) for zero-reflection, type-safe function calling, alongside advanced orchestration capabilities like human-in-the-loop workflows and context compaction. Additionally, the release introduces a robust suite of Android-first extensions, allowing mobile developers to integrate local models via LiteRT-LM, cloud reasoning through Firebase AI, session persistence using Room, and semantic memory powered by AppSearch.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
+      "title": "Autonomous LLM post-training with Tunix on TPUs",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
+      "published_at": "",
+      "fetched_at": "2026-09-12T03:03:40.770305",
+      "tags": [],
+      "summary": "Imagine going to sleep after writing a single Markdown specification and waking up to find that an A...",
+      "notes": ""
     }
   ]
 }
