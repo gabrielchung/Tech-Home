@@ -1319,6 +1319,105 @@
       "tags": [],
       "summary": "<p>If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/\">Marketing ops as code: Automating events from planning to follow-up on GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09142026i",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09142026i",
+      "published_at": "Mon, 14 Sep 2026 11:30:00 PDT",
+      "fetched_at": "2026-09-15T03:20:12.230146",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09142026h",
+      "title": "Xcode 27 (27A266a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09142026h",
+      "published_at": "Mon, 14 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-15T03:20:12.230146",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09142026a",
+      "title": "iOS 27.0 (24A437)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09142026a",
+      "published_at": "Mon, 14 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-15T03:20:12.230146",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09142026b",
+      "title": "iPadOS 27.0 (24A437)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09142026b",
+      "published_at": "Mon, 14 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-15T03:20:12.230146",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09142026c",
+      "title": "macOS 27.0 (26A428)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09142026c",
+      "published_at": "Mon, 14 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-15T03:20:12.230146",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09142026d",
+      "title": "tvOS 27.0 (24J361)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09142026d",
+      "published_at": "Mon, 14 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-15T03:20:12.230146",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09142026e",
+      "title": "visionOS 27.0 (24M362)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09142026e",
+      "published_at": "Mon, 14 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-15T03:20:12.230146",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09142026f",
+      "title": "watchOS 27.0 (24R364)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09142026f",
+      "published_at": "Mon, 14 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-15T03:20:12.230146",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09112026a",
+      "title": "iOS 27.0 RC (24A437)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09112026a",
+      "published_at": "Fri, 11 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-15T03:20:12.230146",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
