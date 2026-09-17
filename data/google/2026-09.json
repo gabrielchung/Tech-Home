@@ -285,6 +285,17 @@
       "tags": [],
       "summary": "This blog post explores how to transition AI agents from static, build-time security controls to dynamic runtime governance using the Gemini Enterprise Agent Platform. It highlights three primary managed defenses: Model Armor for screening edge prompts, Semantic Governance Policies for evaluating tool intent against business rules, and Agent Anomaly Detection for catching multi-turn exploits. By shifting these capabilities to the platform level, security administrators can dynamically enforce policies and neutralize complex attacks without needing to modify or redeploy the agent's underlying code.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
+      "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
+      "published_at": "",
+      "fetched_at": "2026-09-17T03:22:17.125295",
+      "tags": [],
+      "summary": "Agent Anomaly Detection is a new, out-of-band oversight layer for the Gemini Enterprise Agent Platform that analyzes OpenTelemetry traces and tool calls to catch behavioral risks without adding runtime latency to live requests. It utilizes a multi-tiered detection pipeline\u2014combining lightweight statistical scanning with deep LLM-based reasoning\u2014to identify logical anomalies and policy violations grounded in the OWASP Agentic Top 10. Developers can triage these automated findings within Security Command Center or leverage the exposed API to programmatically block subsequent tool calls when an agent breaches defined risk thresholds.",
+      "notes": ""
     }
   ]
 }
