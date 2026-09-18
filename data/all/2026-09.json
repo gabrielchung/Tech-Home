@@ -1539,6 +1539,17 @@
       "tags": [],
       "summary": "<p>A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/\">Migrating the GitHub Copilot runtime to Rust, using Copilot</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
+      "title": "Why client SDK generation belongs in the open",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
+      "published_at": "",
+      "fetched_at": "2026-09-18T03:08:14.538736",
+      "tags": [],
+      "summary": "Google has partnered with Speakeasy to open-source their OpenAPI code generation suite under the AGPLv3 license, a strategic move prompted by the sudden shutdown of Google's previous proprietary SDK provider. The newly open-sourced suite equips developers with deterministic, multi-language SDK generators that natively support strict typing and SSE streaming, alongside tools for compiling agent-native CLIs and documentation MCP servers. Engineering teams can now safely integrate this robust tooling directly into their CI pipelines to automatically generate reliable client libraries for their own APIs, all while retaining complete licensing control over the output code.",
+      "notes": ""
     }
   ]
 }
