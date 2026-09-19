@@ -1550,6 +1550,39 @@
       "tags": [],
       "summary": "Google has partnered with Speakeasy to open-source their OpenAPI code generation suite under the AGPLv3 license, a strategic move prompted by the sudden shutdown of Google's previous proprietary SDK provider. The newly open-sourced suite equips developers with deterministic, multi-language SDK generators that natively support strict typing and SSE streaming, alongside tools for compiling agent-native CLIs and documentation MCP servers. Engineering teams can now safely integrate this robust tooling directly into their CI pipelines to automatically generate reliable client libraries for their own APIs, all while retaining complete licensing control over the output code.",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09182026b",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09182026b",
+      "published_at": "Fri, 18 Sep 2026 14:00:00 PDT",
+      "fetched_at": "2026-09-19T03:04:19.059916",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09182026a",
+      "title": "Xcode 27.1 beta (27A9269)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09182026a",
+      "published_at": "Fri, 18 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-19T03:04:19.059916",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98893",
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+      "published_at": "Fri, 18 Sep 2026 15:00:00 +0000",
+      "fetched_at": "2026-09-19T03:04:19.059916",
+      "tags": [],
+      "summary": "<p>We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/\">Should you read the code, is RAG dead, and did Skills kill MCP?</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
