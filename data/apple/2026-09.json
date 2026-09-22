@@ -945,6 +945,72 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09212026a",
+      "title": "iOS 27.2 beta 2 (24B5089g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09212026a",
+      "published_at": "Mon, 21 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-22T03:15:19.105934",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09212026b",
+      "title": "iPadOS 27.2 beta 2 (24B5089g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09212026b",
+      "published_at": "Mon, 21 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-22T03:15:19.105934",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09212026c",
+      "title": "macOS 27.2 beta 2 (26B5091g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09212026c",
+      "published_at": "Mon, 21 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-22T03:15:19.105934",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09212026d",
+      "title": "tvOS 27.2 beta 2 (24K5093g)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09212026d",
+      "published_at": "Mon, 21 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-22T03:15:19.105934",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09212026e",
+      "title": "visionOS 27.2 beta 2 (24N5093f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09212026e",
+      "published_at": "Mon, 21 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-22T03:15:19.105934",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09212026f",
+      "title": "watchOS 27.2 beta 2 (24S5091f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09212026f",
+      "published_at": "Mon, 21 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-22T03:15:19.105934",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
