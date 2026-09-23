@@ -1649,6 +1649,28 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
+      "title": "Colab is now part of your Google AI plan",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
+      "published_at": "",
+      "fetched_at": "2026-09-23T03:15:31.082885",
+      "tags": [],
+      "summary": "Unlock premium Google Colab compute with Google AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09222026a",
+      "title": "App Store Connect API 4.5",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09222026a",
+      "published_at": "Tue, 22 Sep 2026 16:00:00 PDT",
+      "fetched_at": "2026-09-23T03:15:31.082885",
+      "tags": [],
+      "summary": "Download fileView release notes",
+      "notes": ""
     }
   ]
 }
