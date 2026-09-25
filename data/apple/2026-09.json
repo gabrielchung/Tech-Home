@@ -1022,6 +1022,28 @@
       "tags": [],
       "summary": "Download fileView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09224026a",
+      "title": "TestFlight 4.4.0",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09224026a",
+      "published_at": "Thu, 24 Sep 2026 14:30:00 PDT",
+      "fetched_at": "2026-09-25T03:22:19.419824",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09223026a",
+      "title": "App Store Connect 3.3",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09223026a",
+      "published_at": "Wed, 23 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-25T03:22:19.419824",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
     }
   ]
 }

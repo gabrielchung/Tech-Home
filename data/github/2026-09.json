@@ -230,6 +230,28 @@
       "tags": [],
       "summary": "<p>New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.</p>\n<p>The post <a href=\"https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/\">Developers want more efficient software. Here\u2019s what over 1000 GitHub users told us they need.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98939",
+      "title": "When chat is the wrong UI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+      "published_at": "Thu, 24 Sep 2026 20:00:00 +0000",
+      "fetched_at": "2026-09-25T03:22:19.419824",
+      "tags": [],
+      "summary": "<p>What is a developer to do when they need something more tangible than a chat box? Enter canvases.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/\">When chat is the wrong UI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98465",
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "published_at": "Thu, 24 Sep 2026 18:26:12 +0000",
+      "fetched_at": "2026-09-25T03:22:19.419824",
+      "tags": [],
+      "summary": "<p>In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. </p>\n<p>The post <a href=\"https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/\">AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

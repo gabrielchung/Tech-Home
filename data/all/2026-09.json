@@ -1704,6 +1704,72 @@
       "tags": [],
       "summary": "<p>New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.</p>\n<p>The post <a href=\"https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/\">Developers want more efficient software. Here\u2019s what over 1000 GitHub users told us they need.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
+      "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
+      "published_at": "",
+      "fetched_at": "2026-09-25T03:22:19.419824",
+      "tags": [],
+      "summary": "Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific annotations (like x-google-api-management.mcp) to existing OpenAPI 3.x specifications, developers can instantly convert standard REST operations into discoverable, agent-ready tools. The gateway automatically transcodes incoming MCP JSON-RPC requests into REST calls, ensuring that your existing authentication, quotas, and logging policies apply seamlessly to agent traffic without requiring new infrastructure.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
+      "title": "Reproducing OLMo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
+      "published_at": "",
+      "fetched_at": "2026-09-25T03:22:19.419824",
+      "tags": [],
+      "summary": "The MaxText team successfully reproduced AI2\u2019s OLMo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, precisely matching the original PyTorch-on-GPU reference across pre-training and mid-training stages on all held-out evaluations. The implementation achieved up to 57.4% Model Flops Utilization (MFU) and demonstrated robust infrastructure portability by surviving mid-run cluster resizes and cross-generation TPU shifts without requiring recipe alterations. Crucially, the exercise proved the necessity of comprehensive held-out validation by catching a silent data-loader memorization bug that artificially depressed training loss and would have otherwise faked a performance win.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09224026a",
+      "title": "TestFlight 4.4.0",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09224026a",
+      "published_at": "Thu, 24 Sep 2026 14:30:00 PDT",
+      "fetched_at": "2026-09-25T03:22:19.419824",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09223026a",
+      "title": "App Store Connect 3.3",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09223026a",
+      "published_at": "Wed, 23 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-25T03:22:19.419824",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98939",
+      "title": "When chat is the wrong UI",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+      "published_at": "Thu, 24 Sep 2026 20:00:00 +0000",
+      "fetched_at": "2026-09-25T03:22:19.419824",
+      "tags": [],
+      "summary": "<p>What is a developer to do when they need something more tangible than a chat box? Enter canvases.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/\">When chat is the wrong UI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98465",
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "published_at": "Thu, 24 Sep 2026 18:26:12 +0000",
+      "fetched_at": "2026-09-25T03:22:19.419824",
+      "tags": [],
+      "summary": "<p>In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. </p>\n<p>The post <a href=\"https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/\">AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
