@@ -1792,6 +1792,116 @@
       "tags": [],
       "summary": "<p>How we fully migrated github.com away from CSS-in-JS.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/\">Improving site performance by shipping more CSS</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09282026h",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09282026h",
+      "published_at": "Mon, 28 Sep 2026 14:00:00 PDT",
+      "fetched_at": "2026-09-29T04:09:53.282238",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09282026e",
+      "title": "watchOS 27.0.1 (24R365)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09282026e",
+      "published_at": "Mon, 28 Sep 2026 13:00:00 PDT",
+      "fetched_at": "2026-09-29T04:09:53.282238",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09282026g",
+      "title": "Xcode 27.2 beta 2 (27B5028f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09282026g",
+      "published_at": "Mon, 28 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-29T04:09:53.282238",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09282026a",
+      "title": "iOS 27.0.1 (24A446)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09282026a",
+      "published_at": "Mon, 28 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-29T04:09:53.282238",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09282026b",
+      "title": "iPadOS 27.0.1 (24A446)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09282026b",
+      "published_at": "Mon, 28 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-29T04:09:53.282238",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09282026c",
+      "title": "macOS 27.0.1 (26A434)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09282026c",
+      "published_at": "Mon, 28 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-29T04:09:53.282238",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09282026d",
+      "title": "visionOS 27.0.1 (24M372)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09282026d",
+      "published_at": "Mon, 28 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-29T04:09:53.282238",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=09282026f",
+      "title": "iPadOS 26.7.1 (23H30)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=09282026f",
+      "published_at": "Mon, 28 Sep 2026 10:00:00 PDT",
+      "fetched_at": "2026-09-29T04:09:53.282238",
+      "tags": [],
+      "summary": "View downloads",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=98105",
+      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "published_at": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "fetched_at": "2026-09-29T04:09:53.282238",
+      "tags": [],
+      "summary": "<p>A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app.</p>\n<p>The post <a href=\"https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/\">How we found 24 Android vulnerabilities using our open source AI security agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=99087",
+      "title": "Highlights from Git 2.56",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+      "published_at": "Mon, 28 Sep 2026 17:23:33 +0000",
+      "fetched_at": "2026-09-29T04:09:53.282238",
+      "tags": [],
+      "summary": "<p>The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-56/\">Highlights from Git 2.56</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
