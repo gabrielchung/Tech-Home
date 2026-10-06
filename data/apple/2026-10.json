@@ -428,6 +428,83 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10052026a",
+      "title": "iOS 27.2 beta 3 (24B5099f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10052026a",
+      "published_at": "Mon, 05 Oct 2026 11:00:00 PDT",
+      "fetched_at": "2026-10-06T04:48:30.882602",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10052026b",
+      "title": "iPadOS 27.2 beta 3 (24B5099f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10052026b",
+      "published_at": "Mon, 05 Oct 2026 11:00:00 PDT",
+      "fetched_at": "2026-10-06T04:48:30.882602",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10052026c",
+      "title": "macOS 27.2 beta 3 (26B5101f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10052026c",
+      "published_at": "Mon, 05 Oct 2026 11:00:00 PDT",
+      "fetched_at": "2026-10-06T04:48:30.882602",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10052026d",
+      "title": "tvOS 27.2 beta 3 (24K5103f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10052026d",
+      "published_at": "Mon, 05 Oct 2026 11:00:00 PDT",
+      "fetched_at": "2026-10-06T04:48:30.882602",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10052026e",
+      "title": "visionOS 27.2 beta 3 (24N5103f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10052026e",
+      "published_at": "Mon, 05 Oct 2026 11:00:00 PDT",
+      "fetched_at": "2026-10-06T04:48:30.882602",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10052026f",
+      "title": "watchOS 27.2 beta 3 (24S5101f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10052026f",
+      "published_at": "Mon, 05 Oct 2026 11:00:00 PDT",
+      "fetched_at": "2026-10-06T04:48:30.882602",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10052026g",
+      "title": "Xcode 27.1 RC (27A9275)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10052026g",
+      "published_at": "Mon, 05 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-06T04:48:30.882602",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
