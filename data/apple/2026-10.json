@@ -505,6 +505,28 @@
       "tags": [],
       "summary": "View downloadsView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10062026a",
+      "title": "App Store Connect API 4.5.1",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10062026a",
+      "published_at": "Tue, 06 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-07T04:14:33.735775",
+      "tags": [],
+      "summary": "Download fileView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10052026h",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10052026h",
+      "published_at": "Mon, 05 Oct 2026 18:00:00 PDT",
+      "fetched_at": "2026-10-07T04:14:33.735775",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
     }
   ]
 }
