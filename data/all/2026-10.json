@@ -1033,6 +1033,28 @@
       "tags": [],
       "summary": "<p>We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/\">Building Git infrastructure for agent-scale development</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+      "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+      "published_at": "",
+      "fetched_at": "2026-10-08T04:26:51.994436",
+      "tags": [],
+      "summary": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date documentation across Firebase, Google Cloud, Android, and more. By using the official MCP server, developers can connect tools directly to Google\u2019s documentation corpus, ensuring that AI-generated code and guidance are based on authoritative, real-time context.",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=99310",
+      "title": "Secret protection must scale with software",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+      "published_at": "Wed, 07 Oct 2026 17:45:34 +0000",
+      "fetched_at": "2026-10-08T04:26:51.994436",
+      "tags": [],
+      "summary": "<p>Developers aren\u2019t becoming more careless; they\u2019re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/\">Secret protection must scale with software</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

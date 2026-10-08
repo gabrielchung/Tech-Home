@@ -241,6 +241,17 @@
       "tags": [],
       "summary": "EmbeddingGemma 2 is a compact, open-source multimodal embedding model that maps text, code, images, video, and audio into a unified 768-dimensional space. Developers can use the sentence-transformers library to selectively load modular modality encoders\u2014ranging from 270M to 740M parameters\u2014to optimize memory usage. Additionally, Matryoshka Representation Learning enables dynamic dimension truncation down to 128d, significantly reducing vector database storage requirements while maintaining high retrieval performance.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+      "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+      "published_at": "",
+      "fetched_at": "2026-10-08T04:26:51.994436",
+      "tags": [],
+      "summary": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date documentation across Firebase, Google Cloud, Android, and more. By using the official MCP server, developers can connect tools directly to Google\u2019s documentation corpus, ensuring that AI-generated code and guidance are based on authoritative, real-time context.",
+      "notes": ""
     }
   ]
 }
