@@ -164,6 +164,17 @@
       "tags": [],
       "summary": "<p>Developers aren\u2019t becoming more careless; they\u2019re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/\">Secret protection must scale with software</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=99392",
+      "title": "How one bug bounty researcher chooses the features they investigate",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "published_at": "Thu, 08 Oct 2026 17:02:52 +0000",
+      "fetched_at": "2026-10-09T04:30:37.588834",
+      "tags": [],
+      "summary": "<p>As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.</p>\n<p>The post <a href=\"https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/\">How one bug bounty researcher chooses the features they investigate</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
