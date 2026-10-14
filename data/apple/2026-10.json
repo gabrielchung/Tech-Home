@@ -527,6 +527,61 @@
       "tags": [],
       "summary": "View release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10132026a",
+      "title": "iOS 27.2 beta 4 (24B5110a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10132026a",
+      "published_at": "Tue, 13 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10132026b",
+      "title": "iPadOS 27.2 beta 4 (24B5110a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10132026b",
+      "published_at": "Tue, 13 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10132026c",
+      "title": "macOS 27.2 beta 4 (26B5112a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10132026c",
+      "published_at": "Tue, 13 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10132026d",
+      "title": "visionOS 27.2 beta 4 (24N5114a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10132026d",
+      "published_at": "Tue, 13 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10132026e",
+      "title": "watchOS 27.2 beta 4 (24S5112a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10132026e",
+      "published_at": "Tue, 13 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }

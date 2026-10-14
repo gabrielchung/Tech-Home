@@ -1110,6 +1110,94 @@
       "tags": [],
       "summary": "<p>Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/\">GitHub Copilot app for Beginners: How to teach Copilot about your codebase</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "title": "Gemini 4 Argon for Robotics",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "published_at": "",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning. Developers can access and integrate Argon across Google's developer platforms\u2014including Google AI Studio, the Gemini API, and Google Antigravity\u2014to build and test sophisticated robotic applications. By leveraging simulation tools like MuJoCo and code-as-policies, engineers can seamlessly transition from real-world data or sketches to physically verified robot control and self-improvement workflows.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
+      "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
+      "published_at": "",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source Python Agent Development Kit (ADK).",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10132026a",
+      "title": "iOS 27.2 beta 4 (24B5110a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10132026a",
+      "published_at": "Tue, 13 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10132026b",
+      "title": "iPadOS 27.2 beta 4 (24B5110a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10132026b",
+      "published_at": "Tue, 13 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10132026c",
+      "title": "macOS 27.2 beta 4 (26B5112a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10132026c",
+      "published_at": "Tue, 13 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10132026d",
+      "title": "visionOS 27.2 beta 4 (24N5114a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10132026d",
+      "published_at": "Tue, 13 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10132026e",
+      "title": "watchOS 27.2 beta 4 (24S5112a)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10132026e",
+      "published_at": "Tue, 13 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=99413",
+      "title": "GitHub\u2019s model for secret detection: Finding more secrets with less noise",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "published_at": "Tue, 13 Oct 2026 17:56:33 +0000",
+      "fetched_at": "2026-10-14T03:29:00.526090",
+      "tags": [],
+      "summary": "<p>GitHub\u2019s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/\">GitHub\u2019s model for secret detection: Finding more secrets with less noise</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
