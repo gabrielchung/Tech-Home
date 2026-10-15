@@ -1198,6 +1198,61 @@
       "tags": [],
       "summary": "<p>GitHub\u2019s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/\">GitHub\u2019s model for secret detection: Finding more secrets with less noise</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
+      "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
+      "published_at": "",
+      "fetched_at": "2026-10-15T03:08:13.011134",
+      "tags": [],
+      "summary": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and tool execution remain entirely inside your infrastructure while pulling configuration updates from the control plane. Developers can expose OpenAPI 3.0.x specifications as discoverable MCP tools, leverage existing security policies and API products, and trace end-to-end requests using W3C trace context headers.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10142026c",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10142026c",
+      "published_at": "Wed, 14 Oct 2026 14:00:00 PDT",
+      "fetched_at": "2026-10-15T03:08:13.011134",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10142026b",
+      "title": "Xcode 27.2 beta 3 (27B5038j)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10142026b",
+      "published_at": "Wed, 14 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-15T03:08:13.011134",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=99506",
+      "title": "GitHub availability report: September 2026",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "published_at": "Wed, 14 Oct 2026 20:01:35 +0000",
+      "fetched_at": "2026-10-15T03:08:13.011134",
+      "tags": [],
+      "summary": "<p>In September, we experienced two incidents that resulted in degraded performance across GitHub services.  </p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-september-2026/\">GitHub availability report: September 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=99364",
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "published_at": "Wed, 14 Oct 2026 19:11:33 +0000",
+      "fetched_at": "2026-10-15T03:08:13.011134",
+      "tags": [],
+      "summary": "<p>Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/\">From 2,500 requests to 24: Rebuilding star history without the stargazers</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
