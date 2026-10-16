@@ -307,6 +307,39 @@
       "tags": [],
       "summary": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and tool execution remain entirely inside your infrastructure while pulling configuration updates from the control plane. Developers can expose OpenAPI 3.0.x specifications as discoverable MCP tools, leverage existing security policies and API products, and trace end-to-end requests using W3C trace context headers.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
+      "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
+      "published_at": "",
+      "fetched_at": "2026-10-16T03:04:13.556458",
+      "tags": [],
+      "summary": "Google OAuth Platform now supports DPoP (Demonstrating Proof-of-Possession) to sender-constrain refresh tokens, neutralizing Infostealer malware and adversary-in-the-middle attacks. By cryptographically binding long-lived refresh tokens while maintaining short-lived access tokens as standard Bearer tokens, developers achieve robust credential security without incurring high-QPS API performance overhead. Additionally, developers integrating multi-agent or Model Context Protocol (MCP) workloads can use Google Cloud Secure Token Service (STS) to handle secure token delegation across agent chains.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+      "title": "Three layers, one repo: a tour of google/adk-recipes",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+      "published_at": "",
+      "fetched_at": "2026-10-16T03:04:13.556458",
+      "tags": [],
+      "summary": "The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers\u2014core/, plugins/, and contrib/\u2014serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such as retail product search and virtual try-on) directly into their coding assistants, and deploy production-ready services across multiple languages. This cohesive structure streamlines the entire workflow from initial scaffolding to full deployment on Google Cloud infrastructure.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+      "title": "Evaluating AI agents: moving past the vibe check",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+      "published_at": "",
+      "fetched_at": "2026-10-16T03:04:13.556458",
+      "tags": [],
+      "summary": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
+      "notes": ""
     }
   ]
 }
