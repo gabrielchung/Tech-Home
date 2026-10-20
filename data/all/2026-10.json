@@ -1319,6 +1319,116 @@
       "tags": [],
       "summary": "<p>Put native GitHub features to work to review outside collaborator access and archive stale repositories.</p>\n<p>The post <a href=\"https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/\">Staying Evergreen: How we automated secure access and repo hygiene in a shared org</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+      "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+      "published_at": "",
+      "fetched_at": "2026-10-20T03:20:30.596660",
+      "tags": [],
+      "summary": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress updates or background execution patterns to keep conversations fluid during long-running backend queries. Additionally, configuring response scheduling behaviors such as WHEN_IDLE, INTERRUPT, or SILENT gives developers precise control over when and how tool results are delivered into the conversation.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+      "title": "Native Model Authoring for Edge with LiteRT Tensor API",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+      "published_at": "",
+      "fetched_at": "2026-10-20T03:20:30.596660",
+      "tags": [],
+      "summary": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10192026g",
+      "title": "Xcode 27.2 RC (27B48)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10192026g",
+      "published_at": "Mon, 19 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-20T03:20:30.596660",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10192026a",
+      "title": "iOS 27.2 RC (24B115)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10192026a",
+      "published_at": "Mon, 19 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-20T03:20:30.596660",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10192026b",
+      "title": "iPadOS 27.2 RC (24B115)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10192026b",
+      "published_at": "Mon, 19 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-20T03:20:30.596660",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10192026c",
+      "title": "macOS 27.2 RC (26B118)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10192026c",
+      "published_at": "Mon, 19 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-20T03:20:30.596660",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10192026d",
+      "title": "tvOS 27.2 RC (24K120)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10192026d",
+      "published_at": "Mon, 19 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-20T03:20:30.596660",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10192026e",
+      "title": "visionOS 27.2 RC (24N118)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10192026e",
+      "published_at": "Mon, 19 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-20T03:20:30.596660",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10192026f",
+      "title": "watchOS 27.2 RC (24S116)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10192026f",
+      "published_at": "Mon, 19 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-20T03:20:30.596660",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=99556",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "published_at": "Mon, 19 Oct 2026 18:47:22 +0000",
+      "fetched_at": "2026-10-20T03:20:30.596660",
+      "tags": [],
+      "summary": "<p>Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/\">How to continue a GitHub Copilot app session in VS Code</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }

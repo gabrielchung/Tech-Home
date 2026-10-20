@@ -340,6 +340,28 @@
       "tags": [],
       "summary": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+      "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+      "published_at": "",
+      "fetched_at": "2026-10-20T03:20:30.596660",
+      "tags": [],
+      "summary": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress updates or background execution patterns to keep conversations fluid during long-running backend queries. Additionally, configuring response scheduling behaviors such as WHEN_IDLE, INTERRUPT, or SILENT gives developers precise control over when and how tool results are delivered into the conversation.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+      "title": "Native Model Authoring for Edge with LiteRT Tensor API",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+      "published_at": "",
+      "fetched_at": "2026-10-20T03:20:30.596660",
+      "tags": [],
+      "summary": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
+      "notes": ""
     }
   ]
 }
