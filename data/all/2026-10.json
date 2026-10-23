@@ -1517,6 +1517,50 @@
       "tags": [],
       "summary": "<p>We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/\">The bridge to agent-scale Git infrastructure</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+      "title": "Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
+      "published_at": "",
+      "fetched_at": "2026-10-23T03:19:59.415419",
+      "tags": [],
+      "summary": "API Gateway now supports real-time streaming\u2014including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding\u2014in Public Preview without requiring changes to your existing API specifications. This update allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+      "title": "Architecting Governed, Self-Evolving AI Agents on Google Cloud",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+      "published_at": "",
+      "fetched_at": "2026-10-23T03:19:59.415419",
+      "tags": [],
+      "summary": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization, and OPA) to build governed, self-evolving AI agents that remediate live production outages in 1.8 seconds.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10222026a",
+      "title": "TestFlight 4.4.1",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10222026a",
+      "published_at": "Thu, 22 Oct 2026 14:00:00 PDT",
+      "fetched_at": "2026-10-23T03:19:59.415419",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=99645",
+      "title": "How bug bounty sharpens one researcher\u2019s security skills",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "published_at": "Thu, 22 Oct 2026 17:21:30 +0000",
+      "fetched_at": "2026-10-23T03:19:59.415419",
+      "tags": [],
+      "summary": "<p>As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers.</p>\n<p>The post <a href=\"https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/\">How bug bounty sharpens one researcher\u2019s security skills</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
