@@ -714,6 +714,116 @@
       "tags": [],
       "summary": "Download the appView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10262026a",
+      "title": "iOS 27.2 (24B91020)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10262026a",
+      "published_at": "Mon, 26 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-27T03:39:30.300926",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10262026b",
+      "title": "iOS 27.2 (24B119)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10262026b",
+      "published_at": "Mon, 26 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-27T03:39:30.300926",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10262026c",
+      "title": "iPadOS 27.2 (24B119)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10262026c",
+      "published_at": "Mon, 26 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-27T03:39:30.300926",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10262026d",
+      "title": "macOS 27.2 (26B123)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10262026d",
+      "published_at": "Mon, 26 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-27T03:39:30.300926",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10262026e",
+      "title": "tvOS 27.2 (24K122)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10262026e",
+      "published_at": "Mon, 26 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-27T03:39:30.300926",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10262026f",
+      "title": "visionOS 27.2 (24N120)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10262026f",
+      "published_at": "Mon, 26 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-27T03:39:30.300926",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10262026g",
+      "title": "watchOS 27.2 (24S118)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10262026g",
+      "published_at": "Mon, 26 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-27T03:39:30.300926",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10262026h",
+      "title": "iPadOS 26.7.2 (23H128)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10262026h",
+      "published_at": "Mon, 26 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-27T03:39:30.300926",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10262026i",
+      "title": "iOS 18.7.11 (22H384)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10262026i",
+      "published_at": "Mon, 26 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-27T03:39:30.300926",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10262026j",
+      "title": "iPadOS 18.7.11 (22H384)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10262026j",
+      "published_at": "Mon, 26 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-27T03:39:30.300926",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }

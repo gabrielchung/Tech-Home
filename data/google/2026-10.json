@@ -439,6 +439,17 @@
       "tags": [],
       "summary": "Learn how Project Chrysalis combines Google Cloud's Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization, and OPA) to build governed, self-evolving AI agents that remediate live production outages in 1.8 seconds.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
+      "title": "Preview, edit, and collaborate on markdown (.md) files natively in Google Docs and Drive",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
+      "published_at": "",
+      "fetched_at": "2026-10-27T03:39:30.300926",
+      "tags": [],
+      "summary": "Google Workspace now offers native support for Markdown (.md) files, allowing developers and AI agents to seamlessly collaborate on documentation directly in Google Docs without manual file conversions. This integration preserves native file fidelity for use with Git repositories and developer tools while unlocking standard Docs features like line-level commenting, rendered Drive previews, and tracked version history.",
+      "notes": ""
     }
   ]
 }
