@@ -450,6 +450,28 @@
       "tags": [],
       "summary": "Google Workspace now offers native support for Markdown (.md) files, allowing developers and AI agents to seamlessly collaborate on documentation directly in Google Docs without manual file conversions. This integration preserves native file fidelity for use with Git repositories and developer tools while unlocking standard Docs features like line-level commenting, rendered Drive previews, and tracked version history.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/fast-reliable-a2ui/",
+      "title": "Fast, reliable A2UI, with swappable inference formats",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
+      "published_at": "",
+      "fetched_at": "2026-10-28T03:55:45.091076",
+      "tags": [],
+      "summary": "A2UI now supports swappable inference formats, introducing A2UI Express which uses up to 3x fewer tokens and cuts latency by compiling compact Python-style syntax into standard A2UI JSON via Agent SDKs. Developers can also use controlled generation with TypeSafe's Jev system-decision models to render known-shape screens in under 300 ms while smaller models stream text. These updates require no changes to frontend renderers or component catalogs, offering flexible performance levers for generative UI development across Python, TypeScript, and Dart.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
+      "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
+      "published_at": "",
+      "fetched_at": "2026-10-28T03:55:45.091076",
+      "tags": [],
+      "summary": "This document provides a publication template and metadata structure for a technical blog post focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks, and approval workflows required for publishing technical content through Google Developer Studio. The framework helps engineers organize their guides and solutions to effectively share AI-driven conversational interface designs with the developer community.",
+      "notes": ""
     }
   ]
 }
