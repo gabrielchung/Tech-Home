@@ -494,6 +494,17 @@
       "tags": [],
       "summary": "LiteRT in Google Play services now offers GPU inference powered by ML Drift, delivering about 1.4x faster performance alongside the new CompiledModel API. Switching from bundled binaries reduces app size by approximately 8 MB while enabling seamless, automatic runtime updates across billions of devices. Developers can easily adopt these updates by updating their dependencies and utilizing the new Android Studio LiteRT skill for automated migration.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+      "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
+      "published_at": "",
+      "fetched_at": "2026-10-30T04:19:03.926305",
+      "tags": [],
+      "summary": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
+      "notes": ""
     }
   ]
 }
