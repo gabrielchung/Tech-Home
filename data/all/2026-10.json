@@ -1759,6 +1759,39 @@
       "tags": [],
       "summary": "See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/devfest-is-back/",
+      "title": "DevFest is back!",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/devfest-is-back/",
+      "published_at": "",
+      "fetched_at": "2026-10-31T03:59:05.030007",
+      "tags": [],
+      "summary": "DevFest 2026 runs from October 1 to December 31, bringing together nearly a million developers across more than 800 global events centered on the agentic AI era. Under the theme \"Build, Secure, Scale,\" participants gain hands-on experience with Google\u2019s developer stack\u2014including Gemini, Google AI Studio, Google Antigravity, and Web MCP\u2014through live workshops and codelabs. The conference focuses on enabling developers to prototype rapidly, ensure secure and private deployments, and leverage production-ready infrastructure.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10302026a",
+      "title": "App Store Connect Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10302026a",
+      "published_at": "Fri, 30 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-31T03:59:05.030007",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=10292026a",
+      "title": "Xcode 27.2 (27B52)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=10292026a",
+      "published_at": "Thu, 29 Oct 2026 10:00:00 PDT",
+      "fetched_at": "2026-10-31T03:59:05.030007",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
