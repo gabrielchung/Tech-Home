@@ -1033,6 +1033,28 @@
       "tags": [],
       "summary": "<p>Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/\">Arnis turns any place on Earth into a Minecraft world</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11042026b",
+      "title": "App Store Connect API 4.6",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11042026b",
+      "published_at": "Wed, 04 Nov 2026 16:00:00 PST",
+      "fetched_at": "2026-11-05T05:01:29.753085",
+      "tags": [],
+      "summary": "Download fileView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11042026a",
+      "title": "App Store Connect 3.3.1",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11042026a",
+      "published_at": "Wed, 04 Nov 2026 09:00:00 PST",
+      "fetched_at": "2026-11-05T05:01:29.753085",
+      "tags": [],
+      "summary": "Download the appView release notes",
+      "notes": ""
     }
   ]
 }
