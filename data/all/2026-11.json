@@ -1055,6 +1055,28 @@
       "tags": [],
       "summary": "Download the appView release notes",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=100002",
+      "title": "Inside GitHub\u2019s new Git storage architecture",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "published_at": "Thu, 05 Nov 2026 20:23:21 +0000",
+      "fetched_at": "2026-11-06T05:01:14.699556",
+      "tags": [],
+      "summary": "<p>GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/\">Inside GitHub&#8217;s new Git storage architecture</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=99949",
+      "title": "Accessibility statements now have a home on GitHub",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+      "published_at": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "fetched_at": "2026-11-06T05:01:14.699556",
+      "tags": [],
+      "summary": "<p>GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/\">Accessibility statements now have a home on GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
