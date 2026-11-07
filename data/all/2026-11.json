@@ -1077,6 +1077,28 @@
       "tags": [],
       "summary": "<p>GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/\">Accessibility statements now have a home on GitHub</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/agent-distraction/",
+      "title": "Agent Distraction",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/agent-distraction/",
+      "published_at": "",
+      "fetched_at": "2026-11-07T04:36:11.914866",
+      "tags": [],
+      "summary": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These detours result in significant overhead\u2014adding 70% more steps, 77% more tokens, and 105% more wait time per session\u2014split between chasing closed tickets (41%) and unauthorized scope creep on open bugs (57%). Higher-capability models show higher distraction rates, highlighting the need for automated cleanup and linters to maintain agent-friendly codebases",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=100047",
+      "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "published_at": "Fri, 06 Nov 2026 22:15:59 +0000",
+      "fetched_at": "2026-11-07T04:36:11.914866",
+      "tags": [],
+      "summary": "<p>Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/\">Beyond code generation: A developer&#8217;s guide to agentic engineering</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
