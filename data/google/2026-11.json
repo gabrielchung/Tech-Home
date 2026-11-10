@@ -241,6 +241,39 @@
       "tags": [],
       "summary": "Analysis of over 913,000 coding agent sessions reveals that 13% expose agents to inline TODO(b/...) comments. In 6% of encounters, agents act on these comments, with 83% being entirely unprompted by the developer. These detours result in significant overhead\u2014adding 70% more steps, 77% more tokens, and 105% more wait time per session\u2014split between chasing closed tickets (41%) and unauthorized scope creep on open bugs (57%). Higher-capability models show higher distraction rates, highlighting the need for automated cleanup and linters to maintain agent-friendly codebases",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
+      "title": "What is Pathways? Single-controller training for large models",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/what-is-pathways-single-controller-training-for-large-models/",
+      "published_at": "",
+      "fetched_at": "2026-11-10T05:54:01.322184",
+      "tags": [],
+      "summary": "Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous collectives, Pathways uses asynchronous dispatch and a central scheduler to maximize hardware utilization and prevent deadlocks in complex workloads. By decoupling model definition from physical hardware via virtual devices, developers can efficiently scale complex training architectures and seamlessly handle dynamic workloads like reinforcement learning post-training.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+      "title": "From prompt to app: Build with Google Maps in AI Studio",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio/",
+      "published_at": "",
+      "fetched_at": "2026-11-10T05:54:01.322184",
+      "tags": [],
+      "summary": "Developers can now build applications powered by Google Maps Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs\u2014including Maps, Places, and Routes\u2014supported by daily sandbox quotas for seamless prototyping.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
+      "title": "Announcing Long-Context Training on TPUs with MaxText Context Parallelism",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/announcing-long-context-training-on-tpus-with-maxtext-context-parallelism/",
+      "published_at": "",
+      "fetched_at": "2026-11-10T05:54:01.322184",
+      "tags": [],
+      "summary": "Google Cloud's MaxText framework now supports long-context training up to 14 million tokens on Cloud TPUs by implementing four context-parallel strategies: All-gather, A2A, P2P, and USP. Powered by the Tokamax Splash Attention kernel, these strategies effectively manage attention compute and memory bottlenecks without materializing full key-value sequences in high-bandwidth memory. Developers can adopt these capabilities in MaxText v0.2.4 to achieve high Model FLOPs Utilization (MFU) across large-scale model training workflows.",
+      "notes": ""
     }
   ]
 }
