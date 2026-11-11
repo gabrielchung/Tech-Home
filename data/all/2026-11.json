@@ -1231,6 +1231,28 @@
       "tags": [],
       "summary": "View downloads",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
+      "title": "On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/on-device-speech-recognition-and-text-to-speech-in-google-ai-edge-gallery/",
+      "published_at": "",
+      "fetched_at": "2026-11-11T04:39:28.306790",
+      "tags": [],
+      "summary": "Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for optimized Android performance, or use MediaPipe Tasks and LiteRT for cross-platform open-weight model integration. This local pipeline seamlessly pairs lightweight speech models with on-device small language models like Gemini Nano and Gemma 4 to enable real-time streaming transcription and low-latency synthesis.",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=100077",
+      "title": "Git security vulnerabilities announced",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "published_at": "Tue, 10 Nov 2026 18:00:00 +0000",
+      "fetched_at": "2026-11-11T04:39:28.306790",
+      "tags": [],
+      "summary": "<p>Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/\">Git security vulnerabilities announced</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
