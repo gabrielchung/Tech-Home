@@ -703,6 +703,94 @@
       "tags": [],
       "summary": "View downloads",
       "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026h",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026h",
+      "published_at": "Mon, 16 Nov 2026 14:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026g",
+      "title": "Xcode 27.3 beta 2 (27C5035i)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026g",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026a",
+      "title": "iOS 27.3 beta 2 (24C5049d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026a",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026b",
+      "title": "iPadOS 27.3 beta 2 (24C5049d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026b",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026c",
+      "title": "macOS 27.3 beta 2 (26C5047e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026c",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026d",
+      "title": "tvOS 27.3 beta 2 (24K5298d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026d",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026e",
+      "title": "visionOS 27.3 beta 2 (24N5298d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026e",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026f",
+      "title": "watchOS 27.3 beta 2 (24S5296d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026f",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }

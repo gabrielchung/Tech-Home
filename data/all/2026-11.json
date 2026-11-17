@@ -1330,6 +1330,138 @@
       "tags": [],
       "summary": "View downloads",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/",
+      "title": "Unlocking Stable On-Policy RL on TPU with Bitwise-Zero Train\u2013Inference Mismatch",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/unlocking-stable-on-policy-rl-on-tpu-with-bitwise-zero-traininference-mismatch/",
+      "published_at": "",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "How we eliminated floating-point train\u2013inference logprob drift for on-policy LLM reinforcement learning across 64 Cloud TPU v5p chips using a generalizable four-part JAX and Pallas recipe in Tunix.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/tpu-model-design-considerations-and-optimization-guide/",
+      "title": "TPU Model Design Considerations and Optimization Guide",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/tpu-model-design-considerations-and-optimization-guide/",
+      "published_at": "",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "The newly launched AI-Hypercomputer/tpu-codesign guide provides hardware-grounded design rules to help developers maximize performance on TPUs for LLMs and Mixture-of-Experts (MoE) workloads. Key principles include aligning reduction and output dimensions to 256 for systolic arrays, adopting LatentMoE to compress routed token traffic, and mapping parallel axes directly onto physical links.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
+      "title": "Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/securing-your-agents-a-hands-on-guide-to-agent-anomaly-detection/",
+      "published_at": "",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "This guide walks developers through setting up Agent Anomaly Detection on the Gemini Enterprise Agent Platform to monitor AI agent telemetry and catch behavioral risks. It demonstrates how to deploy a sample customer support agent, trigger out-of-scope security findings, and configure proactive alerts using Cloud Monitoring and Security Command Center.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/",
+      "title": "Agents are sessions, not requests: size GKE node pools for AI agent sessions",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/agents-are-sessions-not-requests-size-gke-node-pools-for-ai-agent-sessions/",
+      "published_at": "",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "AI agent sessions remain active and idle for most of the workday, making traditional one-Pod-per-session allocations inefficient for cluster resources. By using open-source tools like Agent Substrate and AX on GKE, developers can park idle sessions in object storage to release compute resources while maintaining session state. This approach optimizes resource utilization and reduces Kubernetes node costs by up to 40%.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026h",
+      "title": "TestFlight Update",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026h",
+      "published_at": "Mon, 16 Nov 2026 14:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026g",
+      "title": "Xcode 27.3 beta 2 (27C5035i)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026g",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026a",
+      "title": "iOS 27.3 beta 2 (24C5049d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026a",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026b",
+      "title": "iPadOS 27.3 beta 2 (24C5049d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026b",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026c",
+      "title": "macOS 27.3 beta 2 (26C5047e)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026c",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026d",
+      "title": "tvOS 27.3 beta 2 (24K5298d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026d",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026e",
+      "title": "visionOS 27.3 beta 2 (24N5298d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026e",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11162026f",
+      "title": "watchOS 27.3 beta 2 (24S5296d)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11162026f",
+      "published_at": "Mon, 16 Nov 2026 10:00:00 PST",
+      "fetched_at": "2026-11-17T06:28:28.377355",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
     }
   ]
 }
