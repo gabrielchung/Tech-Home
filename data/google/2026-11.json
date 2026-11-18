@@ -362,6 +362,39 @@
       "tags": [],
       "summary": "AI agent sessions remain active and idle for most of the workday, making traditional one-Pod-per-session allocations inefficient for cluster resources. By using open-source tools like Agent Substrate and AX on GKE, developers can park idle sessions in object storage to release compute resources while maintaining session state. This approach optimizes resource utilization and reduces Kubernetes node costs by up to 40%.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
+      "title": "Accelerating development for massive Git repositories",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
+      "published_at": "",
+      "fetched_at": "2026-11-18T05:51:53.188938",
+      "tags": [],
+      "summary": "Meet Another Build File Service (ABFS), Google's open-source content-addressable filesystem and build cache that cuts Android checkouts to <8s and builds to ~2m.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+      "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+      "published_at": "",
+      "fetched_at": "2026-11-18T05:51:53.188938",
+      "tags": [],
+      "summary": "Google's Gemini 4 Hydrogen brings strong spatial and embodied reasoning capabilities to a fast, efficient model built specifically for robotics. To help developers put these capabilities to work, the new Robotics plugin for Google Antigravity transforms the platform into a comprehensive workbench supporting rapid hardware bring-up, MuJoCo simulation, and closed-loop control. Developers can leverage these tools to transition from an unboxed robot arm to a fully functional real-to-sim-to-real application in an afternoon using natural language prompts and day-one support in the google-genai SDKs.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+      "title": "Build full-stack Android apps with Gemini in Google AI Studio",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+      "published_at": "",
+      "fetched_at": "2026-11-18T05:51:53.188938",
+      "tags": [],
+      "summary": "Google AI Studio now lets developers build, test, and ship full-stack Kotlin Android apps from a single prompt\u2014complete with Cloud Firestore, Firebase Authentication, Firebase AI Logic, a faster HD emulator with audio, visual screenshot debugging, and direct publishing to your personal Google Play library.",
+      "notes": ""
     }
   ]
 }

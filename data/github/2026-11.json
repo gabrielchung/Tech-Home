@@ -197,6 +197,28 @@
       "tags": [],
       "summary": "<p>Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/\">Build once, run on any agent: A practical guide to agent skills</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
       "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=100215",
+      "title": "Maintainers don\u2019t need more AI bug reports. They need fixes.",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "published_at": "Tue, 17 Nov 2026 18:29:29 +0000",
+      "fetched_at": "2026-11-18T05:51:53.188938",
+      "tags": [],
+      "summary": "<p>In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/\">Maintainers don&#8217;t need more AI bug reports. They need fixes.\u00a0</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=100309",
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "published_at": "Tue, 17 Nov 2026 18:20:40 +0000",
+      "fetched_at": "2026-11-18T05:51:53.188938",
+      "tags": [],
+      "summary": "<p>Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.</p>\n<p>The post <a href=\"https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/\">Building the Agent Host Protocol for sessions that continue across devices</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
