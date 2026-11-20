@@ -395,6 +395,28 @@
       "tags": [],
       "summary": "Google AI Studio now lets developers build, test, and ship full-stack Kotlin Android apps from a single prompt\u2014complete with Cloud Firestore, Firebase Authentication, Firebase AI Logic, a faster HD emulator with audio, visual screenshot debugging, and direct publishing to your personal Google Play library.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+      "title": "Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+      "published_at": "",
+      "fetched_at": "2026-11-20T05:40:44.754906",
+      "tags": [],
+      "summary": "This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts, the approach significantly improves complex reasoning and tool compliance in interactive environments.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
+      "title": "Distributed LLM Training Across Metros: Streaming DiLoCo in MaxText",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
+      "published_at": "",
+      "fetched_at": "2026-11-20T05:40:44.754906",
+      "tags": [],
+      "summary": "Streaming DiLoCo in MaxText enables developers to efficiently train large language models across geographically distributed TPU slices by streaming parameter fragments instead of synchronizing full models at every step. This approach slashes cross-slice communication volume by over 60\u00d7 and eliminates network stalls, allowing seamless multi-datacenter scaling without degrading model convergence or quality.",
+      "notes": ""
     }
   ]
 }

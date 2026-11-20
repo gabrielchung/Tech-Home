@@ -1539,6 +1539,61 @@
       "tags": [],
       "summary": "View downloads",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+      "title": "Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/multi-turn-agentic-reinforcement-learning-with-tunix-and-gemma-4-on-google-tpus/",
+      "published_at": "",
+      "fetched_at": "2026-11-20T05:40:44.754906",
+      "tags": [],
+      "summary": "This post walks developers through training a multi-turn, tool-using LLM agent using Tunix and Gemma 4 on Cloud TPUs. By leveraging agentic Group Relative Policy Optimization (GRPO) and asynchronous vLLM rollouts, the approach significantly improves complex reasoning and tool compliance in interactive environments.",
+      "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
+      "title": "Distributed LLM Training Across Metros: Streaming DiLoCo in MaxText",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/distributed-llm-training-across-metros-streaming-diloco-in-maxtext/",
+      "published_at": "",
+      "fetched_at": "2026-11-20T05:40:44.754906",
+      "tags": [],
+      "summary": "Streaming DiLoCo in MaxText enables developers to efficiently train large language models across geographically distributed TPU slices by streaming parameter fragments instead of synchronizing full models at every step. This approach slashes cross-slice communication volume by over 60\u00d7 and eliminates network stalls, allowing seamless multi-datacenter scaling without degrading model convergence or quality.",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11192026a",
+      "title": "iOS 27.3 beta 2 v2 (24C5049f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11192026a",
+      "published_at": "Thu, 19 Nov 2026 13:00:00 PST",
+      "fetched_at": "2026-11-20T05:40:44.754906",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://developer.apple.com/news/releases/?id=11192026b",
+      "title": "iPadOS 27.3 beta 2 v2 (24C5049f)",
+      "source": "Apple Developer News",
+      "url": "https://developer.apple.com/news/releases/?id=11192026b",
+      "published_at": "Thu, 19 Nov 2026 13:00:00 PST",
+      "fetched_at": "2026-11-20T05:40:44.754906",
+      "tags": [],
+      "summary": "View downloadsView release notes",
+      "notes": ""
+    },
+    {
+      "id": "https://github.blog/?p=100161",
+      "title": "The best things in open source are built together",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+      "published_at": "Thu, 19 Nov 2026 16:00:00 +0000",
+      "fetched_at": "2026-11-20T05:40:44.754906",
+      "tags": [],
+      "summary": "<p>Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/\">The best things in open source are built together</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>",
+      "notes": ""
     }
   ]
 }
