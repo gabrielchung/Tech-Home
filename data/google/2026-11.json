@@ -472,6 +472,17 @@
       "tags": [],
       "summary": "Semantic governance policies protect AI agents from indirect prompt injection and intent hijacking by validating every proposed tool call against user intent and natural language constraints before execution. As demonstrated on the AgentDojo benchmark using a Gemini 2.5 Flash agent, this mechanism reduced attack success rates from 48.7% to 0.9% while maintaining high task utility. Developers can leverage these policies in preview within the Gemini platform via Agent Gateway to secure tool-use workflows.",
       "notes": ""
+    },
+    {
+      "id": "https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/",
+      "title": "From Files to Cited Answers in One API Call: Managed Ingestion and SearchDocuments in Agent Retrieval",
+      "source": "Google Developers",
+      "url": "https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/",
+      "published_at": "",
+      "fetched_at": "2026-11-25T06:56:45.019849",
+      "tags": [],
+      "summary": "Agent Retrieval in Vertex AI introduces managed ingestion and SearchDocuments to replace custom chunking and embedding pipelines. Developers can now import document and video files directly from Cloud Storage and query them with a single API call for cited page numbers and timestamped results. The feature supports hybrid retrieval, metadata filtering, reranking, and multimodal video audio search.",
+      "notes": ""
     }
   ]
 }
